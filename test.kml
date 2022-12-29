@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Тест</name>
+        <description />
+        <Style id="icon-1001-normal">
+            <IconStyle>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="icon-1001">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1001-normal</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="icon-503-009D57-normal">
+            <IconStyle>
+                <color>ff579d00</color>
+                <scale>1.1</scale>
+                <Icon>
+                    <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+                <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels" />
+            </IconStyle>
+            <LabelStyle>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="icon-503-009D57">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-503-009D57-normal</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="line-000000-1000-normal">
+            <LineStyle>
+                <color>ff000000</color>
+                <width></width>
+            </LineStyle>
+        </Style>
+        <StyleMap id="line-000000-1000">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#line-000000-1000-normal</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>
