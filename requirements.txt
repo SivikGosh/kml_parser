@@ -1,3 +1,6 @@
 fastkml==0.12
 flake8==5.0.4
 pykml==0.2.0
+beautifulsoup4==4.11.1
+lxml==4.9.2
+requests==2.28.1

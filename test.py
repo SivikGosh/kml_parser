@@ -1,17 +1,8 @@
-from fastkml import kml
-from pykml import parser
+from bs4 import BeautifulSoup
 
-with open('test.kml', 'rt', encoding="utf-8") as myfile:
-    doc = myfile.readline()
-    doc2 = myfile.readline()
-print(doc)
-print(doc2)
-# print(len(doc))
+with open('test.kml', 'r') as file:
+    soup = BeautifulSoup(file, 'xml')
 
-# k = kml.KML()
+styles = soup.find_all('Style')
 
-# k.from_string(doc)
-
-# features = list(k.features())
-# features[0].features()
-# f2 = list(features[0].features())
+print(styles[0])
