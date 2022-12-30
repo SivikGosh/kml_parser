@@ -1,7 +1,17 @@
 from fastkml import kml
-import pprint
+from pykml import parser
 
-k = kml.KML()
-folder = kml.Folder()
+with open('test.kml', 'rt', encoding="utf-8") as myfile:
+    doc = myfile.readline()
+    doc2 = myfile.readline()
+print(doc)
+print(doc2)
+# print(len(doc))
 
-pprint(k)
+# k = kml.KML()
+
+# k.from_string(doc)
+
+# features = list(k.features())
+# features[0].features()
+# f2 = list(features[0].features())

@@ -51,5 +51,77 @@
                 <styleUrl>#line-000000-1000-normal</styleUrl>
             </Pair>
         </StyleMap>
+        <Folder>
+            <name>Любтелемонтаж</name>
+            <Placemark>
+                <name>Заречная д.31 к.1</name>
+                <description>Любтелемонтаж</description>
+                <styleUrl>#icon-1001</styleUrl>
+                <Point>
+                    <coordinates>37.9693925,55.695014,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>ТК-16 (Варшавское ш. д. 62, к. 2) - ТК-166 (Варшавское ш., д. 108, к. 1)</name>
+                <description>ОК-96</description>
+                <styleUrl>#line-000000-1000</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>
+                        37.6191415,55.6614661,0
+                        37.6200202,55.6614647,0
+                        37.620039,55.6604616,0
+                        37.6200417,55.660395,0
+                        37.6200003,55.6589861,0
+                        37.6200164,55.6566226,0
+                        37.6200647,55.6560809,0
+                        37.6190562,55.6560657,0
+                        37.6190777,55.6550822,0
+                        37.6190669,55.654268,0
+                        37.6190723,55.6540622,0
+                        37.6188899,55.6535386,0
+                        37.6190562,55.6535386,0
+                        37.6190884,55.6528909,0
+                        37.6190991,55.6519316,0
+                        37.6190186,55.6515987,0
+                        37.6190669,55.6504031,0
+                        37.619103,55.6497534,0
+                        37.6190387,55.6486698,0
+                        37.6190816,55.6476708,0
+                        37.6190172,55.6467082,0
+                        37.6191996,55.6466114,0
+                        37.6192103,55.6456306,0
+                        37.6190923,55.6455519,0
+                        37.6191191,55.6444439,0
+                        37.6191326,55.6441427,0
+                        37.6190145,55.6440246,0
+                        37.6188214,55.6437355,0
+                        37.6189984,55.6437325,0
+                        37.6189448,55.6433268,0
+                        37.619037,55.6429638,0
+                        37.6190477,55.6429305,0
+                        37.6192784,55.642938,0
+                        37.6192904,55.6429663,0
+                    </coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Серверная . канал для мегафон </name>
+                <description>
+                    <![CDATA[<img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/pf8v3r81e2jmj2l2g1uddcklt0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ngWMFxH0t2sy2icDESvymOuNxFTQXayISThAWCl9c3QrprLTeuUm1h5XuLjtu0EEvaseCo3rUGOhLMRaiZUWqt1-SJWQ7XoPvbW9nC3ySTyBMb63zmyKIc9PxR3JvB-6e-54qWcZdydPFAHVxEzysvR2FFok56ASSgjADbUxg7kmuS6PInzp5MTZ9WcaNUjQ?session=0&fife" height="200" width="auto" /><br><br>CWDM 1370 и 1450 до Авиател          Расстояние до тк 13в  1179м ( прямая муфта по дороге на 444м]]>
+                </description>
+                <styleUrl>#icon-503-009D57</styleUrl>
+                <ExtendedData>
+                    <Data name="gx_media_links">
+                        <value>
+                            <![CDATA[https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/pf8v3r81e2jmj2l2g1uddcklt0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ngWMFxH0t2sy2icDESvymOuNxFTQXayISThAWCl9c3QrprLTeuUm1h5XuLjtu0EEvaseCo3rUGOhLMRaiZUWqt1-SJWQ7XoPvbW9nC3ySTyBMb63zmyKIc9PxR3JvB-6e-54qWcZdydPFAHVxEzysvR2FFok56ASSgjADbUxg7kmuS6PInzp5MTZ9WcaNUjQ?session=0&fife]]>
+                        </value>
+                    </Data>
+                </ExtendedData>
+                <Point>
+                    <coordinates>37.6219136,55.7730183,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
     </Document>
 </kml>
