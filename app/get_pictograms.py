@@ -8,20 +8,21 @@ from progress.bar import PixelBar
 
 def open_input_file():
     base_dir = os.path.dirname(__file__)
-    input_file = input('Введите название файла (без расширения):')
-    with open(f'{base_dir}/{input_file}.kml', encoding='utf-8') as file:
+    input_file_name = input('Введите название файла (без расширения):')
+    with open(f'{base_dir}/{input_file_name}.kml', encoding='utf-8') as file:
         soup = BeautifulSoup(file, 'xml')
-    return base_dir, input_file, soup
+    return base_dir, input_file_name, soup
 
 
 def get_icon_urls(soup):
-    urls = set()
-    bar = PixelBar(max=len(soup.find_all('href')))
-    for i in range(len(soup.find_all('href'))):
-        urls.add(soup.find_all('href')[i].string)
+    output_url_list = set()
+    href_amount = soup.find_all('href')
+    bar = PixelBar(max=len(href_amount))
+    for href in href_amount:
+        output_url_list.add(href.text)
         bar.next()
     bar.finish()
-    return list(urls)
+    return list(output_url_list)
 
 
 def download_icons(urls):

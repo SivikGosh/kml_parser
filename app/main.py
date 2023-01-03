@@ -4,6 +4,7 @@ from fastkml import kml, styles
 from get_pictograms import open_input_file
 from progress.bar import PixelBar
 import re
+from datetime import datetime
 
 
 def get_unique_styles(folder):
@@ -20,17 +21,31 @@ def get_unique_styles(folder):
     return list(styles)
 
 
-def get_style_objects(soup, placemark_style):
+def get_style_objects(soup, placemark_style, dir):
     style_list = []
-    for i in range(len(soup.find_all(id=re.findall('[a-z-]+', placemark_style)))):
-        j = styles.Style(id=soup.find_all(id=re.findall('[a-z-]+', placemark_style))[i]['id'])
-        style_list.append(j)
+    styles_amount = soup.find_all('Style')
+    len_styles_amount = len(styles_amount)
+    bar = PixelBar(max=len_styles_amount)
+
+    for i in range(len_styles_amount):
+        style_id = styles_amount[i]['id']
+        if placemark_style in style_id:
+            j = styles.Style(id=style_id)
+            if styles_amount[i].find('IconStyle'):
+                icon_style = styles.IconStyle(icon_href='app/pictograms/503-wht-blank_maps.png')
+                icon_style.scale = styles_amount[i].find('scale').text
+                j.append_style(icon_style)
+            style_list.append(j)
+        bar.next()
+    bar.finish()
     return style_list
 
 
 if __name__ == '__main__':
     base_dir, input_file, soup = open_input_file()
     folder_list = soup.find_all('Folder')
+
+    start = datetime.now()
 
     os.chdir(base_dir)
     for folder in folder_list:
@@ -39,7 +54,7 @@ if __name__ == '__main__':
         unique_styles_placemarks = get_unique_styles(folder)
         for style in unique_styles_placemarks:
             kml_file = kml.KML()
-            stl = get_style_objects(soup, style)
+            stl = get_style_objects(soup, style, base_dir)
             doc = kml.Document(
                 name=style,
                 description=folder.find('name').text,
