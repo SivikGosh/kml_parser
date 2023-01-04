@@ -10,13 +10,11 @@ from bs4 import CData
 
 def get_unique_styles(folder):
     styles = set()
-    bar = PixelBar(max=len(folder.find_all('Placemark')))
-    for i in range(len(folder.find_all('Placemark'))):
-        styles.add(
-            re.search(
-                '[A-Za-z-0-9]+',
-                folder.find_all('Placemark')[i].find('styleUrl').text).group(0)
-        )
+    all_placemarks = folder.find_all('Placemark')
+    bar = PixelBar(max=len(all_placemarks))
+    for placemark in all_placemarks:
+        style_url = placemark.find('styleUrl').text
+        styles.add(re.search('[A-Za-z-0-9]+', style_url).group(0))
         bar.next()
     bar.finish()
     return list(styles)
