@@ -2,7 +2,7 @@ import os
 import re
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, CData
 from progress.bar import PixelBar
 
 
@@ -39,9 +39,11 @@ def download_icons(urls):
 
 if __name__ == '__main__':
     base_dir, input_file, soup = open_input_file()
-    urls = get_icon_urls(soup)
-    os.chdir(base_dir)
-    if not os.path.isdir('pictograms'):
-        os.mkdir('pictograms')
-    os.chdir(f'{base_dir}/pictograms')
-    download_icons(urls)
+    c_data = CData('<title>Hello</title>')
+    print('<title>Hello</title>')
+    # urls = get_icon_urls(soup)
+    # os.chdir(base_dir)
+    # if not os.path.isdir('pictograms'):
+    #     os.mkdir('pictograms')
+    # os.chdir(f'{base_dir}/pictograms')
+    # download_icons(urls)

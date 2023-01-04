@@ -12,6 +12,7 @@
             </IconStyle>
             <LabelStyle>
                 <scale>0</scale>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
             </LabelStyle>
         </Style>
         <StyleMap id="icon-1001">
@@ -32,6 +33,9 @@
             <LabelStyle>
                 <scale>0</scale>
             </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
         </Style>
         <StyleMap id="icon-503-009D57">
             <Pair>
