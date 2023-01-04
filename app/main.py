@@ -20,38 +20,44 @@ def get_unique_styles(folder):
     return list(styles)
 
 
+def create_icon_style_obj(folder, style, dir):
+    folder_name = folder.find("name").text
+    icon_url = style.find('href').text
+    icon_name = re.search('[0-9-a-z_]+.png', icon_url).group(0)
+    icon_style = styles.IconStyle()
+    icon_style.icon_href = f'{dir}/{folder_name}/{icon_name}'
+    icon_style.scale = style.find('IconStyle').find('scale').text
+    return icon_style
+
 def get_style_objects(soup, placemark_style, dir, folder):
     style_list = []
-    styles_amount = soup.find_all('Style')
-    len_styles_amount = len(styles_amount)
-    bar = PixelBar(max=len_styles_amount)
-    for i in range(len_styles_amount):
-        style_id = styles_amount[i]['id']
+    all_styles = soup.find_all('Style')
+    bar = PixelBar(max=len(all_styles))
+    for style in all_styles:
+        style_id = style['id']
         if placemark_style in style_id:
-            j = styles.Style(id=style_id)
-            if styles_amount[i].find('IconStyle'):
-                icon_url = styles_amount[i].find('href').text
-                icon_name = re.search('[0-9-a-z_]+.png', icon_url).group(0)
-                icon_style = styles.IconStyle(icon_href=f'app/{folder.find("name").text}/{icon_name}/')
-                icon_style.scale = styles_amount[i].find('IconStyle').find('scale').text
-                j.append_style(icon_style)
-            if styles_amount[i].find('LabelStyle'):
-                label_style = styles.LabelStyle(scale=styles_amount[i].find('LabelStyle').find('scale').text)
-                j.append_style(label_style)
-            if styles_amount[i].find('LineStyle'):
+            style_obj = styles.Style(id=style_id)
+            if style.find('IconStyle'):
+                icon_style = create_icon_style_obj(folder, style, dir)
+                style_obj.append_style(icon_style)
+            if style.find('LabelStyle'):
+                label_style = styles.LabelStyle()
+                label_style.scale = style.find('LabelStyle').find('scale').text
+                style_obj.append_style(label_style)
+            if style.find('LineStyle'):
                 line_style = styles.LineStyle()
-                if styles_amount[i].find('LineStyle').find('color'):
-                    line_style.color = styles_amount[i].find('LineStyle').find('color').text
-                elif styles_amount[i].find('LineStyle').find('width'):
-                    line_style.width = styles_amount[i].find('LineStyle').find('width').text
-                j.append_style(line_style)
-            if styles_amount[i].find('BalloonStyle'):
+                if style.find('LineStyle').find('color'):
+                    line_style.color = style.find('LineStyle').find('color').text
+                elif style.find('LineStyle').find('width'):
+                    line_style.width = style.find('LineStyle').find('width').text
+                style_obj.append_style(line_style)
+            if style.find('BalloonStyle'):
                 balloon_style = styles.BalloonStyle()
-                if styles_amount[i].find('BalloonStyle').find('text'):
-                    c_data = CData(styles_amount[i].find('BalloonStyle').find('text').text)
+                if style.find('BalloonStyle').find('text'):
+                    c_data = CData(style.find('BalloonStyle').find('text').text)
                     balloon_style.text = c_data
-                j.append_style(balloon_style)
-            style_list.append(j)
+                style_obj.append_style(balloon_style)
+            style_list.append(style_obj)
         bar.next()
     bar.finish()
     return style_list
