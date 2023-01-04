@@ -60,13 +60,21 @@ def get_style_objects(soup, placemark_style, dir, folder):
 
 
 # def get_style_kids(soup):
-#     kid_set = set()
-#     all_styles = soup.find_all('text')
-#     for style in all_styles:
-#         kids = style.contents
-#         for k in kids:
-#             kid_set.add(k.name)
-#     print(kid_set)
+#     outset = set()
+#     style_maps = soup.find_all('Folder')
+#     for style in style_maps:
+#         pairs = style.find_all('Placemark')
+#         for pair in pairs:
+#             keys = pair.find_all('ExtendedData')
+#             for key in keys:
+#                 hrefs = key.find_all('Data')
+#                 for href in hrefs:
+#                     values = href.find_all('value')
+#                     for value in values:
+#                         kids = value.children
+#                         for i in kids:
+#                             outset.add(i.name)
+#     print(outset)
 
 
 if __name__ == '__main__':
@@ -74,6 +82,7 @@ if __name__ == '__main__':
     folder_list = soup.find_all('Folder')
 
     # get_style_kids(soup)
+
     start = datetime.now()
     os.chdir(base_dir)
     for folder in folder_list:
