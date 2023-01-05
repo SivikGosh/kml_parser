@@ -9,6 +9,7 @@ from progress.bar import PixelBar
 def open_input_file():
     base_dir = os.path.dirname(__file__)
     input_file_name = input('Введите название файла (без расширения):')
+    # input_file_name = 'ВОЛС'
     with open(f'{base_dir}/{input_file_name}.kml', encoding='utf-8') as file:
         soup = BeautifulSoup(file, 'xml')
     return base_dir, input_file_name, soup

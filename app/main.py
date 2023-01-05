@@ -5,7 +5,7 @@ from get_pictograms import open_input_file
 from progress.bar import PixelBar
 import re
 from datetime import datetime
-from bs4 import CData
+from bs4 import CData, Tag
 
 
 def get_unique_styles(folder):
@@ -27,7 +27,13 @@ def create_icon_style_obj(folder, style, dir):
     icon_style = styles.IconStyle()
     icon_style.icon_href = f'{dir}/{folder_name}/{icon_name}'
     icon_style.scale = style.find('IconStyle').find('scale').text
+    if style.find('color'):
+        icon_style.color = style.find('color').text
+    if style.find('hotSpot'):
+        attributes = style.find('hotSpot').attrs
+        icon_style.hot_spot = attributes
     return icon_style
+
 
 def get_style_objects(soup, placemark_style, dir, folder):
     style_list = []
@@ -40,23 +46,30 @@ def get_style_objects(soup, placemark_style, dir, folder):
             if style.find('IconStyle'):
                 icon_style = create_icon_style_obj(folder, style, dir)
                 style_obj.append_style(icon_style)
+
             if style.find('LabelStyle'):
                 label_style = styles.LabelStyle()
                 label_style.scale = style.find('LabelStyle').find('scale').text
                 style_obj.append_style(label_style)
+
             if style.find('LineStyle'):
                 line_style = styles.LineStyle()
                 if style.find('LineStyle').find('color'):
-                    line_style.color = style.find('LineStyle').find('color').text
+                    line_style.color = (
+                        style.find('LineStyle').find('color').text)
                 elif style.find('LineStyle').find('width'):
-                    line_style.width = style.find('LineStyle').find('width').text
+                    line_style.width = (
+                        style.find('LineStyle').find('width').text)
                 style_obj.append_style(line_style)
+
             if style.find('BalloonStyle'):
                 balloon_style = styles.BalloonStyle()
                 if style.find('BalloonStyle').find('text'):
-                    c_data = CData(style.find('BalloonStyle').find('text').text)
-                    balloon_style.text = c_data
+                    # c_data = CData(style.find('BalloonStyle').find('text'))
+                    # tag = Tag(c_data)
+                    # balloon_style.text = tag.string()
                 style_obj.append_style(balloon_style)
+
             style_list.append(style_obj)
         bar.next()
     bar.finish()
@@ -81,11 +94,28 @@ def get_style_objects(soup, placemark_style, dir, folder):
 #     print(outset)
 
 
+# def amount_elements(soup):
+#     placemarks = soup.find_all('Placemark')
+#     count = 0
+#     for placemark in placemarks:
+#         extended_datas = placemark.find_all('ExtendedData')
+#         for extended_data in extended_datas:
+#             datas = extended_data.find_all('Data')
+#             for data in datas:
+#                 values = data.find_all('value')
+#                 for value in values:
+#                     print('value attr: ', value.attrs)
+#                     count += 1
+#     print(count)
+
+
 if __name__ == '__main__':
     base_dir, input_file, soup = open_input_file()
     folder_list = soup.find_all('Folder')
 
-    # get_style_kids(soup)
+    # # # amount_elements(soup)
+
+    # # # # get_style_kids(soup)
 
     start = datetime.now()
     os.chdir(base_dir)
