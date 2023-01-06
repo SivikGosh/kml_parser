@@ -1,11 +1,12 @@
 import os
 
 from fastkml import kml, styles, data
+from fastkml.geometry import Geometry
 from get_pictograms import open_input_file
 from progress.bar import PixelBar
 import re
 from datetime import datetime
-from pygeoif import geometry
+from pygeoif import Point, LineString
 
 
 def get_unique_styles(folder):
@@ -87,6 +88,20 @@ def get_style_map_objects(soup, placemark_style):
     return style_map_list
 
 
+def get_coordinates(point):
+    coordinates = [float(i) for i in point.split()[0].split(',')]
+    return tuple(coordinates)
+
+
+def get_line_string_coordinates(line_string):
+    output_list = []
+    line_string_list = line_string.strip().split('\n')
+    for string in line_string_list:
+        string = string.replace(' ', '').split(',')
+        output_list.append(tuple(float(i) for i in string))
+    return tuple(output_list)
+
+
 def get_placemark_objects(folder, placemark_style):
     placemark_list = []
     all_placemarks = folder.find_all('Placemark')
@@ -100,14 +115,25 @@ def get_placemark_objects(folder, placemark_style):
                 placemark_object.description = (
                     placemark.find('description').text)
             if placemark.find('ExtendedData'):
-                ext_data_kid = data.Data()
-                data.value = (placemark.find('ExtendedData').find('Data').find('value').text)
-                ext_data = data.ExtendedData(elements=[*ext_data_kid])
+                ext_data_kid = data.Data(name=placemark.find('Data')['name'])
+                ext_data_kid.value = (
+                    placemark.find('ExtendedData')
+                    .find('Data').find('value').text)
+                ext_data = data.ExtendedData(elements=[ext_data_kid])
                 placemark_object.extended_data = ext_data
-
+            if placemark.find('Point'):
+                point = placemark.find('Point').find('coordinates').text
+                coords = get_coordinates(point)
+                point_object = Point(*coords)
+                geometry_object = Geometry(geometry=point_object)
+                placemark_object.geometry = geometry_object
             if placemark.find('LineString'):
-                line_string_object = geometry.Point(38.0019571, 55.6740211)
-                placemark_object.append_style(line_string_object)
+                line_string = (
+                    placemark.find('LineString').find('coordinates').text)
+                line_coords = get_line_string_coordinates(line_string)
+                line_object = LineString(coordinates=line_coords)
+                geometry_line_object = Geometry(geometry=line_object)
+                placemark_object.geometry = geometry_line_object
             placemark_list.append(placemark_object)
         bar.next()
     bar.finish()
@@ -117,12 +143,13 @@ def get_placemark_objects(folder, placemark_style):
 if __name__ == '__main__':
     base_dir, input_file, soup = open_input_file()
     folder_list = soup.find_all('Folder')
+    bar = PixelBar('Обработано папок', max=len(folder_list))
     start = datetime.now()
     os.chdir(base_dir)
     for folder in folder_list:
-        bar = PixelBar(max=len(folder_list))
         if not os.path.isdir(folder.find('name').text):
             os.mkdir(folder.find("name").text)
+        os.chdir(folder.find("name").text)
         unique_styles_placemarks = get_unique_styles(folder)
         for style in unique_styles_placemarks:
             kml_file = kml.KML()
@@ -132,13 +159,18 @@ if __name__ == '__main__':
             doc.name = style
             doc.description = folder.find('name').text
             placemarks = get_placemark_objects(folder, style)
-            doc.append(*placemarks)
+            for placemark in placemarks:
+                doc.append(placemark)
             kml_file.append(doc)
-            print(kml_file.to_string(prettyprint=True))
+            kml_file_option = open(f'{style}.kml', 'wb')
+            kml_file_option.write(kml_file.to_string().encode())
+            kml_file_option.close()
+        os.chdir(base_dir)
         bar.next()
     bar.finish()
     print(datetime.now() - start)
 
+    # print(get_line_string_coordinates(soup.find('LineString').find('coordinates').text))
     # # amount_elements(soup)
     # # get_style_kids(soup)
 
