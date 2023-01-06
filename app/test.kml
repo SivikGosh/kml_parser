@@ -20,6 +20,10 @@
                 <key>normal</key>
                 <styleUrl>#icon-1001-normal</styleUrl>
             </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-1001-highlight</styleUrl>
+            </Pair>
         </StyleMap>
         <Style id="icon-503-009D57-normal">
             <IconStyle>
@@ -42,6 +46,10 @@
                 <key>normal</key>
                 <styleUrl>#icon-503-009D57-normal</styleUrl>
             </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-503-009D57-highlight</styleUrl>
+            </Pair>
         </StyleMap>
         <Style id="line-000000-1000-normal">
             <LineStyle>
@@ -53,6 +61,10 @@
             <Pair>
                 <key>normal</key>
                 <styleUrl>#line-000000-1000-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#line-000000-1000-highlight</styleUrl>
             </Pair>
         </StyleMap>
         <Folder>
@@ -125,6 +137,18 @@
                 <Point>
                     <coordinates>37.6219136,55.7730183,0</coordinates>
                 </Point>
+            </Placemark>
+            <Placemark>
+                <name>Любтелемонтаж</name>
+                <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>
+                        38.0019571,55.6740211,0
+                        38.0025732,55.6738177,0
+                        38.0017211,55.6735703,0
+                    </coordinates>
+                </LineString>
             </Placemark>
         </Folder>
     </Document>
