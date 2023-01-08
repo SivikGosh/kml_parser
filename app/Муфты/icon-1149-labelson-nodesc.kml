@@ -1,0 +1,50 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1149-labelson-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1149-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1149-crisis-flood.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ул. Печорская, 6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.669032,55.864123,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лётчика Бабушкина, 24</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.675895,55.866071,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Базовская д.24В</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.517995,55.879260,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Базовская д.24Г</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.518939,55.879489,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,721 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1199-nodesc</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1199-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1199-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1199-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1199-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1199-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Отель Агиос</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.654151,55.753658,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель Андрон</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.673405,55.747795,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель Арум</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.642851,55.758412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Запрос Антона</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.630760,55.759973,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>МК Полярная ул, д.42</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.644787,55.886384,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кон. Гончарная ул., д.17</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.648469,55.744405,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Плещеева, 5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.609559,55.886883,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Белозерская, 17</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.618464,55.896197,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лескова, 10</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.599399,55.897706,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лескова, 8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.596001,55.897711,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.15</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.581203,55.702682,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.17</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.580516,55.701799,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.17а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.580709,55.701073,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.25</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.571729,55.696249,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.35к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.569305,55.695487,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.35к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.570356,55.694912,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.37а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.569294,55.694707,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.43</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.566344,55.694175,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.45</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.566183,55.693782,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.47к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.565378,55.693642,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.47к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.566161,55.693219,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.49к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.564745,55.693255,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.49к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.565389,55.692905,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.53к3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.563919,55.692227,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.55/7</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.562664,55.692052,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й Амбулаторный проезд, дом 2.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.535659,55.811649,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красноармейская ул., 28(Твист)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.541521,55.801452,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр., 66(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.525770,55.802775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Планетная, 47 к.2(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.538244,55.804949,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Верхняя Масловка, 27 к.2(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.557114,55.797653,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Зоологическая д.2А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.580200,55.765236,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11-я Парковая, д.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.805242,55.790391,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-я Парковая, д.21</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.787537,55.794385,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. ВерхнеПролетарская, 35</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.286604,55.663886,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Маковского, 20</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.284485,55.664620,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Солнечная ул., 17А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.287860,55.665904,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Комсомольская ул., 11</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.292463,55.666978,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Комсомольская ул., 8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.285368,55.666250,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Союзная, 6 корпус 1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.284253,55.671083,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3683-й Проектируемый пр-д, 4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.720839,55.697510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Шоссейная д. 12.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>38.008910,55.643013,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Электропосёлок,д.10</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>38.018649,55.631242,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Михневское шоссе 15/4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>38.011682,55.632300,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Комсомольская. д13</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>38.000943,55.644234,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сакко и Ванчетти,д.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.996694,55.646359,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красная змеевка д 12а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.987455,55.643263,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Маковского, 24</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.283876,55.663326,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.11 к.4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.822980,55.748149,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.11 к.5
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.822991,55.748469,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.13
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.825802,55.747988,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.826918,55.746852,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.827068,55.747154,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.827154,55.747408,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.827168,55.747734,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.827362,55.748012,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фрязевская ул. д.15 к.6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.827490,55.748283,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Большой Тишинский пер., 43</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.568049,55.769309,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Малая Грузинская д.28
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.573632,55.766904,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гросс
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.698582,55.730268,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Молодцова 29к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.624657,55.878769,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Полярная 9к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.633535,55.874445,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясный проезд 8к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.631975,55.873911,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясный проезд 8к3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.630811,55.874308,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясный проезд 15А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.619457,55.874140,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясный проезд 26</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.621657,55.876570,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Д. Ульянова д.45
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.594383,55.681233,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мельникова д.3 к.1
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.676649,55.726681,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.10
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.728606,55.805207,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.7
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.728912,55.805732,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.9
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.728479,55.806365,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.6
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.729428,55.806796,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.5
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.729777,55.807432,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш. д.2 к.4
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.729930,55.808144,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ловител ЖК Нижнелихоборский пр-д.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.562089,55.847647,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТСН Лесопарковая 2
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>38.009244,55.753683,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Молодежная, д.78
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.390775,55.910247,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Преображенская пл. д.4
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.709877,55.794766,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гросс
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.706836,55.685347,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Радужная д.14 к.3 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.372857,55.588648,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Радужная д.15 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.375904,55.590125,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Георгиевская, д.13 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.378785,55.590130,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Радужный пр-д, д.3 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.365477,55.593978,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

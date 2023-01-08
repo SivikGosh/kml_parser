@@ -1,0 +1,64 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-962-F8971B-labelson-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-962-F8971B-labelson-nodesc">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>тк№4 Россошанский пр
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.606790,55.595923,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№5 ул. Бирюлёвская
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.672107,55.581345,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№224 Поречная ул.
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.765878,55.649135,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ттк№201 ул. Артюхиной
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.737222,55.704547,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№267 ул. чистова
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.734167,55.696106,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

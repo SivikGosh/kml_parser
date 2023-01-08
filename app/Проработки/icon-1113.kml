@@ -1,0 +1,258 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1113</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1113-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1113-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1113">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1113-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Кон Петра Романова ул., д.7,с.1</name>
+      <description>Коннектика Выключено</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.682043,55.708183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кон. Николоямская ул., д.38/23</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.658861,55.747032,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Заморенова д.5а
+                </name>
+      <description>ВИП Телеком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.573012,55.759157,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Звенигородская ул. д.13
+                </name>
+      <description>Вест Колл</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.554307,55.762398,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Среда
+                </name>
+      <description>с М-9 ШПД для ГТС/ЕСК</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.738914,55.728004,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Левобережная, 4
+                </name>
+      <description>ЕСК/ГТС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.477339,55.868833,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Донецкая ул., 30</name>
+      <description>ГТС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.704856,55.644183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Феодосийская улица
+                </name>
+      <description>ЖК "Гринада" Глобал Телеком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.576953,55.560137,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Трифоновская, д. 57</name>
+      <description>Гросс</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.631334,55.789952,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осташковская ул. д.14 с.5
+                </name>
+      <description>Волокно Обиту</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.677441,55.882092,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рязанский пр-т, д.27 (ЖК Среда)</name>
+      <description>Стык в вводно с Глобал и с Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.747833,55.730209,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мантулинская д.9 к.1
+                </name>
+      <description>ГТС/УСК</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.546107,55.754600,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борисовские пруды д.8А
+                </name>
+      <description>ГТС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.736546,55.635201,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Полины Осипенко, д.8к3
+                </name>
+      <description>ЕСК</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.537396,55.779825,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пудовкина 13</name>
+      <description>СОВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.527499,55.725666,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й Автозаводский пр-д д4к1</name>
+      <description>Реалсофт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.656004,55.703900,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8я Текстильщиков 11</name>
+      <description>Релсофт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <Point>
+        <coordinates>37.744737,55.703295,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

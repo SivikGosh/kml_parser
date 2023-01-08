@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-000000-1775</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-1775-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.775</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1775-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2.6625</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-1775">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1775-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1775-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>16-12-11</name>
+      <description>ОК-48&lt;br&gt;620м.&lt;br&gt;ДПЛ-П-8У(6х8)-2,7 (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1775</styleUrl>
+      <LineString>
+        <coordinates>37.517082,55.646490,0.000000 37.515607,55.645443,0.000000 37.514663,55.644692,0.000000 37.516969,55.643687,0.000000 37.518600,55.642954,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

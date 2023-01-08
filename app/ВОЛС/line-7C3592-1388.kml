@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-7C3592-1388</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7C3592-1388-normal">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>1.388</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7C3592-1388-highlight">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>2.082</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7C3592-1388">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7C3592-1388-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7C3592-1388-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ООО Бородино-Телеком
+                </name>
+      <description>кол-ра Новый Донской, пл. Гагарина, Ленинский83, ЦДТ, Старокалужский</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-7C3592-1388</styleUrl>
+      <LineString>
+        <coordinates>37.593398,55.709797,0.000000 37.588310,55.706820,0.000000 37.583826,55.709504,0.000000 37.572689,55.703611,0.000000 37.565404,55.699433,0.000000 37.555362,55.693761,0.000000 37.549225,55.690091,0.000000 37.545299,55.687998,0.000000 37.539451,55.684024,0.000000 37.529817,55.677498,0.000000 37.524152,55.673632,0.000000 37.508928,55.663418,0.000000 37.512415,55.660525,0.000000 37.515183,55.659194,0.000000 37.517468,55.658431,0.000000 37.520601,55.657747,0.000000 37.525257,55.657275,0.000000 37.522569,55.655174,0.000000 37.528673,55.652341,0.000000 37.528845,55.652493,0.000000 37.528566,55.652596,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

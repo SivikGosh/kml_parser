@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-4186F0-3325</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-4186F0-3325-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-4186F0-3325-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-4186F0-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-4186F0-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-4186F0-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>кабель ВКП  </name>
+      <description>основная магистраль приход</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-4186F0-3325</styleUrl>
+      <LineString>
+        <coordinates>37.688325,55.580625,0.000000 37.686782,55.580565,0.000000 37.686352,55.580225,0.000000 37.685623,55.580164,0.000000 37.684883,55.580419,0.000000 37.682758,55.579570,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

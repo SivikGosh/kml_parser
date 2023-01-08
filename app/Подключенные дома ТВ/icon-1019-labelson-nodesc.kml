@@ -1,0 +1,63 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1019-labelson-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1019-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1019-biz-finance.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Ленина, д. 16
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1019-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.727432,55.380253,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Мира, д. 18
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1019-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.729892,55.374836,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Мира, д. 19
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1019-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.730520,55.374985,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Радиотехническая ул. д.53
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1019-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.755434,55.359679,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Радиотехническая ул. д.63
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1019-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.755203,55.359240,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

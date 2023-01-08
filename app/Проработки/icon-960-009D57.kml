@@ -1,0 +1,116 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-960-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>шоссе Энтузиастов д.80 к.1</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/g0ccuedv4o7945bfv81uvispa0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ktYOZeUEnQuokUYfhwRpBI-5UCfWHHdw1ClAbrfCPRSzV-Ls9d2bPrraIfgpS6kWNz-PvyzeEPUgrr9BZA47wBerUwo0K_180xJuMznJ9DvWgYKLhM7-2FHqzzfwmR_qJEyqlq4R_D9R4sdkoaX7ljpH_VIVtHML6FnNrQ2HSYIJwAANDjyP24R52K8fgj8w?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;доступ: 3я Владимирская 3к3, Инфокос.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/g0ccuedv4o7945bfv81uvispa0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ktYOZeUEnQuokUYfhwRpBI-5UCfWHHdw1ClAbrfCPRSzV-Ls9d2bPrraIfgpS6kWNz-PvyzeEPUgrr9BZA47wBerUwo0K_180xJuMznJ9DvWgYKLhM7-2FHqzzfwmR_qJEyqlq4R_D9R4sdkoaX7ljpH_VIVtHML6FnNrQ2HSYIJwAANDjyP24R52K8fgj8w?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.788976,55.765132,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

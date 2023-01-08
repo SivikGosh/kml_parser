@@ -1,0 +1,122 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-503-4186F0</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-4186F0-normal">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-4186F0-highlight">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-4186F0-labelson">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-4186F0-labelson-nodesc">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-4186F0-nodesc-normal">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-4186F0-nodesc-highlight">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-4186F0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-4186F0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-4186F0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-4186F0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-4186F0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-4186F0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Кросс оптика</name>
+      <description>&lt;img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/d1gj4rgb2c0p9667pnfop1771g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lFFuHLCTCqrHhGFeQ08kRwBICwwOpEKBbMbN0MaG7plZ68JtJxWvcJXGkjxhZYucO6yRY7Sjik12ykrZWaDd2Chk5JyfKGxuP924-g0CnHg0GyO80beC3rDOGjb3k6crUE2xdAyl7xHV3bu_o4HzTzdxdS_b_uBMWhZgoWsWjA8pOlC-dqjnXMTt8dV5GsPw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;для релсофт ( до тк 554)&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/v52iignk2c5el7t52li4rkmrh8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9muxU8snl8lRHWNUyDqJdN_2vO2eudxws9ICf-MLErZohQHstClPBoWEeLg5a30ygFRgO-LMdMhHPBxVDf39G-ZUa7GTEjQsyU9LAHGE0HuakG2XiNQtdf3Xohku2_KaCg4PyUCgUI5fCZSXjGmv_3-9ClOrxcd6lWtLPwALxifJyWLSqwi9jbhco1VHWlETw?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-4186F0</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/d1gj4rgb2c0p9667pnfop1771g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lFFuHLCTCqrHhGFeQ08kRwBICwwOpEKBbMbN0MaG7plZ68JtJxWvcJXGkjxhZYucO6yRY7Sjik12ykrZWaDd2Chk5JyfKGxuP924-g0CnHg0GyO80beC3rDOGjb3k6crUE2xdAyl7xHV3bu_o4HzTzdxdS_b_uBMWhZgoWsWjA8pOlC-dqjnXMTt8dV5GsPw?session=0&amp;fife https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/v52iignk2c5el7t52li4rkmrh8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9muxU8snl8lRHWNUyDqJdN_2vO2eudxws9ICf-MLErZohQHstClPBoWEeLg5a30ygFRgO-LMdMhHPBxVDf39G-ZUa7GTEjQsyU9LAHGE0HuakG2XiNQtdf3Xohku2_KaCg4PyUCgUI5fCZSXjGmv_3-9ClOrxcd6lWtLPwALxifJyWLSqwi9jbhco1VHWlETw?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.588550,55.713880,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-795046-1200-nodesc</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-795046-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-795046-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-795046-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-795046-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-795046-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>19-10-07</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-795046-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.344941,55.596154,0.000000 37.344519,55.596113,0.000000 37.344613,55.595846,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

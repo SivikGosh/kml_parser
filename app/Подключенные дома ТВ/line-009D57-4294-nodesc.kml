@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-009D57-4294-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-009D57-4294-nodesc-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>4.294</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-009D57-4294-nodesc-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>6.441</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-009D57-4294-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-4294-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-4294-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>вынос сети </name>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-4294-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.644796,55.628265,0.000000 37.644923,55.628113,0.000000 37.644832,55.627595,0.000000 37.645406,55.627562,0.000000 37.645481,55.627928,0.000000 37.645674,55.627961,0.000000 37.645647,55.628092,0.000000 37.645658,55.628216,0.000000 37.647204,55.628107,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,100 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-959-009D57-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>ТК-1516 (Рижский 1-й пер.)</name>
+      <description>Запас до здания</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.654712,55.810515,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-49 (Смоленская наб.)</name>
+      <description>здесь муфты нет</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.576241,55.746152,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-13в ул. Садовая-Сухаревская
+                </name>
+      <description>муфта наша проходная + врезка мегафон цветной бульвар 32</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.624655,55.773414,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-726 (Кавказский б.р)</name>
+      <description>&lt;img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/oa7978o82mnm08q2vb6l85blb8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kUNSLT_Bb6NIEotNzFKAv1CccayHS3QZ2pRAYiUOvR_XYovLhf1TZvj3DDK8ggk2SbUYv4y_6_mmAkDaXEVtHBvgGigOCGkejn5R4cHny1EST_0HL9y5Me9CxQ0sEFhlC-lMI69jac9ZsAilf5ZSpYHNHQiC1wf7yweR_P9SqOLzLc4D72zHmE89hUsMXz1Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/oa7978o82mnm08q2vb6l85blb8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kUNSLT_Bb6NIEotNzFKAv1CccayHS3QZ2pRAYiUOvR_XYovLhf1TZvj3DDK8ggk2SbUYv4y_6_mmAkDaXEVtHBvgGigOCGkejn5R4cHny1EST_0HL9y5Me9CxQ0sEFhlC-lMI69jac9ZsAilf5ZSpYHNHQiC1wf7yweR_P9SqOLzLc4D72zHmE89hUsMXz1Q?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.644796,55.628265,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк 146б (ул.Воронцовские Пруды)</name>
+      <description>&lt;img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f4rnm5l6oh7m0iicdctu20qheo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lhaeaUNm5e5eONuBAaD42KBC5FfZFDSgSN_FkZSQl50SjGPmEH2vcb3bnBxfmI37ZkPhePdFICqu-DEOfmsuoXpm--Kv4y86s7O3R3nWRj6WcXbnetHbR-eY7KQukdeSpHjZa2TaEam8AjDhuhbWnlw2FDWubc5EzESyiObmEb-gtxbhOwQXTmewNfdglxBA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f4rnm5l6oh7m0iicdctu20qheo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lhaeaUNm5e5eONuBAaD42KBC5FfZFDSgSN_FkZSQl50SjGPmEH2vcb3bnBxfmI37ZkPhePdFICqu-DEOfmsuoXpm--Kv4y86s7O3R3nWRj6WcXbnetHbR-eY7KQukdeSpHjZa2TaEam8AjDhuhbWnlw2FDWubc5EzESyiObmEb-gtxbhOwQXTmewNfdglxBA?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.528672,55.665187,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк-158(1-я Останкинская ул.)</name>
+      <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/u1e607ogi5srfl2t2crj56ps0o/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kBT_gA3oICwUMJumjssU-S6y47xBZU2lxQ_1G1AcQ183dMKPeDGFEMHPWsORaMbiDvHqDudbtGsK-YQ7JVAR6KCDiExg6Rsf4P44Q5ceBdqhDgZoel3re2dGlizPba4B2RvJ6ZbbRcjB-RupNtiZB11oo8UNCEwNp3zoUYrIb3b1sXUyKZ90VMZTaEWWW8Hg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/u1e607ogi5srfl2t2crj56ps0o/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kBT_gA3oICwUMJumjssU-S6y47xBZU2lxQ_1G1AcQ183dMKPeDGFEMHPWsORaMbiDvHqDudbtGsK-YQ7JVAR6KCDiExg6Rsf4P44Q5ceBdqhDgZoel3re2dGlizPba4B2RvJ6ZbbRcjB-RupNtiZB11oo8UNCEwNp3zoUYrIb3b1sXUyKZ90VMZTaEWWW8Hg?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.611413,55.823725,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк-161 (1-я Останкинская ул.)</name>
+      <description>&lt;img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/vh9co622mag6kjeg968gjqp6to/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nzabqKNZk480FWegBKPgZYiwfhfljPLhH3doawpJDeAZKleUz8njMO_YzAOKQLlgOd3PK9cUFAdWAtwdRGH1tZfsUw3bndYgEoG6ukykdiffNtMnXj5VXfnplpctytAk9oBBHX_D8JK3kTPwGsOGbN24UVq6ToQSjgT5i3JFVwLPcqmun397-u96DCgN7LJUQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/vh9co622mag6kjeg968gjqp6to/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nzabqKNZk480FWegBKPgZYiwfhfljPLhH3doawpJDeAZKleUz8njMO_YzAOKQLlgOd3PK9cUFAdWAtwdRGH1tZfsUw3bndYgEoG6ukykdiffNtMnXj5VXfnplpctytAk9oBBHX_D8JK3kTPwGsOGbN24UVq6ToQSjgT5i3JFVwLPcqmun397-u96DCgN7LJUQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.607926,55.823711,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

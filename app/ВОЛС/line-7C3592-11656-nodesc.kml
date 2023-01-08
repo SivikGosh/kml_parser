@@ -1,0 +1,44 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-7C3592-11656-nodesc</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7C3592-11656-nodesc-normal">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>11.656</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7C3592-11656-nodesc-highlight">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>17.484</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7C3592-11656-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7C3592-11656-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7C3592-11656-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ВЫНОС Т/К
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#line-7C3592-11656-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.679664,55.769204,0.000000 37.679567,55.768700,0.000000 37.681890,55.768827,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

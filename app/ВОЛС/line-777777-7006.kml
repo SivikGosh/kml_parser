@@ -1,0 +1,40 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-777777-7006</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-777777-7006-normal">
+      <LineStyle>
+        <color>ff777777</color>
+        <width>7.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-777777-7006-highlight">
+      <LineStyle>
+        <color>ff777777</color>
+        <width>10.509</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-777777-7006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-777777-7006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-777777-7006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>18-11-08</name>
+      <description>ОК-96                                                                 
+                              ДОТс-П-96А6((6)кН                                                   
+                     1010м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-777777-7006</styleUrl>
+      <LineString>
+        <coordinates>37.482079,55.674929,0.000000 37.484816,55.675413,0.000000 37.487732,55.673112,0.000000 37.491108,55.671732,0.000000 37.491160,55.671702,0.000000 37.494587,55.670596,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

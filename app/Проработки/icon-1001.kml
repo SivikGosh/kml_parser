@@ -1,0 +1,110 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1001</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1001-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1001-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1001-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1001-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1001-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1001-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1001-biz-cinema.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1001">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1001-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1001-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1001-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1001-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1001-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>телеканал Рубль</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/hg5mlvcimv6qav8bqlfdo5qcbg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9n4tZWkTJYed6O7zDOZMe9-WMrmOo1E3B2WWTrBIkp6p3TZR-ETFw08EHfZdqWiHo0ogWplwChJ1xYKax11I_dd1FSRpptCkJD3O0wbqMcNLV4oo42MTA9gUDvTY2TPIgmAt6B6abDn4QNzJ5vdsx4frkD97iWLweg-Wlt5ZSD19vJra7bigNT5CM67cuQUiw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1001</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/hg5mlvcimv6qav8bqlfdo5qcbg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9n4tZWkTJYed6O7zDOZMe9-WMrmOo1E3B2WWTrBIkp6p3TZR-ETFw08EHfZdqWiHo0ogWplwChJ1xYKax11I_dd1FSRpptCkJD3O0wbqMcNLV4oo42MTA9gUDvTY2TPIgmAt6B6abDn4QNzJ5vdsx4frkD97iWLweg-Wlt5ZSD19vJra7bigNT5CM67cuQUiw?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.718018,55.742227,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

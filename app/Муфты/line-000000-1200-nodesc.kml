@@ -1,0 +1,99 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-000000-1200-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Линия 1336</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.521749,55.669275,0.000000 37.519914,55.667544,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1337</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.520001,55.666879,0.000000 37.519848,55.667270,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1338</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.518759,55.666968,0.000000 37.519929,55.666620,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1339</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.521141,55.667052,0.000000 37.521388,55.666565,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1340</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.519870,55.667384,0.000000 37.521088,55.667157,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1341</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.522193,55.669254,0.000000 37.523008,55.668694,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>21-03-01</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.550086,55.756810,0.000000 37.549629,55.756786,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>перемычка в совис</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.429465,55.685540,0.000000 37.429502,55.685548,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

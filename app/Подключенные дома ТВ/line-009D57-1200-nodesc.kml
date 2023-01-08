@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-009D57-1200-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-009D57-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-009D57-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-009D57-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>тк182-Ленская, д.8 к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.674676,55.865584,0.000000 37.673314,55.865692,0.000000 37.668185,55.866445,0.000000 37.667027,55.866631,0.000000 37.667220,55.867041,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
