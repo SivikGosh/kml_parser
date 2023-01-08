@@ -2,7 +2,7 @@ import os
 import re
 
 import requests
-from bs4 import BeautifulSoup
+from input_datas import root_dir, soup_file
 from progress.bar import PixelBar
 
 base_dir = os.path.dirname(__file__)
