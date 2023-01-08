@@ -1,0 +1,138 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-959-DB4436</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-959-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-959-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ТК-2</name>
+      <description>55.699386, 37.641304</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.641294,55.699347,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1</name>
+      <description>55.699176, 37.642168</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.642173,55.699177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-4</name>
+      <description>55.699637, 37.639794</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.639788,55.699638,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-3</name>
+      <description>55.699462, 37.640716</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.640748,55.699459,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

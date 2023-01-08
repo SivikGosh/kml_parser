@@ -1,0 +1,35 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-959-DB4436-labelson-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ТК-184а (Лобачевского ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.480804,55.681063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Добрынинский кол-р</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.625203,55.729931,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

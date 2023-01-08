@@ -1,0 +1,259 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1121-labelson-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1121-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1121-crisis-animal.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Инфокос Менжинского 29</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.656273,55.870261,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Черняховского 4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.533765,55.802394,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Черняховского 2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.532762,55.801577,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рублевское ш., д.48, к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.405958,55.754092,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кутузова 11 к.2,к3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.412117,55.723491,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр-т, д.104</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.513440,55.669653,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домодедовская ул., д.38,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.710882,55.603418,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Губкина ул. д.6,к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.563010,55.695286,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Н. Арбат ул., д.27</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.578703,55.751946,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Удальцова ул., д.19к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.510618,55.673434,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 65А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.501541,55.678939,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 65Б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.501702,55.678507,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 65</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.500302,55.679063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 69</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.498999,55.679302,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 77</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.497534,55.679321,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 79</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.496295,55.679783,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 81</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.494841,55.679986,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 71 корпус 1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.498473,55.677784,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 71 корпус 2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.498870,55.677627,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 71 корпус 3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.499267,55.677010,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр-д Русанова, д.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.646720,55.855258,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бекудниковский пр-д,д.4к.2
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.554151,55.875960,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бекудниковский пр-д,д.4к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.553078,55.875807,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волжский б-р, 3.к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.744388,55.718751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волжский б-р, 3.к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.744626,55.719167,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волжский б-р, 5.к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.744905,55.717925,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Саратовская ул., 22</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.746959,55.716402,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Саратовская ул., 24</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.749501,55.717518,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Саратовская ул., 31</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.746445,55.718760,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского д.76</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.484806,55.672918,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

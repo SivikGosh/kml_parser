@@ -1,0 +1,71 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-959-DB4436-nodesc</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-959-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ТК-37</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.489608,55.733005,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-10А (Зацепский вал ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.640144,55.732228,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-235 (Садовническая ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.641287,55.739631,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

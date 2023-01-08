@@ -1,0 +1,33 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1351-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1351-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1351-rec-baseball.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Кутузовский просп., 32</name>
+      <description>Сбербанк 20 волокон</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1351-labelson</styleUrl>
+      <Point>
+        <coordinates>37.532094,55.740424,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-й Южнопортовый, д.12а</name>
+      <description>Сбербанк, 10 волокон</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1351-labelson</styleUrl>
+      <Point>
+        <coordinates>37.689285,55.701809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,54 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1343-nodesc</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1343-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1343-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1343-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1343-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1343-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>столб, Б. Тишинский пер. д.38
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1343-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.569230,55.769468,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

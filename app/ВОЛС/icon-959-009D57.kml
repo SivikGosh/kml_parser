@@ -1,0 +1,114 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-959-009D57</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-959-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-959-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Запас каблея ОТЦ82,7</name>
+      <description>&lt;img src="https://lh3.googleusercontent.com/umsh/AK26PW5t8FjG-iZZHMbEQYOIXOtB1TddHzwnI5mYXEsSRye1ekRztj6YTEFVt5TWPmoEPeBwB2ooM8lJo2tdVSB9e7WReMEHS3PCrd3zql4l65iPaZidOlNyaKf5EL6PvH_XAqodqpodgyzPOLGR_AI" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/umsh/AK26PW4a5etAi35-lh2szDF7Bs0NbDDt9zbffKiPt4iDF_neR8zZO4OcM8xnpVHzsLiQ63nSTr_0W-Muw4OZbFAW4djfATrIZA_pp3JpALQryxFl9z6R_DsGkqlgSDPHUs_WHE3Igdom4LlP9msPG88o" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>
+                            https://lh3.googleusercontent.com/umsh/AK26PW5t8FjG-iZZHMbEQYOIXOtB1TddHzwnI5mYXEsSRye1ekRztj6YTEFVt5TWPmoEPeBwB2ooM8lJo2tdVSB9e7WReMEHS3PCrd3zql4l65iPaZidOlNyaKf5EL6PvH_XAqodqpodgyzPOLGR_AI
+                            https://lh3.googleusercontent.com/umsh/AK26PW4a5etAi35-lh2szDF7Bs0NbDDt9zbffKiPt4iDF_neR8zZO4OcM8xnpVHzsLiQ63nSTr_0W-Muw4OZbFAW4djfATrIZA_pp3JpALQryxFl9z6R_DsGkqlgSDPHUs_WHE3Igdom4LlP9msPG88o</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.509636,55.704245,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-3 (Варшавское ш)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.615946,55.625263,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

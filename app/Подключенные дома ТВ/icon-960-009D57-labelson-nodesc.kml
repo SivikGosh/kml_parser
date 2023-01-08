@@ -1,0 +1,36 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57-labelson-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Новокосинская улица, 20к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.861046,55.739005,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Активный узел,опт.усил..Эл.щит.под.2,помещение слабых токов,шкаф КП МПТЦ.ООО"ТВиСТ".
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.556193,55.868946,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-0BA9CC-1200-nodesc</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.524152,55.806779,0.000000 37.525280,55.806656,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,191 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-B29189-1200</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-B29189-1200-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-1200-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-B29189-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-B29189-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-B29189-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>15-07-06</name>
+      <description>ОК-12&lt;br&gt;1140м.</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.543539,55.914143,0.000000 37.543563,55.913749,0.000000 37.543714,55.913752,0.000000 37.543641,55.914301,0.000000 37.543497,55.914931,0.000000 37.543239,55.916208,0.000000 37.543121,55.916662,0.000000 37.543030,55.918424,0.000000 37.543073,55.919686,0.000000 37.543287,55.920841,0.000000 37.543588,55.922440,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-06-06 15-07-06</name>
+      <description>ОК-12&lt;br&gt;1040</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.543588,55.922440,0.000000 37.544038,55.923840,0.000000 37.544650,55.924598,0.000000 37.545004,55.924796,0.000000 37.545530,55.926461,0.000000 37.545894,55.927922,0.000000 37.545905,55.928878,0.000000 37.545379,55.929304,0.000000 37.544596,55.929136,0.000000 37.543609,55.928733,0.000000 37.543582,55.928754,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-09-07</name>
+      <description>ОК-96                                                                 
+                               980м                                                                 
+                               ДПб-2,7-6z-8/96 (Оформлено на Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.502381,55.697840,0.000000 37.502219,55.697784,0.000000 37.501339,55.698298,0.000000 37.501082,55.698358,0.000000 37.495149,55.695045,0.000000 37.494258,55.694471,0.000000 37.492601,55.693700,0.000000 37.492293,55.693763,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1173</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.497397,55.679609,0.000000 37.497446,55.679611,0.000000 37.497686,55.679837,0.000000 37.499608,55.679499,0.000000 37.500944,55.679245,0.000000 37.501877,55.678897,0.000000 37.501818,55.678643,0.000000 37.501534,55.678649,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-09-06</name>
+      <description>ОК12                                                                   
+                             150м                                                                   
+                            ОТДН-1х12А-3 LS-HF</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.498924,55.671320,0.000000 37.499082,55.671241,0.000000 37.497929,55.670606,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-09-06</name>
+      <description>ОК8                                                                   
+                                70м                                                                 
+                                  ОТД-2х4А-2,7кН</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.497929,55.670606,0.000000 37.497574,55.670505,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-09-06</name>
+      <description>ОК-                                                                   
+                                100м                                                               
+                                 ДПб-2,7-6z-4/12</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.497929,55.670606,0.000000 37.498196,55.670272,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-09-06</name>
+      <description>ОК-                                                                   
+                                300м                                                               
+                                 ДПб-2,7-6z-4/12</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.498924,55.671320,0.000000 37.499272,55.671463,0.000000 37.500130,55.671179,0.000000 37.498982,55.670498,0.000000 37.499642,55.669826,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-11-08</name>
+      <description>ОК-96                                                                 
+                               ОККМ-01-12х8Е3-2,7кН                                             1025
+                    м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.494587,55.670596,0.000000 37.495233,55.670981,0.000000 37.493592,55.671580,0.000000 37.495104,55.671653,0.000000 37.495083,55.671937,0.000000 37.499224,55.674188,0.000000 37.498999,55.674593,0.000000 37.498956,55.675059,0.000000 37.498377,55.675537,0.000000 37.498688,55.675713,0.000000 37.498816,55.675676,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-11-08</name>
+      <description>ОК-8                                                                   
+                                 ОТД-2х4А-2,7кн                                                     
+                        350м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.498821,55.675723,0.000000 37.498532,55.675808,0.000000 37.498671,55.675959,0.000000 37.497781,55.676365,0.000000 37.497979,55.676474,0.000000 37.497968,55.676583,0.000000 37.497588,55.676707,0.000000 37.497523,55.676812,0.000000 37.497201,55.676915,0.000000 37.496804,55.677151,0.000000 37.496659,55.677369,0.000000 37.497014,55.677457,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-07</name>
+      <description>ОК-8
+                    ВКП                                                                      L-
+                    680.0м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.348417,55.603258,0.000000 37.349270,55.602552,0.000000 37.347817,55.601419,0.000000 37.345837,55.601104,0.000000 37.345504,55.600358,0.000000 37.346584,55.599969,0.000000 37.347489,55.599637,0.000000 37.348417,55.598994,0.000000 37.347213,55.597795,0.000000 37.347429,55.596460,0.000000 37.344941,55.596154,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-14</name>
+      <description>ОК-32                                                                            
+                    ДПО-П32А-4(6)2,7кН2011                                        L- 109.0 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.497397,55.679609,0.000000 37.496294,55.679933,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-14</name>
+      <description>ОК-32                                                                            
+                    ДПО-П32А-4(6)2,7кН2011                                         L- 111.0 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1200</styleUrl>
+      <LineString>
+        <coordinates>37.496294,55.679933,0.000000 37.495484,55.680021,0.000000 37.495361,55.680111,0.000000 37.494953,55.680163,0.000000 37.494953,55.680099,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-777777-2170-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-777777-2170-nodesc-normal">
+      <LineStyle>
+        <color>ff777777</color>
+        <width>2.17</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-777777-2170-nodesc-highlight">
+      <LineStyle>
+        <color>ff777777</color>
+        <width>3.255</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-777777-2170-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-777777-2170-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-777777-2170-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>переход в муфту инфокос</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-777777-2170-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.535052,55.649189,0.000000 37.535006,55.649143,0.000000 37.535266,55.649073,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

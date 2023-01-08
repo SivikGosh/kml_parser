@@ -1,0 +1,420 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-960-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <description>&lt;img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/l8ptcf5mek6e30jk62bd0ada0g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kkGEOb6giwfLc09DmrpToxKk76H5ez0JFbqD8UtSYUzALD-q5xzvWjjYKOUWbcxyXBVm-gduJVNdL1cafmLwyTkcxOQjUpVl5ZrbExPEQruv7kufqhlZnBNxsycjgy90MzkuZTyJY1vDUE0KsiEjKsCkCIiBymD8gixezJsrLasi8wKjACsncKta3H6cpqEnE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;2 под. чердак&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/k460o43ur3hmarot7dl7dtflpg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9n-oNpV2esuJtojm6_tzEdMKqc0iPP-1F0HCFTrJfKo-5c4CmIhZpYGsrPcoxZTd7X_Shh_p2Zwz-_wXGgvw0rMO_Iyqei5De8YjE--mcWoNxZmjLice5OcXsMKwHZfBaNIX8aQZX0StaeyEOCRno5v-yitiORy6BU97-ahn8Jwd3ZcN459uUq6tL1HqHce4N4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jtvvko7t1fli6sr2dvc8v59hes/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mfOeGJ4Bixrvy-cm9qIhnj2T0QdqztrlirBu3lLUhGRf-UPuWj8mQAtNYvTJZogi7ooC2EBe2K6PmtfLC8TXztNiLCLHovGzkFjUhaqeinQDiV41xu2NnkZNYVVvm9j7qSfXk_hBmyvdi4T7pOEiogUO386tUNNlYeBbBPhHlWHP07neXHBp3fzgv8uwBQmxM?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f2s33koi8rf8boeq2s4uda8uag/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mSSosMtJ9W17qoJ3lPkp8Q81Ih1ENsuzlj-EjNo7a8GQbui192BfJEmjmw-s49q6CqNUWJRIzdXFTXIopSe4PRbBA5s1ujTn0YC9Dy_bT-M_ZYz149WEmo0XYiTXiK91EY9-A9wllLXcmp4oy98VId7SPme6D7Nnfs9Qysjo4o1BZefRkMcruT6THSz7cjrdU?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/l8ptcf5mek6e30jk62bd0ada0g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kkGEOb6giwfLc09DmrpToxKk76H5ez0JFbqD8UtSYUzALD-q5xzvWjjYKOUWbcxyXBVm-gduJVNdL1cafmLwyTkcxOQjUpVl5ZrbExPEQruv7kufqhlZnBNxsycjgy90MzkuZTyJY1vDUE0KsiEjKsCkCIiBymD8gixezJsrLasi8wKjACsncKta3H6cpqEnE?session=0&amp;fife https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/k460o43ur3hmarot7dl7dtflpg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9n-oNpV2esuJtojm6_tzEdMKqc0iPP-1F0HCFTrJfKo-5c4CmIhZpYGsrPcoxZTd7X_Shh_p2Zwz-_wXGgvw0rMO_Iyqei5De8YjE--mcWoNxZmjLice5OcXsMKwHZfBaNIX8aQZX0StaeyEOCRno5v-yitiORy6BU97-ahn8Jwd3ZcN459uUq6tL1HqHce4N4?session=0&amp;fife https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jtvvko7t1fli6sr2dvc8v59hes/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mfOeGJ4Bixrvy-cm9qIhnj2T0QdqztrlirBu3lLUhGRf-UPuWj8mQAtNYvTJZogi7ooC2EBe2K6PmtfLC8TXztNiLCLHovGzkFjUhaqeinQDiV41xu2NnkZNYVVvm9j7qSfXk_hBmyvdi4T7pOEiogUO386tUNNlYeBbBPhHlWHP07neXHBp3fzgv8uwBQmxM?session=0&amp;fife https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f2s33koi8rf8boeq2s4uda8uag/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mSSosMtJ9W17qoJ3lPkp8Q81Ih1ENsuzlj-EjNo7a8GQbui192BfJEmjmw-s49q6CqNUWJRIzdXFTXIopSe4PRbBA5s1ujTn0YC9Dy_bT-M_ZYz149WEmo0XYiTXiK91EY9-A9wllLXcmp4oy98VId7SPme6D7Nnfs9Qysjo4o1BZefRkMcruT6THSz7cjrdU?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.451569,55.680171,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новусущевская ул., д. 13/1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.603100,55.789997,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГС Инфокос </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.486403,55.677621,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Менжинского 38к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.660886,55.871185,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красноармейская, 21</name>
+      <description>До ЦГС 8288 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.537955,55.802274,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р 12к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.411623,55.758340,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский 27к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.501482,55.697048,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная 126</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.517077,55.632542,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярославское шоссе д.12 к.1</name>
+      <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/ac7hnd02u22v5i5095ahi8opuc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9m6kj5kx1eZi2x-g9ldva0BNpumjiIhDh9CwNkpWKEMwi6xSIu1-i2elwpfWUHJ_n7-Off3_oD39vMuvDxfLCGBcatgtJoNBwrUFQ22ATBaT1VxH-tVfuQ9VKsRuEvtIM1YATLET4sFltR_HZLUUvHA_6W7vD7pFIba1ctf9haQkEoDxHOTviaOeshRA1SfYA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/70goq0lvjqcajfkliif174tdi8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ndg4GKNFwJOPyK9LVvlPlO_Ea3pU45pJyBQDcYrs6JH8wYY9U1F5QcneMr0G1tJFBIIOw7m3668Ax9tVlCYSnRzln7UP8pmZryDT6dLymIekfEGwynYXQobaOanU1GcKa9pXiU2fF6fYAPslglSpxE2os0a4R6Cdc27zzorTWVop97VCpKMuGcw85UD5x--A?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/ac7hnd02u22v5i5095ahi8opuc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9m6kj5kx1eZi2x-g9ldva0BNpumjiIhDh9CwNkpWKEMwi6xSIu1-i2elwpfWUHJ_n7-Off3_oD39vMuvDxfLCGBcatgtJoNBwrUFQ22ATBaT1VxH-tVfuQ9VKsRuEvtIM1YATLET4sFltR_HZLUUvHA_6W7vD7pFIba1ctf9haQkEoDxHOTviaOeshRA1SfYA?session=0&amp;fife https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/70goq0lvjqcajfkliif174tdi8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ndg4GKNFwJOPyK9LVvlPlO_Ea3pU45pJyBQDcYrs6JH8wYY9U1F5QcneMr0G1tJFBIIOw7m3668Ax9tVlCYSnRzln7UP8pmZryDT6dLymIekfEGwynYXQobaOanU1GcKa9pXiU2fF6fYAPslglSpxE2os0a4R6Cdc27zzorTWVop97VCpKMuGcw85UD5x--A?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.683797,55.853676,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Александры Монаховой 105к1</name>
+      <description>ПИК</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.495396,55.540881,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4-й под.,НТЭ.Активный узел,опт.усил.</name>
+      <description>Предцедатель: 8-926-247-33-21 Евгений Яковлевич.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.586905,55.859698,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3-й под.,ВТЭ.Пассивный распределительный узел,приход ВОК96 по канализации</name>
+      <description>13-я Парковая 27к1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.811583,55.805194,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кастанаевская 51</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.460268,55.731868,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каширское ш. 80к2</name>
+      <description>Ящики 2п, домофон 610 ключ 2770</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.706704,55.625552,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р 10к1</name>
+      <description>НТЭ 7 под, вход через 6 под.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.409112,55.757449,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Косинская 18к.3</name>
+      <description>&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/08sq0n18r6grgonj7c5vnqlorg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kptrJmc-6xE-REa2C8ddeSUQszF5XSHAvaxPMZKE4DWjcWCX1F3puqFA_EVPytQKcgrt5Hem5FtEHh8ARdzPD4hvtrZTRr8yrhLYdnoxsDTiChI423HTMzbDVumdR4W3G_jLZZQeHz2BG31wmTUDhVtccRFKuGnvIOT9-sYo3Fd_53UVvndtePXCyqRHS8njM?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;МосТелСигнал, 5п, шкаф возле выхода на крышу. Ключи все у нас.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/g0bve5r1uke8injrppec8obe1o/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lbghj99qplUkJNSagaqgn3EIqQYdnteEXGfzCDgQWiOdsthAsJR2NzaXQJw8wfWUy1shOCNZiTjqCm74yre06j9Jp3WYi92ByTwZCIZsA6VRI6HmH63YqjEGEYH_RnbAI5Hq3NzgR2HaPIFlh0DzKhUQV13NOCy33a6fUS54Rgep0cTaJsiE5n_SBcJYr0vWw?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/08sq0n18r6grgonj7c5vnqlorg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kptrJmc-6xE-REa2C8ddeSUQszF5XSHAvaxPMZKE4DWjcWCX1F3puqFA_EVPytQKcgrt5Hem5FtEHh8ARdzPD4hvtrZTRr8yrhLYdnoxsDTiChI423HTMzbDVumdR4W3G_jLZZQeHz2BG31wmTUDhVtccRFKuGnvIOT9-sYo3Fd_53UVvndtePXCyqRHS8njM?session=0&amp;fife https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/g0bve5r1uke8injrppec8obe1o/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lbghj99qplUkJNSagaqgn3EIqQYdnteEXGfzCDgQWiOdsthAsJR2NzaXQJw8wfWUy1shOCNZiTjqCm74yre06j9Jp3WYi92ByTwZCIZsA6VRI6HmH63YqjEGEYH_RnbAI5Hq3NzgR2HaPIFlh0DzKhUQV13NOCy33a6fUS54Rgep0cTaJsiE5n_SBcJYr0vWw?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.830632,55.722705,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.43, к.1</name>
+      <description>Секция 3, под.2, НТЭ (между 1 и 2 эт)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.553726,55.668285,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гарибальди ул., д.36</name>
+      <description>Секция 8, под. 4, подвал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.559981,55.668461,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-й под.,ВТЭ.Пассивный распределительный узел на группу домов.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.675703,55.787068,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пр-т Вернадского, 42к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.499000,55.675536,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д.9</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.344661,55.595874,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Апрелевка, 1-я Заводская, д.16</name>
+      <description>Узел Махова</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.080934,55.550403,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Марусино, Заречная ул. д33 К7</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/q5tn62tb9a6kseslmqcgp5drp4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kdZt4SyrMZJF_N7nV8_VOECkrVRuOXVOrNJqwJsrWY5jQH_sLm5ia3BPcfzHojUiIjPhUZ6uwVZKn71sRt293HbXmLHMU_GcA0bRL2lCxRJ9GO-SveFg6nserxjP51ezXNUM63XVHPuP_biRyD8SSUzcgHlZTE7HOgQm5tJvUiXkp8ShelpJBwmPylVlOfTQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ГС Любтелемонтаж подъезд 2 5-й этаж (код от домофона #1234)&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/620uo5kiadvqehi34np4vfcjnc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lkocxk2sLRXj8W_TEptvzdspe_vknHgMBLG1VTVUE6qzJV0qDsst6lhKX8rPJbbNKtfXFXTH-DfjrI0K5-LJYDQW7GYN_9aLVwQBz8-Acf4G4DXhDB-Qok8WjN7zUcskPG1jXBeEQb6cHW79A1pnbI6XQ7ox7gs2DTV2U7x8DiBbNTooiYMvaWmepsHDKNhQ?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/q5tn62tb9a6kseslmqcgp5drp4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kdZt4SyrMZJF_N7nV8_VOECkrVRuOXVOrNJqwJsrWY5jQH_sLm5ia3BPcfzHojUiIjPhUZ6uwVZKn71sRt293HbXmLHMU_GcA0bRL2lCxRJ9GO-SveFg6nserxjP51ezXNUM63XVHPuP_biRyD8SSUzcgHlZTE7HOgQm5tJvUiXkp8ShelpJBwmPylVlOfTQ?session=0&amp;fife https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/620uo5kiadvqehi34np4vfcjnc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lkocxk2sLRXj8W_TEptvzdspe_vknHgMBLG1VTVUE6qzJV0qDsst6lhKX8rPJbbNKtfXFXTH-DfjrI0K5-LJYDQW7GYN_9aLVwQBz8-Acf4G4DXhDB-Qok8WjN7zUcskPG1jXBeEQb6cHW79A1pnbI6XQ7ox7gs2DTV2U7x8DiBbNTooiYMvaWmepsHDKNhQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.965649,55.693735,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Марусино, Заречная ул. 37 к1</name>
+      <description>ГС Любтелеможнтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.969935,55.691920,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Селятино, Клубная ул., д.30А</name>
+      <description>Голова Селятино Махова</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>36.981240,55.514687,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борисова, 14к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.456908,56.011394,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Авиател</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.609806,55.796490,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Выход на кровлю.Активный распред.узел.Опт усил.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.721121,55.793836,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кавказский б-р 29к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.666403,55.627847,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новокосинская ул., д.37</name>
+      <description>Подвал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.867560,55.743410,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешняковская, 21/26</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.830589,55.732669,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Реутовская д.8к3</name>
+      <description>6подъезд. Мы ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.834744,55.738505,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Владимирская д.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.780975,55.762100,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Ленина, 33</name>
+      <description>ВТЭ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.466225,56.010006,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Березовая аллея 7</name>
+      <description>Новый офис&lt;br&gt;1 эт. в районе 7 подъезда вход с другой стороны от подъездов.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57</styleUrl>
+      <Point>
+        <coordinates>37.610738,55.852364,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

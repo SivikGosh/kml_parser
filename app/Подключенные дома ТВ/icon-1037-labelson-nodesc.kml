@@ -1,0 +1,493 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1037-labelson-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1037-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ИНКВЕСТ Матвеевская 4к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.475411,55.705236,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ИНКВЕСТ Матвеевская 6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.474837,55.704157,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СКПТ Тропорева</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.433290,55.736129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Теплый Стан 3к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.500662,55.620257,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Декабристов ул., д.10,к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.596288,55.866438,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Константина Симонова ул., д.4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.541297,55.797780,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4-й Вятский пер., д.18,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.570576,55.801784,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярославское ш.26А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.693984,55.854510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отрадная ул., д.12</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.611533,55.856220,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Панфилова ул., д.2, НТЭ</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.426289,55.885445,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домодедовская ул., д.38,к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.713176,55.603100,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Герасима Курина ул., д.44,к.1 </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.461609,55.731061,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домодедовская ул., д.6,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.703850,55.615186,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домодедовская ул., д.7,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.710416,55.612181,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усиевича ул., д.8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.531507,55.805439,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усиевича ул., д.13</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.534173,55.804546,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шипиловская ул., д.50,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.739561,55.620427,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Анохина Академика, 9к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.474718,55.659278,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 5, 3-й микрорайон</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.341692,55.597629,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 19, 3-й микрорайон</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.344181,55.594425,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новосущевская ул., д.13/1
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.603133,55.790129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр., д.126</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.510049,55.667759,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вяземская ул., д.8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.400669,55.713858,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вяземская ул., д.6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.401613,55.714142,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вяземская ул, д10</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.402782,55.713574,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Оболенский пер., д.9,к.8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.580457,55.730940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Щелковское ш., д.18к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.772208,55.807172,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Щелковское ш., д.77,к.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.806047,55.812915,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская ул., д.28,к.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.560421,55.876521,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Анохина ул., 26к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.472477,55.662107,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Анохина ул., 26к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.471436,55.661580,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Анохина ул., 30к4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.468625,55.661290,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Анохина ул., 34к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.464795,55.660945,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Анохина ул., 34к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.465498,55.659798,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>МК Факультетский пер, д.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.494938,55.811281,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волгоградский пр., 168</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.813306,55.690031,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., 156 корпус 3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.497519,55.617261,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., 156 корпус 5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.495540,55.617444,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Мусы Джалиля, 5 корпус 4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.746927,55.629662,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фестивальная, д.12/20</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.494471,55.859183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шелепихинское ш., 13 стр. 2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.521628,55.758141,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шелепихинское ш., 13 стр. 3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.520824,55.757742,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тарусская ул., 22 корпус 1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.527678,55.600991,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 15</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.514611,55.672620,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Печорская, 5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.669174,55.863166,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лётчика Бабушкина, 11</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.673485,55.861413,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Матвеевская ул.,д.10к.5
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.469697,55.704916,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Матвеевская ул.,д.10к.4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.470684,55.704650,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул.Матвеевская,д.16к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.470839,55.703053,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нежинская, д.8к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.469848,55.709285,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нежинская, д.8к4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.471393,55.710180,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нежинская, д.8к3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.470696,55.710530,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нежинская, д.8к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.469956,55.710276,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пр-т  Вернадского д.76 к1
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.484834,55.673898,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенняя ул., д. 25 кор.8-10</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.398173,55.769087,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ракетостроителей ул. 7к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.502614,55.933291,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель Матрешка</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.622604,55.759940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК САНРАЙС</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.450288,55.532072,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сергея Макеева, д.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.549592,55.756752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

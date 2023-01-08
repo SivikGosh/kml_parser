@@ -1,0 +1,24 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1337-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1337-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1337-poi-temple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>ЦОД DataSpace</name>
+      <description>Шарикоподшипниковская ул., 11, стр. 9</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-labelson</styleUrl>
+      <Point>
+        <coordinates>37.677706,55.721640,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

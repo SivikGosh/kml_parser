@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-000000-3145</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-3145-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3.145</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-3145-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.7175</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-3145">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-3145-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-3145-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>вынос сети ок 64 09.06.2022</name>
+      <description>&lt;img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f4n5204idriu0re7f56101dbkk/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lCnyTgZMQoWv1p2M1ZlJrgPzxVAFaQsYjZjBb6NjVnktjUhXzy6XmqpVWineCEO3JP9eSLuTgKvvc-keibHDN__VucD4h4KPpxHuHez2fEdLX7z6k3O96TchbgJlpsNPjGYHwckwlzDHUBIcA62sgmbshVY5_r_QkcCWER6y5B61Sd1blXuZ1EXJvZQ7USRA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-3145</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f4n5204idriu0re7f56101dbkk/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lCnyTgZMQoWv1p2M1ZlJrgPzxVAFaQsYjZjBb6NjVnktjUhXzy6XmqpVWineCEO3JP9eSLuTgKvvc-keibHDN__VucD4h4KPpxHuHez2fEdLX7z6k3O96TchbgJlpsNPjGYHwckwlzDHUBIcA62sgmbshVY5_r_QkcCWER6y5B61Sd1blXuZ1EXJvZQ7USRA?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <coordinates>37.571809,55.791208,0.000000 37.571900,55.791214,0.000000 37.571897,55.791243,0.000000 37.572895,55.791282,0.000000 37.572903,55.791255,0.000000 37.572975,55.791259,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

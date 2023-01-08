@@ -1,0 +1,27 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-962-B29189-labelson-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-962-B29189-labelson-nodesc">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ТК-213 (ул.Гастелло)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.696574,55.783046,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

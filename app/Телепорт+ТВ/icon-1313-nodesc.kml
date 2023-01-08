@@ -1,0 +1,77 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1313-nodesc</name>
+    <description>Телепорт+ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1313-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1313-poi-religious-buddhist-zen.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1313-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1313-poi-religious-buddhist-zen.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1313-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1313-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1313-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ул. Мирная, 24А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1313-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.458174,56.008294,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Молодежная, 16</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1313-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.429127,56.018211,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Ленина, 21</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1313-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.475197,56.011199,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кольцевая ул., 14</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1313-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.486624,56.005036,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
