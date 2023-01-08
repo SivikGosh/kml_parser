@@ -2,7 +2,7 @@ import os
 
 from fastkml import kml, styles, data
 from fastkml.geometry import Geometry
-from get_pictograms import open_input_file
+from get_pictograms import open_file
 from progress.bar import PixelBar
 import re
 from datetime import datetime
@@ -12,12 +12,9 @@ from pygeoif import Point, LineString
 def get_unique_styles(folder):
     styles = set()
     all_placemarks = folder.find_all('Placemark')
-    bar = PixelBar(max=len(all_placemarks))
     for placemark in all_placemarks:
         style_url = placemark.find('styleUrl').text
         styles.add(re.search('[A-Za-z-0-9]+', style_url).group(0))
-        bar.next()
-    bar.finish()
     return list(styles)
 
 
@@ -39,7 +36,6 @@ def create_icon_style_obj(folder, style, dir):
 def get_style_objects(soup, placemark_style, dir, folder):
     style_list = []
     all_styles = soup.find_all('Style')
-    bar = PixelBar(max=len(all_styles))
     for style in all_styles:
         style_id = style['id']
         if placemark_style in style_id:
@@ -62,15 +58,12 @@ def get_style_objects(soup, placemark_style, dir, folder):
                     style.find('BalloonStyle').find('text').text)
                 style_obj.append_style(balloon_style)
             style_list.append(style_obj)
-        bar.next()
-    bar.finish()
     return style_list
 
 
 def get_style_map_objects(soup, placemark_style):
     style_map_list = []
     all_style_maps = soup.find_all('StyleMap')
-    bar = PixelBar('Создаётся StyleMap: ', max=len(all_style_maps))
     for style_map in all_style_maps:
         style_map_id = style_map['id']
         if placemark_style in style_map_id:
@@ -83,8 +76,6 @@ def get_style_map_objects(soup, placemark_style):
             style_map_object.highlight = (
                 styles.StyleUrl(url=style_map_url_h.find('styleUrl').text))
             style_map_list.append(style_map_object)
-        bar.next()
-    bar.finish()
     return style_map_list
 
 
@@ -105,7 +96,6 @@ def get_line_string_coordinates(line_string):
 def get_placemark_objects(folder, placemark_style):
     placemark_list = []
     all_placemarks = folder.find_all('Placemark')
-    bar = PixelBar(max=len(all_placemarks))
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
         if placemark_style in placemark_style_url:
@@ -135,13 +125,11 @@ def get_placemark_objects(folder, placemark_style):
                 geometry_line_object = Geometry(geometry=line_object)
                 placemark_object.geometry = geometry_line_object
             placemark_list.append(placemark_object)
-        bar.next()
-    bar.finish()
     return placemark_list
 
 
 if __name__ == '__main__':
-    base_dir, input_file, soup = open_input_file()
+    base_dir, soup = open_file()
     folder_list = soup.find_all('Folder')
     bar = PixelBar('Обработано папок', max=len(folder_list))
     start = datetime.now()
@@ -162,47 +150,11 @@ if __name__ == '__main__':
             for placemark in placemarks:
                 doc.append(placemark)
             kml_file.append(doc)
-            kml_file_option = open(f'{style}.kml', 'wb')
-            kml_file_option.write(kml_file.to_string().encode())
-            kml_file_option.close()
+            print(kml_file.to_string(prettyprint=True))
+            # kml_file_option = open(f'{style}.kml', 'wb')
+            # kml_file_option.write(kml_file.to_string().encode())
+            # kml_file_option.close()
         os.chdir(base_dir)
         bar.next()
     bar.finish()
     print(datetime.now() - start)
-
-    # print(get_line_string_coordinates(soup.find('LineString').find('coordinates').text))
-    # # amount_elements(soup)
-    # # get_style_kids(soup)
-
-
-# def amount_elements(soup):
-#     placemarks = soup.find_all('Placemark')
-#     count = 0
-#     for placemark in placemarks:
-#         extended_datas = placemark.find_all('ExtendedData')
-#         for extended_data in extended_datas:
-#             datas = extended_data.find_all('Data')
-#             for data in datas:
-#                 values = data.find_all('value')
-#                 for value in values:
-#                     print('value attr: ', value.attrs)
-#                     count += 1
-#     print(count)
-
-
-# def get_style_kids(soup):
-#     outset = set()
-#     style_maps = soup.find_all('Folder')
-#     for style in style_maps:
-#         pairs = style.find_all('Placemark')
-#         for pair in pairs:
-#             keys = pair.find_all('ExtendedData')
-#             for key in keys:
-#                 hrefs = key.find_all('Data')
-#                 for href in hrefs:
-#                     values = href.find_all('value')
-#                     for value in values:
-#                         kids = value.children
-#                         for i in kids:
-#                             outset.add(i.name)
-#     print(outset)
