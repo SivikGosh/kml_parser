@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # other catalogs
-app/pictograms/
+../app/pictograms/
