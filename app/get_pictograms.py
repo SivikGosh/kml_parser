@@ -2,8 +2,8 @@ import os
 import re
 
 import requests
-from progress.bar import PixelBar
 from input_datas import root_dir, soup_file
+from progress.bar import PixelBar
 
 
 def get_urls(soup):
@@ -15,7 +15,7 @@ def get_urls(soup):
 
 
 def download_icons(urls):
-    bar = PixelBar(max=len(urls))
+    bar = PixelBar('Загрузка иконок', max=len(urls))
     for url in urls:
         img_url = requests.get(url)
         img_name = re.search('[0-9-a-z_]+.png', url).group(0)

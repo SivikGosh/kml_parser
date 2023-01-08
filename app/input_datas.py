@@ -1,4 +1,5 @@
 import os
+
 from bs4 import BeautifulSoup
 
 root_dir = os.path.dirname(__file__)

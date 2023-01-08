@@ -1,15 +1,16 @@
 import os
-
-from fastkml import kml, styles, data
-from fastkml.geometry import Geometry
-from get_pictograms import open_file
-from progress.bar import PixelBar
 import re
 from datetime import datetime
-from pygeoif import Point, LineString
+
+from fastkml import data, kml, styles
+from fastkml.geometry import Geometry
+from get_pictograms import open_file
+from input_datas import root_dir, soup_file
+from progress.bar import PixelBar
+from pygeoif import LineString, Point
 
 
-def get_unique_styles(folder):
+def get_styles(folder):
     styles = set()
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
@@ -129,11 +130,20 @@ def get_placemark_objects(folder, placemark_style):
 
 
 if __name__ == '__main__':
-    base_dir, soup = open_file()
-    folder_list = soup.find_all('Folder')
-    bar = PixelBar('Обработано папок', max=len(folder_list))
-    start = datetime.now()
-    os.chdir(base_dir)
+    os.chdir(root_dir)
+    all_folders = soup_file.find_all('Folder')
+    bar = PixelBar('Обработано папок', max=len(all_folders))
+    start_time = datetime.now()
+    for folder in all_folders:
+        folder_name = folder.find('name').text
+        if not os.path.isdir(folder_name):
+            os.mkdir(folder_name)
+        os.chdir(folder_name)
+        all_styles = get_styles(folder)
+        bar.next()
+    bar.finish()
+    print(datetime.now() - start_time)
+
     for folder in folder_list:
         if not os.path.isdir(folder.find('name').text):
             os.mkdir(folder.find("name").text)
