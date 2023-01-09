@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -29,14 +29,6 @@
       <styleUrl>#icon-1113-labelson</styleUrl>
       <Point>
         <coordinates>37.613769,55.721664,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>РТРС в Бутово</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.557123,55.537624,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

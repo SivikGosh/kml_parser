@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.882305,
+          55.740642,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Мирской пр-д,д.3",
+        "styleUrl": "#icon-960-009D57-nodesc",
+        "styleHash": "-7315530b",
+        "styleMapHash": {
+          "normal": "#icon-960-009D57-nodesc-normal",
+          "highlight": "#icon-960-009D57-nodesc-highlight"
+        },
+        "visibility": "1"
+      }
+    }
+  ]
+}

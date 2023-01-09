@@ -342,13 +342,5 @@
         <coordinates>37.455876,56.009797,0.000000 37.455894,56.009788,0.000000 37.459497,56.010126,0.000000 37.461578,56.010315,0.000000 37.463645,56.010381,0.000000 37.466490,56.010419,0.000000 37.466564,56.010371,0.000000</coordinates>
       </LineString>
     </Placemark>
-    <Placemark>
-      <name>19-10-07</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-795046-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.344941,55.596154,0.000000 37.344519,55.596113,0.000000 37.344613,55.595846,0.000000</coordinates>
-      </LineString>
-    </Placemark>
   </Document>
 </kml>

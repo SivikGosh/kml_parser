@@ -8,7 +8,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -18,7 +18,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -33,14 +33,6 @@
       <styleUrl>#icon-503-4186F0-labelson</styleUrl>
       <Point>
         <coordinates>37.612873,55.580296,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Точка 2163</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-4186F0-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.726821,55.378146,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

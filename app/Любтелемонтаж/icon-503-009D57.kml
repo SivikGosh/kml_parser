@@ -8,7 +8,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -21,7 +21,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -34,7 +34,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -44,7 +44,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -57,7 +57,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -73,7 +73,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -111,14 +111,6 @@
       <styleUrl>#icon-503-009D57</styleUrl>
       <Point>
         <coordinates>37.176684,55.979318,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>временная муфта </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-009D57-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.176246,55.979072,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

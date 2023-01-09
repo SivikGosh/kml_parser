@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -23,60 +23,12 @@
       </BalloonStyle>
     </Style>
     <Placemark>
-      <name>ул. Вешних вод, д.8к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.699712,55.859546,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Вешних Вод, д.8 к.3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.700009,55.859114,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Вешних Вод, д.8 к.1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.698960,55.860219,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Вешних Вод, д.4, к.1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.697107,55.859022,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Русанова д.9</name>
       <description>МосГорТелеСеть</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1121-labelson</styleUrl>
       <Point>
         <coordinates>37.644294,55.855768,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленинградское шоссе, д.25 к.1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.488792,55.827166,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленинградское шоссе, д.25 к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.487493,55.827685,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

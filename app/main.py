@@ -21,11 +21,10 @@ def get_placemark_styles(folder):
 
 def create_icon_style(folder, style, dir):
     """"""
-    folder_name = folder.find("name").text
     icon_url = style.find('href').text
     icon_name = re.search('[0-9-a-z_]+.png', icon_url).group(0)
     icon_style = styles.IconStyle()
-    icon_style.icon_href = f'{dir}/{folder_name}/{icon_name}'
+    icon_style.icon_href = f'{dir}/pictograms/{icon_name}'
     icon_style.scale = style.find('IconStyle').find('scale').text
     if style.find('color'):
         icon_style.color = style.find('color').text
@@ -119,7 +118,7 @@ def add_placemarks(folder, placemark_style):
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
-        if placemark_style in placemark_style_url:
+        if f'#{placemark_style}' == placemark_style_url:
             placemark_object = kml.Placemark(name=placemark.find('name').text)
             placemark_object.style_url = placemark_style_url
             if placemark.find('description'):
@@ -179,6 +178,5 @@ if __name__ == '__main__':
         os.chdir(base_dir)
         bar.next()
     bar.finish()
-    print(datetime.now() - start_time)
-    print(len(soup.find_all('Placemark')))
-    print(placemark_count)
+    print('Операция выполнена за ', datetime.now() - start_time)
+    assert placemark_count == len(soup.find_all('Placemark'))

@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,21 +15,13 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
         <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
       </BalloonStyle>
     </Style>
-    <Placemark>
-      <name>Точка 1522</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1047-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.617022,55.727596,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>Муфта ЮлКом ТК13</name>
       <description>заход в ЦОД Oxygen Волгоградский пр-т, д.42, к.9</description>

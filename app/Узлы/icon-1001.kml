@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -122,22 +122,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.614344,55.818533,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>1-й Рижский пер., д.2г</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1001-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.652936,55.807154,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Шаболовка 37</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1001-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.611893,55.718330,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

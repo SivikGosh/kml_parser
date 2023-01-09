@@ -8,7 +8,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -18,7 +18,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -33,15 +33,6 @@
       <styleUrl>#icon-503-009D57-labelson</styleUrl>
       <Point>
         <coordinates>37.521932,55.669247,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>тк№170 ул. Кржижановского
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-009D57-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.574883,55.678319,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -65,22 +56,6 @@
       <styleUrl>#icon-503-009D57-labelson</styleUrl>
       <Point>
         <coordinates>37.541142,55.806216,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>разветвительная муфта </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-009D57-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.718395,55.387987,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>НК-69 (Кавказский бульвар)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-009D57-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.645406,55.627562,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

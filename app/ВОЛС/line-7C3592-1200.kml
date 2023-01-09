@@ -216,22 +216,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Телепорт ТВ-33</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.470091,56.007503,0.000000 37.469976,56.007747,0.000000 37.470902,56.007815,0.000000 37.471572,56.007921,0.000000 37.470384,56.010706,0.000000 37.470279,56.010997,0.000000 37.471207,56.011132,0.000000 37.472919,56.011393,0.000000 37.477513,56.012138,0.000000 37.480625,56.012678,0.000000 37.481043,56.012576,0.000000 37.480078,56.012408,0.000000 37.480324,56.012114,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-33</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.470023,56.007490,0.000000 37.469980,56.007658,0.000000 37.467724,56.007334,0.000000 37.467159,56.008748,0.000000 37.466828,56.008789,0.000000 37.461324,56.008093,0.000000 37.459586,56.007871,0.000000 37.459248,56.008693,0.000000 37.458309,56.008669,0.000000 37.458390,56.008507,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>Телепорт ТВ</name>
       <description>папка №38</description>
       <visibility>1</visibility>
@@ -241,148 +225,12 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Телепорт ТВ-38</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.466369,56.006346,0.000000 37.466573,56.006379,0.000000 37.466723,56.005992,0.000000 37.466487,56.005953,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-38</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.466723,56.005992,0.000000 37.466932,56.005434,0.000000 37.466691,56.005407,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-3</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.469983,56.007486,0.000000 37.469916,56.007673,0.000000 37.467671,56.007381,0.000000 37.467306,56.008308,0.000000 37.467127,56.008219,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>Телепорт ТВ-6</name>
       <description>ТТППЭ 100х2</description>
       <visibility>1</visibility>
       <styleUrl>#line-7C3592-1200</styleUrl>
       <LineString>
         <coordinates>37.470110,56.007500,0.000000 37.470051,56.007665,0.000000 37.470891,56.007740,0.000000 37.470985,56.007620,0.000000 37.471258,56.007441,0.000000 37.472028,56.007025,0.000000 37.473728,56.006084,0.000000 37.473863,56.006014,0.000000 37.474128,56.005895,0.000000 37.476124,56.005131,0.000000 37.476928,56.004817,0.000000 37.478270,56.004282,0.000000 37.478431,56.003556,0.000000 37.478833,56.003518,0.000000 37.478806,56.003283,0.000000 37.482261,56.002965,0.000000 37.482696,56.002910,0.000000 37.483303,56.002887,0.000000 37.483139,56.002395,0.000000 37.484159,56.002380,0.000000 37.484062,56.002146,0.000000 37.484432,56.002098,0.000000 37.484459,56.002230,0.000000 37.485730,56.002026,0.000000 37.485682,56.001921,0.000000 37.485827,56.001906,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-25</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.428688,56.018228,0.000000 37.428124,56.018435,0.000000 37.427341,56.019041,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-15</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.456694,56.011599,0.000000 37.459435,56.011506,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-14</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.455745,56.011455,0.000000 37.456576,56.011557,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-30</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.481165,56.013468,0.000000 37.480841,56.013424,0.000000 37.481181,56.012772,0.000000 37.481490,56.012829,0.000000 37.481307,56.012636,0.000000 37.481114,56.012669,0.000000 37.480658,56.013584,0.000000 37.480328,56.014083,0.000000 37.480178,56.014401,0.000000 37.479878,56.014958,0.000000 37.479239,56.016083,0.000000 37.478805,56.016952,0.000000 37.478424,56.017735,0.000000 37.478944,56.017762,0.000000 37.479357,56.017621,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-30</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.478422,56.017756,0.000000 37.478379,56.017849,0.000000 37.478202,56.017810,0.000000 37.477596,56.019009,0.000000 37.477462,56.019285,0.000000 37.477859,56.019411,0.000000 37.478239,56.019714,0.000000 37.480444,56.019837,0.000000 37.480460,56.019726,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт -ТВ-27</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.422198,56.018368,0.000000 37.422046,56.018361,0.000000 37.422097,56.018756,0.000000 37.422577,56.018714,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ -27</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.422612,56.018752,0.000000 37.422437,56.018764,0.000000 37.422461,56.018834,0.000000 37.424210,56.018684,0.000000 37.425795,56.019205,0.000000 37.425878,56.019137,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-27</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.425956,56.019164,0.000000 37.425951,56.019179,0.000000 37.425870,56.019256,0.000000 37.426385,56.019445,0.000000 37.427185,56.018960,0.000000 37.427276,56.019010,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-46</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.474009,56.010922,0.000000 37.474385,56.009870,0.000000 37.475034,56.010013,0.000000 37.475082,56.009891,0.000000 37.476075,56.010154,0.000000 37.475662,56.010844,0.000000 37.475243,56.010787,0.000000 37.475061,56.011078,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-41</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.481624,56.005766,0.000000 37.482300,56.005457,0.000000 37.482069,56.005004,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-41</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.484185,56.006224,0.000000 37.483914,56.006833,0.000000 37.484357,56.006891,0.000000 37.484349,56.006821,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-44</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.481855,56.003791,0.000000 37.482142,56.003772,0.000000 37.482121,56.003611,0.000000 37.482099,56.003491,0.000000 37.482073,56.002864,0.000000 37.479991,56.003032,0.000000 37.479895,56.002732,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-57</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.427990,56.018797,0.000000 37.427866,56.018734,0.000000 37.428092,56.018620,0.000000 37.427813,56.018509,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ-51</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.430451,56.018452,0.000000 37.430419,56.018479,0.000000 37.429818,56.019022,0.000000</coordinates>
       </LineString>
     </Placemark>
     <Placemark>
@@ -731,15 +579,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ООО Бороддино-Телеком
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.611357,55.727569,0.000000 37.611397,55.727678,0.000000 37.611217,55.727690,0.000000 37.611146,55.727474,0.000000 37.610834,55.727344,0.000000 37.608177,55.724355,0.000000 37.607179,55.722953,0.000000 37.605597,55.720530,0.000000 37.605533,55.720536,0.000000 37.605372,55.720216,0.000000 37.605318,55.720201,0.000000 37.604234,55.718201,0.000000 37.603151,55.716486,0.000000 37.603526,55.716370,0.000000 37.603349,55.716179,0.000000 37.599482,55.715575,0.000000 37.599889,55.714611,0.000000 37.599852,55.714360,0.000000 37.600157,55.714112,0.000000 37.597169,55.713982,0.000000 37.594954,55.714097,0.000000 37.594546,55.710172,0.000000 37.594852,55.710178,0.000000 37.594755,55.709987,0.000000 37.594385,55.709891,0.000000 37.594208,55.709921,0.000000 37.593679,55.709910,0.000000 37.593240,55.709844,0.000000 37.593414,55.709980,0.000000 37.593398,55.709797,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>19-01-02</name>
       <description>Телепорт ТВ ул. Г. Кузнецова, д.12 -ш. Энтузиастов д.11 ОК-16</description>
       <visibility>1</visibility>
@@ -846,14 +685,6 @@
       <styleUrl>#line-7C3592-1200</styleUrl>
       <LineString>
         <coordinates>37.718316,55.750167,0.000000 37.717184,55.749937,0.000000 37.716460,55.751287,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Вынос</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.828398,55.773342,0.000000 37.845389,55.770820,0.000000</coordinates>
       </LineString>
     </Placemark>
     <Placemark>
@@ -991,14 +822,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Канализация Т+ТВ</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.458719,56.013034,0.000000 37.459309,56.012932,0.000000 37.458686,56.011864,0.000000 37.458005,56.011885,0.000000 37.457984,56.011735,0.000000 37.457158,56.011522,0.000000 37.456857,56.011519,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>11-39</name>
       <description>ОК-48</description>
       <visibility>1</visibility>
@@ -1047,15 +870,6 @@
       <styleUrl>#line-7C3592-1200</styleUrl>
       <LineString>
         <coordinates>37.716650,55.751684,0.000000 37.716957,55.751755,0.000000 37.716149,55.752957,0.000000 37.715363,55.752785,0.000000 37.714905,55.753523,0.000000 37.714602,55.753455,0.000000 37.714430,55.753732,0.000000 37.713370,55.753529,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Телепорт ТВ
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#line-7C3592-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.480380,56.012100,0.000000 37.480165,56.012397,0.000000 37.481110,56.012565,0.000000 37.480723,56.012703,0.000000 37.480331,56.012628,0.000000 37.480759,56.012745,0.000000 37.481346,56.012826,0.000000 37.481480,56.012949,0.000000 37.481169,56.012907,0.000000 37.480916,56.013387,0.000000 37.481185,56.013432,0.000000</coordinates>
       </LineString>
     </Placemark>
   </Document>

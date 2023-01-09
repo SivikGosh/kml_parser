@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1149-crisis-flood.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -165,14 +165,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Череповецкая ул., 11/20</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.580776,55.899014,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Малая Филевская ул., 22</name>
       <description>Комсервис</description>
       <visibility>1</visibility>
@@ -188,14 +180,6 @@
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.536633,55.801234,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>2-й Балтийский пер., 2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.523479,55.807171,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -307,22 +291,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Ленинградский пр., 60 к.2(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.536187,55.799356,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленинградский пр., 74 к.5(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.518160,55.806451,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Ленинградский пр., 74 к.6(ТВиСТ)</name>
       <description>Север Строй. Мы ТВиСТ</description>
       <visibility>1</visibility>
@@ -368,36 +336,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ул. Планетная, 12(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.550254,55.800739,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ул. Планетная, 17(ТВиСТ)</name>
       <description>Север Строй. Мы ТВиСТ</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.548513,55.799975,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Планетная, 29(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.544806,55.802208,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Планетная, 29 к.1(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.544902,55.802722,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -434,14 +378,6 @@
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.538607,55.805936,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Старый Зыковский пр., 4(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.544280,55.801458,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -488,70 +424,6 @@
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.540234,55.803556,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Самеда Вургуна, 1(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.525315,55.806681,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул.Усиевича,23.(ТВиСТ) </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.525501,55.805883,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Усиевича, 25 к.2(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.522659,55.806237,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Усиевича, 25 к.3(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.521818,55.806470,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул.Усиевича,29,к.2(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.518489,55.806922,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Черняховского ул., 8А(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.537628,55.804276,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Черняховского ул., 8(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.536657,55.805037,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Черняховского ул., 12(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.537444,55.805958,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -691,105 +563,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Кавказский б-р д.21
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.666495,55.630517,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кавказский б-р д.21 к.2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.667439,55.631298,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Просторная ул. д.2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.713730,55.804285,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Просторная ул. д.4
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.715104,55.804409,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Просторная д.6
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.716215,55.804583,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Просторная ул. д.8
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.717664,55.804819,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Знаменская ул. д.5
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.715252,55.802377,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Знаменская ул. д.8
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.718391,55.802348,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Зельев пер. д.9
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.718561,55.803420,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Знаменская ул. д.19
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.716802,55.802660,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Знаменская ул. д.21
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.717703,55.802901,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Кантемировская ул. д.17 к.1
                 </name>
       <description>&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/cn7f9lv9p21tdk916b52iimljs/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mJTXy8JRrNAeIViq7iepfT9k9Q7aMJFFYkpVcCSlOevyu7Yoi8m0eic5pd3n25AEjt7npC5qgp19VAc23CEzEQZo3ocziWCOJglKtuH3200S86It2Vwd_IUBWRgK5PTcRDUM7uXfJK_iEYCqTE1_k7Lwt9W5t5XnjHFdUDwPDlmP1a7ievyphscq03w9JSnw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Твист, доступ Кантемировская 33к2, 1п НТЭ вход</description>
@@ -805,71 +578,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Кантемировская ул. д.29 к.1
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.668175,55.637095,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.29
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.665678,55.637203,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.29 к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.663985,55.637406,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Кантемировская ул. д.3 к.3</name>
       <description>проблемный дом</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.678437,55.636325,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.3 к.5</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.681371,55.635961,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.3 к.6</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.682305,55.635683,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.39
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.661614,55.637417,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Кантемировская ул. д.5 к.4</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.675513,55.636504,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -1151,63 +865,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Варшавское ш. д.114 к.2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.616984,55.636834,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Варшавское ш. д.114 к.1
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.617681,55.637857,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Новокосинская,24к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.862683,55.739737,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Новокосинская,20к.4</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.861749,55.738281,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Новокосинская,20к.3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.862372,55.739097,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Дегунинская ул., 3</name>
       <description>Крестьянинов</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1149</styleUrl>
       <Point>
         <coordinates>37.536934,55.864406,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Полярная ул. д.13 к.2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1149-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.634796,55.874939,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

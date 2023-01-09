@@ -72,14 +72,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>аренда софт видео воздушки</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-000000-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.703885,55.907081,0.000000 37.706621,55.907370,0.000000 37.718724,55.902174,0.000000 37.717940,55.900522,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ок 64</name>
       <description>после ремонта, по столбам</description>
       <visibility>1</visibility>
@@ -95,14 +87,6 @@
       <styleUrl>#line-000000-1200</styleUrl>
       <LineString>
         <coordinates>36.718396,55.387986,0.000000 36.718412,55.387649,0.000000 36.718430,55.387643,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>вынос сети 96</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-000000-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>36.718547,55.388548,0.000000 36.719005,55.388722,0.000000 36.718704,55.388929,0.000000</coordinates>
       </LineString>
     </Placemark>
   </Document>

@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1047-biz-medical.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -129,14 +129,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Белая площадь: ул. Бутырский вал д.10</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1047-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.585992,55.778297,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Вивальди плаза: Летниковская 2 стр. B</name>
       <description>Проработка для МКС</description>
       <visibility>1</visibility>
@@ -188,22 +180,6 @@
       <styleUrl>#icon-1047</styleUrl>
       <Point>
         <coordinates>37.652666,55.750609,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Фабрика Станиславского: ул. Станиславского, д. 21</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1047-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.663903,55.745879,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Большевик: Ленинградский пр., 15</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1047-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.572138,55.781609,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -276,14 +252,6 @@
       <styleUrl>#icon-1047</styleUrl>
       <Point>
         <coordinates>37.738961,55.467283,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ЖК ЭКО Видное</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1047-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.721339,55.530194,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

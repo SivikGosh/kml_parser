@@ -8,7 +8,7 @@
         <color>ff44af62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -20,7 +20,7 @@
         <color>ff44af62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -32,7 +32,7 @@
         <color>ff44af62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -47,7 +47,7 @@
         <color>ff44af62</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/960-wht-star-blank.png</href>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -96,14 +96,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Челобитьевское, ш. 12, к.5, 1п. тех этаж</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.548091,55.912407,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Химки, Молодежная ул., д.50</name>
       <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/o6cfrr5n62g8iivuo5v2nuirls/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lVBrM_tS0ew2uzwQiue3MVEPvrfnnceInX1E2WsZBF81ERURlqOloVY5LPlYgKmFdHUcCY5phiGU0coT60ymn4lngr0It_wQzTULyKCHhpw8aTZUiDM2dMv_gdgnCLPl0xiWCY6eSLzlkqxHmH571RE10ybu8d1JXKt_EFF79mEV4RDLreVwBuFx-T4hngw1M?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
       <visibility>1</visibility>
@@ -115,22 +107,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.401071,55.899129,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Химки, Панфилова ул., д.1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.426912,55.886601,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Химки, Совхозная ул., д.8</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.482449,55.900013,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
