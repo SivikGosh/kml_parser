@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1001-biz-cinema.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/1001-biz-cinema.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -23,29 +23,12 @@
       </BalloonStyle>
     </Style>
     <Placemark>
-      <name>Телекан О2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1001-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.548265,55.774752,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Сколковское ш., д. 1</name>
       <description>В серверной НТВ+&lt;br&gt;ГПКС проект Козаря Владимира, приходим через кабель РБК</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1001-labelson</styleUrl>
       <Point>
         <coordinates>37.391528,55.700615,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Телеканал ТопШоп</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1001-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.660940,55.682773,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

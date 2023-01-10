@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -43,7 +43,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1343-poi-tower.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -81,15 +81,6 @@
       <styleUrl>#icon-1343</styleUrl>
       <Point>
         <coordinates>37.608980,55.787452,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>столб, Б. Тишинский пер. д.38
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1343-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.569230,55.769468,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

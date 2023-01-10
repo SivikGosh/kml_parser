@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1119-crisis-air-quality.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/1119-crisis-air-quality.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/1119-crisis-air-quality.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/1119-crisis-air-quality.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -29,14 +29,6 @@
       <styleUrl>#icon-1119-labelson</styleUrl>
       <Point>
         <coordinates>37.471594,56.009683,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ТЕЛЕКАНАЛ ЛРТ (городской округ ЛЮБЕРЦЫ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1119-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.878819,55.686164,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

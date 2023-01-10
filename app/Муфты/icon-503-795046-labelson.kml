@@ -8,7 +8,7 @@
         <color>ff465079</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -18,7 +18,7 @@
         <color>ff465079</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -42,15 +42,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>тк№152 (1-й Микрорайон)
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-795046-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.347964,55.605123,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ТК-307 (1-й Микрорайон)
                 </name>
       <description>Инфокос</description>
@@ -58,15 +49,6 @@
       <styleUrl>#icon-503-795046-labelson</styleUrl>
       <Point>
         <coordinates>37.347630,55.604509,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.12 (подвал)
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-795046-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.348417,55.603258,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

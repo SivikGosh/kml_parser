@@ -8,7 +8,7 @@
         <color>ff1b97f8</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -17,22 +17,13 @@
         <color>ff1b97f8</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
         <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
       </BalloonStyle>
     </Style>
-    <Placemark>
-      <name>тк№4 Россошанский пр
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.606790,55.595923,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>тк№42 ул. Россошанская
                 </name>
@@ -60,15 +51,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>тк№5 ул. Бирюлёвская
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.672107,55.581345,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>тк№230 ул. Поречная
                 </name>
       <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dt31urr6uf0iq6kdd3ho1drhlc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lUFqXy3-6QhJKtFfpu9J2felOGYwPKK89xDfdsOvxAlOeEcw7AbZaiDFRQUhwTvhffhdZpbhn7hv6IIFq8m0uHXcSKe_MMOJG6T-xXXLOD88z2nSOWSpuUTWSKPi47sKvfXWGSBUmcpgmldOGcby12IiMqorQ50g2MV64pSyAtfZRQiKXVY8bGJg0W4-QfFQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка!!! к тк224  1538м., к тк145 1866м.</description>
@@ -81,15 +63,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.767770,55.651270,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>тк№224 Поречная ул.
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.765878,55.649135,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -115,24 +88,6 @@
       <styleUrl>#icon-962-F8971B-labelson</styleUrl>
       <Point>
         <coordinates>37.752031,55.644650,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ттк№201 ул. Артюхиной
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.737222,55.704547,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>тк№267 ул. чистова
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.734167,55.696106,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Узлы/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -108,14 +108,6 @@
       <styleUrl>#icon-1037</styleUrl>
       <Point>
         <coordinates>37.828155,55.812165,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Брянская 32с6</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.559153,55.745438,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

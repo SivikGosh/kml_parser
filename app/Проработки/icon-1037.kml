@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1037-biz-house.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -138,14 +138,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>МК Металургов ул., д.44к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.799433,55.759900,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>МК Б. Спасская д.10 к1</name>
       <description>&lt;img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/rtanbknir2kpvajk0ltn7n0rd4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nGsgBZorZqDk4Niy905WtPIcgUQMwJ8k1XICKGNTLVtHf29wBS-YEtDiPpVRzteWNWtSH1Hov4FBxotXebYs9r1it5WP1j-xG01Qpg5G3x2pI2pkeyH11n-OrUxm7ELtw6iWwkWO7Ktb0Cb77RXv5ogrtWYXWRHeTD_ZlYIDe3XXhdGTOWCpG_SSuFdVB0EyU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Спецтелеприём, кросс в 4м падике, консьерж 310 номер домофона, ключи от решётки у консьержа.</description>
       <visibility>1</visibility>
@@ -166,46 +158,6 @@
       <styleUrl>#icon-1037</styleUrl>
       <Point>
         <coordinates>37.619323,55.702446,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Мусы Джалиля, д.7к4</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.744442,55.628838,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Мусы Джалиля, д.17к1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.746470,55.624246,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленинградский пр., 48(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.543621,55.796154,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Усиевича, 25 к.1(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.523488,55.805929,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>пер. Эльдорадовский, 5(ТВиСТ)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.547269,55.799831,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -245,15 +197,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Ярославская ул. д.10 к.5
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.649152,55.819090,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Ярославская ул. д.10 к.1
                 </name>
       <description>&lt;img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/74vn756n7qs2m3jdvno5odf31g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nnh5j4jhpnuACUTZQABF57lD6PSdsGuncpNwz6WU7SPa6hioT72v8QyS9FR5adteO2qp7dyEsmGGelWK1i3kgkPZ3yHImiMt-Yhc7lQP3S6zSfzR7FRhg_1bfs_zLoe4mPAeitFLKlPK-XaAWXO1eP9JReRC-r8clfYfqa_LEoMN3dOfKYFZ58U6_-l-wpYQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
@@ -279,29 +222,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ул. Новогиреевская д.32
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.797086,55.754549,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Чистопольская улица, 32</name>
       <description>СВС</description>
       <visibility>1</visibility>
       <styleUrl>#icon-1037</styleUrl>
       <Point>
         <coordinates>37.977235,55.843120,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Чистопольская улица, 28</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.975545,55.842650,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -346,15 +272,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ул. Новогиреевская д.34
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.797336,55.753913,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ул. Молдагуловой д.28 к.3
                 </name>
       <description>МосТелеСигнал</description>
@@ -381,104 +298,6 @@
       <styleUrl>#icon-1037</styleUrl>
       <Point>
         <coordinates>37.479639,55.727360,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Василия Петушкова 17</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.400020,55.840354,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.16  УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.344298,55.601623,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.22к1 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.349809,55.599544,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.25 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.351096,55.603020,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.43 к.1 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.341334,55.602116,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.43 к.2 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.341940,55.601679,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.45 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.342633,55.602179,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.23 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.354364,55.603178,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.24 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.353014,55.603699,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.41 УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.352573,55.601896,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.15  УК Маторин
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1037-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.343142,55.601568,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

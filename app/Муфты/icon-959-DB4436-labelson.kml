@@ -8,7 +8,7 @@
         <color>ff3644db</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -17,7 +17,7 @@
         <color>ff3644db</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/959-wht-circle-blank.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -31,22 +31,6 @@
       <styleUrl>#icon-959-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>37.587822,55.706425,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ТК-184а (Лобачевского ул.)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-959-DB4436-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.480804,55.681063,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Добрынинский кол-р</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-959-DB4436-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.625203,55.729931,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

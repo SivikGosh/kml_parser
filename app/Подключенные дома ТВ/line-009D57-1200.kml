@@ -63,14 +63,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>тк182-Ленская, д.8 к.2</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-009D57-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.674676,55.865584,0.000000 37.673314,55.865692,0.000000 37.668185,55.866445,0.000000 37.667027,55.866631,0.000000 37.667220,55.867041,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>тк182-тк712</name>
       <description>ОК-32</description>
       <visibility>1</visibility>

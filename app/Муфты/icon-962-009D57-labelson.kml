@@ -8,7 +8,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -17,21 +17,13 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
         <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
       </BalloonStyle>
     </Style>
-    <Placemark>
-      <name>ТК42 Ивано Франко (Телеком)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-009D57-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.425741,55.727992,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>ТК-234а (Мосфильмовская ул.)</name>
       <description>&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/f8grt37a46n0frslmpdq4i4bgg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nM5XJ-aelqVppzCTrKT-mOFQUa-YiXQdQ8FE2uNZvyrtKVDXVJojOfTuUGDJw4QlxcmkGVCbhhspl60TFih3A9-mlSBayxaxEJQ971Lpw3uBgy8Q7K6W7sA966ylLbZpli0bAU27mo2qZs67oNd7B_Fy_8yNvJqKHUq0RGiOGRrGky2awPHahvXpy43GIzuw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Стоит бетонная крышка и под сигнализацией</description>
@@ -123,14 +115,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.585080,55.861774,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ТК- 1103 (Ак. Анохина ул.)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-009D57-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.466619,55.661683,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

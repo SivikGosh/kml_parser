@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Проработки/1121-crisis-animal.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -126,14 +126,6 @@
       <styleUrl>#icon-1121</styleUrl>
       <Point>
         <coordinates>37.702728,55.880096,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленинградское шоссе, д.25 к.3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.487823,55.828119,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -221,15 +213,6 @@
       <styleUrl>#icon-1121</styleUrl>
       <Point>
         <coordinates>37.784731,55.762190,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>шоссе Энтузиастов д.68
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.779212,55.762972,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -358,15 +341,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Фрязевская ул. д.11 к.1
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.823656,55.746585,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Старокрымская ул., 17</name>
       <description>Инфокос</description>
       <visibility>1</visibility>
@@ -383,15 +357,6 @@
       <styleUrl>#icon-1121</styleUrl>
       <Point>
         <coordinates>37.739926,55.759504,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Поляны, д. 5 к.1 - к.6
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1121-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.554882,55.557346,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

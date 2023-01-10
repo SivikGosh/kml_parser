@@ -8,7 +8,7 @@
         <color>ffcca90b</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -18,7 +18,7 @@
         <color>ffcca90b</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Подключенные дома ТВ/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -26,22 +26,6 @@
         <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
       </BalloonStyle>
     </Style>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Комсомольская, д. 3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.717475,55.382729,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>г. Наро-Фоминск, ул. Маршала Жукова Г.К., д. 14</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.718134,55.383148,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>Муфта Муфта г. Наро-Фоминск, ул. Маршала Жукова Г.К., д. 12</name>
       <description>Муфта г. Наро-Фоминск, ул. Маршала Жукова Г.К., д. 12</description>
@@ -166,94 +150,6 @@
       <styleUrl>#icon-503-0BA9CC-labelson</styleUrl>
       <Point>
         <coordinates>36.730344,55.380037,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Мира, д. 8</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.729309,55.377231,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Ленина, д. 27</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.726935,55.375930,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Ленина, д. 29</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.726760,55.375136,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта Ленина 35</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.727996,55.373970,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Профсоюзная, д. 34</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.735155,55.374216,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Профсоюзная, д. 20</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.734681,55.376320,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Профсоюзная, д. 8</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.733683,55.378326,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Рижская, д. 7</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.733283,55.379877,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Рижская, д. 2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.732500,55.380590,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Латышская, д. 15в</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.732299,55.375550,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта г. Наро-Фоминск, ул. Латышская, д. 4</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>36.733628,55.373080,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

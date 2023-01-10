@@ -8,7 +8,7 @@
         <color>ffcca90b</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -18,7 +18,7 @@
         <color>ffcca90b</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -46,22 +46,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Точка 1486</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.525261,55.805950,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Точка 1487</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.524152,55.806779,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Муфта на ВТЭ</name>
       <description>Делал Докучаев, Вова может знает</description>
       <visibility>1</visibility>
@@ -71,56 +55,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>п. 8 ВТЭ
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.409565,55.757476,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>п.8 ВТЭ
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.409533,55.754835,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>п.3, ВТЭ</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.410824,55.755947,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Муфта на крыше</name>
       <description>разварено 4 ов, к о ж з</description>
       <visibility>1</visibility>
       <styleUrl>#icon-503-0BA9CC-labelson</styleUrl>
       <Point>
         <coordinates>37.842593,55.638432,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта М-04 ВТЭ под.5
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.526631,55.725610,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта М-05,ВТЭ,под.2
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.526067,55.726337,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -176,83 +116,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.101896,55.983571,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Столб ул.Березовая
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.718963,55.547154,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Столб ул. Березовая (д.5)
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.720225,55.543064,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Столб ул. Завидная
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.725914,55.540617,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Столб ул. Завидна д.24
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.723422,55.538184,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>д.18, но это не точно
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.345837,55.601104,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Муфта на столбе</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.992326,55.688720,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ВТЭ 1 под</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.414238,55.751883,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ВТЭ Муфта</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.412546,55.752535,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ВТЭ 5 под. Муфта</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-0BA9CC-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.411810,55.754177,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

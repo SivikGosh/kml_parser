@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -51,7 +51,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Любтелемонтаж/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -97,14 +97,6 @@
       <styleUrl>#icon-1151</styleUrl>
       <Point>
         <coordinates>37.968080,55.693443,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Заречная ул. д.31 к.3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.970708,55.695353,0.000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

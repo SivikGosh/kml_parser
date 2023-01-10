@@ -8,7 +8,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -20,7 +20,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -32,7 +32,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -47,7 +47,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/961-wht-square-blank.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -77,15 +77,6 @@
         <styleUrl>#icon-961-4186F0-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Placemark>
-      <name>Кросс
-                </name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-961-4186F0-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.817424,55.807308,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>Кросс</name>
       <description>2 под.,ВТЭ</description>

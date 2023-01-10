@@ -9,23 +9,23 @@ from progress.bar import PixelBar
 from pygeoif import LineString, Point
 
 
-def get_placemark_styles(folder):
+def get_placemark_styles(folder_object):
     """получаем список уникальных стилей объектов папки"""
-    styles = set()
-    all_placemarks = folder.find_all('Placemark')
-    for placemark in all_placemarks:
-        style_url = placemark.find('styleUrl').text
-        styles.add(re.search('[A-Za-z-0-9]+', style_url).group(0))
-    return list(styles)
+    style_list = set()
+    all_placemarks = folder_object.find_all('Placemark')
+    for placemark_object in all_placemarks:
+        style_url = placemark_object.find('styleUrl').text
+        style_list.add(re.search('[A-Za-z-0-9]+', style_url).group(0))
+    return list(style_list)
 
 
-def create_icon_style(folder, style, dir):
+def create_icon_style(folder, style, directory):
     """"""
     folder_name = folder.find("name").text
     icon_url = style.find('href').text
     icon_name = re.search('[0-9-a-z_]+.png', icon_url).group(0)
     icon_style = styles.IconStyle()
-    icon_style.icon_href = f'{dir}/{folder_name}/{icon_name}'
+    icon_style.icon_href = f'{directory}/{folder_name}/{icon_name}'
     icon_style.scale = style.find('IconStyle').find('scale').text
     if style.find('color'):
         icon_style.color = style.find('color').text
@@ -56,7 +56,7 @@ def create_balloon_style(style):
     return balloon_style
 
 
-def add_styles(soup, placemark_style, dir, folder):
+def add_styles(soup, placemark_style, directory, folder):
     """"""
     style_list = []
     all_styles = soup.find_all('Style')
@@ -64,7 +64,7 @@ def add_styles(soup, placemark_style, dir, folder):
         if placemark_style in style['id']:
             style_obj = styles.Style(id=style['id'])
             if style.find('IconStyle'):
-                icon_style = create_icon_style(folder, style, dir)
+                icon_style = create_icon_style(folder, style, directory)
                 style_obj.append_style(icon_style)
             if style.find('LabelStyle'):
                 label_style = create_label_style(style)
@@ -119,7 +119,7 @@ def add_placemarks(folder, placemark_style):
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
-        if placemark_style in placemark_style_url:
+        if f'#{placemark_style}' == placemark_style_url:
             placemark_object = kml.Placemark(name=placemark.find('name').text)
             placemark_object.style_url = placemark_style_url
             if placemark.find('description'):
@@ -179,6 +179,5 @@ if __name__ == '__main__':
         os.chdir(base_dir)
         bar.next()
     bar.finish()
-    print(datetime.now() - start_time)
-    print(len(soup.find_all('Placemark')))
-    print(placemark_count)
+    print('Время выполнения', datetime.now() - start_time)
+    assert placemark_count == len(soup.find_all('Placemark'))

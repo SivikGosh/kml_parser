@@ -8,7 +8,7 @@
         <color>ff8991b2</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -17,7 +17,7 @@
         <color>ff8991b2</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Муфты/962-wht-diamond-blank.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -36,14 +36,6 @@
       </ExtendedData>
       <Point>
         <coordinates>37.710421,55.783047,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ТК-213 (ул.Гастелло)</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-962-B29189-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.696574,55.783046,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>

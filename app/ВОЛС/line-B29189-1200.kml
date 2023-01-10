@@ -83,14 +83,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Линия 1173</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-B29189-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.497397,55.679609,0.000000 37.497446,55.679611,0.000000 37.497686,55.679837,0.000000 37.499608,55.679499,0.000000 37.500944,55.679245,0.000000 37.501877,55.678897,0.000000 37.501818,55.678643,0.000000 37.501534,55.678649,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>18-09-06</name>
       <description>ОК12                                                                   
                              150м                                                                   

@@ -54,22 +54,6 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Линия 67</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-4186F0-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.814080,55.806725,0.000000 37.813882,55.807084,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Линия 69</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-4186F0-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.809047,55.805663,0.000000 37.807952,55.805649,0.000000 37.807946,55.805763,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>20-12-01 ВКП п. Московский</name>
       <description>ОПД-4х4А-9.0&lt;br&gt;120м</description>
       <visibility>1</visibility>

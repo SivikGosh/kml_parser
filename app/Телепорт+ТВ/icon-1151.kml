@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -51,7 +51,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1151-crisis-hurricane-strong.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -81,70 +81,6 @@
         <styleUrl>#icon-1151-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Placemark>
-      <name>ул. Текстильщиков, 1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.974118,55.608461,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Текстильщиков, 2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.972797,55.608444,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Мкрн Западный, 1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.968718,55.608887,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Первомайская ул., 16</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.971802,55.604126,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Первомайская ул., 16А</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.970920,55.603992,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. 60 лет Победы, 1</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.968195,55.604561,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. 60 лет Победы, 6</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.967269,55.604962,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленина, 39</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1151-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.977950,55.608821,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>60-лет Победы д.4</name>
       <description>Любтелемонтаж</description>

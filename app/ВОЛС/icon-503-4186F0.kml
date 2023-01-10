@@ -8,7 +8,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -21,7 +21,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -34,7 +34,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -44,7 +44,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -57,7 +57,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -73,7 +73,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/ВОЛС/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
       </IconStyle>
@@ -104,14 +104,6 @@
         <styleUrl>#icon-503-4186F0-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Placemark>
-      <name>М</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-503-4186F0-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.817909,55.806148,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>М</name>
       <description>под.1 , ВТЭ</description>

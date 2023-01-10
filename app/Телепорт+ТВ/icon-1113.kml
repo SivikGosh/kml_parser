@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -18,7 +18,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -29,7 +29,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -48,7 +48,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
+          <href>/home/sivikgosh/PycharmProjects/kml_to_qgis/app/Телепорт+ТВ/1113-biz-tv.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -92,54 +92,6 @@
         <styleUrl>#icon-1113-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Placemark>
-      <name>ул. Текстильщиков, 7</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.968225,55.607059,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Мкрн Западный, 3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.967838,55.610087,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Мкрн Западный, 4</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.967216,55.610832,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Школьная, 2</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.969994,55.610999,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ул. Новая, 3</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.974714,55.608228,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ленина, 45</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1113-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.976142,55.611129,0.000000</coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>ул. Свободный пр-д , 7</name>
       <description>для Ловитела</description>

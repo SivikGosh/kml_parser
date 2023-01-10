@@ -54,14 +54,6 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>ОК-8</name>
-      <visibility>1</visibility>
-      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
-      <LineString>
-        <coordinates>37.524152,55.806779,0.000000 37.525280,55.806656,0.000000</coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>тесла тел </name>
       <description>Бс вымпелком</description>
       <visibility>1</visibility>
