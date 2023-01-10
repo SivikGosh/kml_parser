@@ -1,47 +1,25 @@
-телестудии	
+#icon-1001
+#icon-1001-labelson
+#icon-1001-labelson-nodesc
+#icon-1001-nodesc
 
-	#icon-1001
-	#icon-1001-labelson
-	#icon-1001-labelson-nodesc
-	#icon-1001-nodesc
+#icon-1019-labelson
+#icon-1019-labelson-nodesc
 
+#icon-1037
+#icon-1037-labelson
+#icon-1037-labelson-nodesc
+#icon-1037-nodesc
 
+#icon-1047
+#icon-1047-labelson
+#icon-1047-labelson-nodesc
+#icon-1047-nodesc
 
-Подключённые дома. Наро-Фоминск ( тв строй) -
-
-	#icon-1019-labelson
-	#icon-1019-labelson-nodesc
-
-
-
-Подключённые дома. (Собственная сеть РТП)
-
-	#icon-1037
-	#icon-1037-labelson
-	#icon-1037-labelson-nodesc
-	#icon-1037-nodesc
-
-
-
- проработки 2	
-
-	#icon-1047
-	#icon-1047-labelson
-	#icon-1047-labelson-nodesc
-	#icon-1047-nodesc
-
-
-
- B2B клиенты ( коннектика, авелаком и т.д) 
-
-	#icon-1113
-	#icon-1113-labelson
-	#icon-1113-labelson-nodesc
-	#icon-1113-nodesc
-
-
-
-
+#icon-1113
+#icon-1113-labelson
+#icon-1113-labelson-nodesc
+#icon-1113-nodesc
 
 #icon-1119
 #icon-1119-labelson
