@@ -1,3 +1,0 @@
-#icon-1149-labelson
-#icon-1149-nodesc
-#icon-1149-labelson-nodesc
