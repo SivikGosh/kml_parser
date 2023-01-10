@@ -1,0 +1,127 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-62AF44</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-62AF44-nodesc-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-62AF44-nodesc-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-62AF44-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-62AF44-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-62AF44-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Чистяковой 2</name>
+      <description>Голова на трехгорке</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <Point>
+        <coordinates>37.331275,55.695822,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лихачевское ш. 74, к.1, 4 под., тех. этаж.</name>
+      <description>Ключ от ГС в нашей диспетчерской! В диспетчерской ПИК ключ не подходит.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <Point>
+        <coordinates>37.497003,55.935326,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Молодежная ул., д.50</name>
+      <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/o6cfrr5n62g8iivuo5v2nuirls/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lVBrM_tS0ew2uzwQiue3MVEPvrfnnceInX1E2WsZBF81ERURlqOloVY5LPlYgKmFdHUcCY5phiGU0coT60ymn4lngr0It_wQzTULyKCHhpw8aTZUiDM2dMv_gdgnCLPl0xiWCY6eSLzlkqxHmH571RE10ybu8d1JXKt_EFF79mEV4RDLreVwBuFx-T4hngw1M?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/o6cfrr5n62g8iivuo5v2nuirls/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lVBrM_tS0ew2uzwQiue3MVEPvrfnnceInX1E2WsZBF81ERURlqOloVY5LPlYgKmFdHUcCY5phiGU0coT60ymn4lngr0It_wQzTULyKCHhpw8aTZUiDM2dMv_gdgnCLPl0xiWCY6eSLzlkqxHmH571RE10ybu8d1JXKt_EFF79mEV4RDLreVwBuFx-T4hngw1M?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.401071,55.899129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красногорск Ген. Белобородова, 7/2</name>
+      <description>&lt;img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/12bob7im2e1fhj3snfkt40tvi4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nf_OrUAuirC0Ys4X2hIV3WeKV2Bhs0g2ahHT5IcA6xGAQqMmh9GwowHqxbXuaa_a3xXhTxhgvMHRLrPYqbQxx_xR_9Hq84r_qKWFQfHmGtLczqCn7cofhzrvelsD6qcS_1JLer4qQT8BFZM_5kLRhf0RQmenEhxrUNI-TQsHifVp0UOaZ6JAKR1VIMChwueA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Электрощитовая с торца, ключи в Ассоциация товариществ собственников жилья Митинский оазис Эик, так же с торца</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/12bob7im2e1fhj3snfkt40tvi4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nf_OrUAuirC0Ys4X2hIV3WeKV2Bhs0g2ahHT5IcA6xGAQqMmh9GwowHqxbXuaa_a3xXhTxhgvMHRLrPYqbQxx_xR_9Hq84r_qKWFQfHmGtLczqCn7cofhzrvelsD6qcS_1JLer4qQT8BFZM_5kLRhf0RQmenEhxrUNI-TQsHifVp0UOaZ6JAKR1VIMChwueA?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.354256,55.838136,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

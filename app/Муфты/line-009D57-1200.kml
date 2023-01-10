@@ -1,0 +1,84 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-009D57-1200</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-009D57-1200-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-1200-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-009D57-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-009D57-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-009D57-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Перемычка к Тел</name>
+      <description>МЕЖДУ МУФТАМИ</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200</styleUrl>
+      <LineString>
+        <coordinates>37.697107,55.719274,0.000000 37.697134,55.719267,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Щелковское ш. 96 - 16-я Парковая 49к1</name>
+      <description>ОК-8</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200</styleUrl>
+      <LineString>
+        <coordinates>37.826956,55.811988,0.000000 37.826505,55.811939,0.000000 37.826661,55.810706,0.000000 37.826698,55.810372,0.000000 37.826682,55.809748,0.000000 37.826849,55.808521,0.000000 37.828571,55.808783,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Московский</name>
+      <description>Z:\Отдел ВОЛС\ВОЛС проекты\РД\Проекты\Московский ВКП</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200</styleUrl>
+      <LineString>
+        <coordinates>37.373697,55.588521,0.000000 37.373283,55.588691,0.000000 37.373289,55.588831,0.000000 37.373149,55.588834,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

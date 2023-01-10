@@ -1,0 +1,110 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-000000-4681</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-4681-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.681</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-4681-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>7.0215</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-4681">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-4681-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-4681-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>11-71. Орджоникидзе.ТК№130Б - Донская ул., д. 28</name>
+      <description>Трасса до д. 28 белая, ИД есть.&lt;br&gt;ОК-32&lt;br&gt;905м.&lt;br&gt;ОКМ-4х8А-2,7</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.599581,55.715127,0.000000 37.599426,55.715523,0.000000 37.600585,55.715708,0.000000 37.603674,55.716122,0.000000 37.603628,55.716617,0.000000 37.603306,55.716686,0.000000 37.603760,55.717388,0.000000 37.604328,55.718315,0.000000 37.603742,55.718427,0.000000 37.603618,55.718152,0.000000 37.602709,55.718317,0.000000 37.602508,55.718033,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-96 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;552 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.572435,55.674502,0.000000 37.571375,55.674892,0.000000 37.565303,55.676810,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>11-28</name>
+      <description>ОК-48&lt;br&gt;150 м&lt;br&gt;Белый кабель</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.602237,55.790769,0.000000 37.602392,55.790280,0.000000 37.602199,55.790265,0.000000 37.602320,55.789859,0.000000 37.603079,55.789939,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-96 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;720 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.595370,55.678871,0.000000 37.594866,55.679072,0.000000 37.598176,55.682318,0.000000 37.599772,55.684126,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-64 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;970 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.549574,55.666512,0.000000 37.548040,55.664885,0.000000 37.548083,55.664751,0.000000 37.547740,55.664400,0.000000 37.546549,55.663154,0.000000 37.546227,55.662736,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-96 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;739 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.584953,55.669967,0.000000 37.585579,55.669763,0.000000 37.591234,55.675068,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова кл., д. 22</name>
+      <description>ОК-96 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;480 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.615385,55.708146,0.000000 37.617710,55.708141,0.000000 37.617721,55.707967,0.000000 37.618130,55.707960,0.000000 37.617807,55.707146,0.000000 37.617332,55.706254,0.000000 37.617177,55.705607,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>21-07-01 Витте аллея, д. 4 - Академика Глушко ул., д. 14, к. 1</name>
+      <description>Белый кабель, есть ИД &lt;br&gt;ОК-64&lt;br&gt;600 м&lt;br&gt;ОККМ-0,1-8х8ЕЗ-2,7кН</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.553930,55.553605,0.000000 37.551267,55.553190,0.000000 37.549676,55.552012,0.000000 37.547010,55.551159,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-06-06. ТК-171 (Осташковская ул.) - ТК 1866 (осташковская ул.)</name>
+      <description>Участок белой трассы, есть ИД.</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4681</styleUrl>
+      <LineString>
+        <coordinates>37.679164,55.880150,0.000000 37.678573,55.881180,0.000000 37.677782,55.881818,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

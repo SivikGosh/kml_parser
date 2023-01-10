@@ -1,0 +1,44 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1149-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1149-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1149-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Дежнева, д.26</name>
+      <description>КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.634413,55.871711,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Полярная д.1 к.2</name>
+      <description>КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.636280,55.871877,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

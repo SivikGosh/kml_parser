@@ -1,0 +1,620 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1199</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1199-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1199-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1199-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1199-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1199-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1199-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1199">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1199-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1199-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1199-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1199-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1199-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>СКПТ 26 бакинских комиссаров д 12 к 6</name>
+      <description>СКПТ Тропорева ГС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.488737,55.662754,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СКПТ Пудовкина 7</name>
+      <description>СКТП Тропорево</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.529452,55.727195,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СКТП Пырьева 9</name>
+      <description>СКТП Тропорева</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.525046,55.726714,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова 27-31</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.570683,55.696460,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Туристская ул., 33к.1</name>
+      <description>ТСЖ "Панфилат"&lt;br&gt;Инквест</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.417320,55.859439,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Беловежская ул., д.37</name>
+      <description>Добрин</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.393127,55.711302,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Полярная улица, 25</name>
+      <description>Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.635888,55.883044,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешняковская, 19</name>
+      <description>Проработка Лантек</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.832705,55.734121,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Алтайская ул. д.7
+                </name>
+      <description>ГБУ Жилищник р-на Гольяново</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.813389,55.821075,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Алтайская ул. д.16
+                </name>
+      <description>ГБУ Жилищник р-на Гольяново</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.813497,55.819741,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Байкальская ул. д.38 к.2
+                </name>
+      <description>ГБУ Жилищник р-на Гольяново</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.807310,55.815454,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Байкальская ул. д..38 к.4
+                </name>
+      <description>ГБУ Жилищник р-на Гольяново</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.808249,55.814692,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр-т д.60А
+                </name>
+      <description>УК ООО Север-Строй</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.535823,55.800162,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ст. Зыковский пр. д.3
+                </name>
+      <description>УК ООО Север-Строй</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.543240,55.801298,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. Вернадского, 73</name>
+      <description>Эконотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.506067,55.671168,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Орджоникидзе д.10
+                </name>
+      <description>даем волокно Вестколлу</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.593138,55.710605,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Поликарпова д.19 к.1
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.548257,55.778618,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Поликарпова д.21 к.4
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.544817,55.778052,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Поликарпова д.23
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.545445,55.779274,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Поликарпова д.25
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.543943,55.778466,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й Хорошевский пр-д д.2/17
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.549394,55.777867,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-я Магистральная ул. д.18
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.528703,55.775230,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Острякова д.9
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.523885,55.799393,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Острякова д.11
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.522978,55.799178,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чапаевский пер. д.5 к.1
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.519231,55.795850,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чапаевский пер. д.5 к.2
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.520315,55.795827,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Викторенко д.12 стр.1
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.523977,55.796431,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. Аэропорта д.6
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.523314,55.797586,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр-т д.45 к.1
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.533716,55.798975,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр-т д.45 к.4
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.532514,55.797810,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Куусиена д.6 к.4
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.516709,55.782187,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Куусиенна д.6 к.5
+                </name>
+      <description>ГБУ жилищник р-на Хорошеский</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.517578,55.782206,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лобненская, 12к1</name>
+      <description>Стык с Ловител по ЖК Дмитровский парк</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.527277,55.891956,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Измайловский, 11</name>
+      <description>Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.766263,55.796832,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Костомаровский пер. вл. 15
+                </name>
+      <description>Гросс</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.667498,55.749557,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр., д.123</name>
+      <description>ТВ в IP на ЦГС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.479906,55.647084,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Проезд Дежнева 22к4</name>
+      <description>УК "Южное Медведково"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.634227,55.872677,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б. Ордынка вл 8,14
+                </name>
+      <description>Гросс</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.623637,55.743091,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. 9- Мая д.4 А
+                </name>
+      <description>Альфа центавра</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.423029,55.895775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Перовское шоссе, д. 2. вл.4.</name>
+      <description>ЖК Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.740571,55.733592,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новоорловская, вл.3, стр.6
+                </name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.370672,55.635527,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новохохловская, вл.15</name>
+      <description>ЖК ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.711310,55.728105,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТСН Колхозная 11 </name>
+      <description>Проработка подачи ТВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>38.023180,55.745285,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр-т 80 Экотел </name>
+      <description>Экотел канал 1 Гб</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.508167,55.810170,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Габричевского, 5к1 Экотел </name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.455913,55.814620,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-я Фрезерная улица, 2/1 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.739975,55.741400,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская, 81, 83 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.556128,55.891694,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Народного Ополчения, 34с1 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.484473,55.785572,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Грайвороновская, 4 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.726580,55.716844,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ногинск, Климова, 50 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>38.462466,55.868283,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Раменское Карла Маркса, 5 Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>38.221811,55.569249,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Мальцево
+                    посёлок Краснознаменский, городской округ Щёлково, Московская область, Россия
+                    Экотел</name>
+      <description>Экотел точного адреса нет</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.934833,55.936112,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Заводская, 1А Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>38.703449,55.305152,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пл. Ленина, 1, Хорлово, МО., Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>38.813916,55.324924,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каширское ш., 13б Экотел</name>
+      <description>Экотел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199</styleUrl>
+      <Point>
+        <coordinates>37.637200,55.666182,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

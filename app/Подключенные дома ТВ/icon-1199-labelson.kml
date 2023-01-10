@@ -1,0 +1,306 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1199-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1199-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1199-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Мичуринский пр. 6к1</name>
+      <description>Бухта кабеля ОК-12 в доме</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.526035,55.715732,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Твардовского, д.2к.4</name>
+      <description>МосГорТелеСеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.389902,55.799164,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Твардовского ул. д.2,к.5</name>
+      <description>МосГорТелеСеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.389414,55.798540,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бутлерова ул., д.14,к.1</name>
+      <description>МосГорТелеСеть (новостройка) ОБСЛУЖИВАЕМ ТОЛЬКО ДО Опт. Приемника</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.529356,55.651394,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Смольная ул., д.61,к.1</name>
+      <description>МосГорТелеСеть (новостройка)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.472096,55.868494,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фестивальная ул., д.41,к.1</name>
+      <description>МосГорТелеСеть (новостройка)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.483329,55.858304,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фестивальная ул., д.41,к.4</name>
+      <description>МосГорТелеСеть (новостройка)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.481452,55.860005,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Леальта </name>
+      <description>Стройка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.579014,55.816643,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Веерная ул., д.7,к.2</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.474140,55.708633,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Москворечье ул., д.4,к.3</name>
+      <description>МосГорТелеСеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.652909,55.643679,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Полтавская ул. д.47,к.1 </name>
+      <description>Монтажкоммуникации</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.571708,55.799448,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Садовая Сухаревская, д. 11</name>
+      <description>Тендер по предоставлению ТВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.623882,55.774183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Житная, д. 14</name>
+      <description>Тендер по подаче ТВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.615621,55.731191,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московская ул., д.1</name>
+      <description>Стык с ЛРТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.884614,55.668824,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Октяборсьский пр., д.145</name>
+      <description>Стык с ЛРТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.892050,55.680869,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Комсомольский пр-т, д.7А</name>
+      <description>Стык с ЛРТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.899066,55.688502,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Митрофанова ул., д.13</name>
+      <description>Стык с ЛРТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.888944,55.692155,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Веерная ул.д.40к.2
+                </name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.483715,55.712544,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Беловежская, д.39к5</name>
+      <description>ЖСК "Старт Беловежский"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.397292,55.711610,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Боброво, ул. Крымская, д. 19</name>
+      <description>Удостоверение РТП    справка Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.619355,55.528817,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Боброво, ул. Крымская, д. 25</name>
+      <description>Удостоверение РТП справка Ловител</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.617635,55.529460,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Открытое ш., 17 корпус 2</name>
+      <description>ЖСК «ГИДРОТЕХНИК» мы ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.750503,55.821843,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Раменки, 6к2</name>
+      <description>Подать сигнал Глобал Телеком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.492449,55.693089,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Авелаком БС Вымпелком</name>
+      <description>55,648194 37,686959</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.590357,55.788308,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Москва г, Салтыковская ул, д 8 (55,7253 37,8705)36</name>
+      <description>Авелаком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.870384,55.725458,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Москва, 2-я Вольская 2-я ул, д.19,стр.3</name>
+      <description>Авелаком 55,695255  37,932687</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.933476,55.695272,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>АТС-559</name>
+      <description>Кабель не заходит</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.876318,55.674652,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2й Казачий пер. 11 с1</name>
+      <description>Консист Росатом 4 этаж кросс </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.621935,55.732835,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б. Косинскую улицу д 18г</name>
+      <description>Авелаком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.861185,55.711126,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Максимова 5</name>
+      <description>Базовая станция Теле2 MS4894  Максимова 5 Авелаком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.467256,55.797845,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Серебряническая наб. вл.7_11</name>
+      <description>ЖК Титул&lt;br&gt;Коннектика 2/ОПТ заказ 37</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.646636,55.749755,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

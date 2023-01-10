@@ -1,0 +1,66 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1113-labelson-nodesc</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1113-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Коннектика Кировоградская 23</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.598809,55.600717,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кон. Поварская ул., д.28,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.592769,55.755146,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Телеканал Бридж</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.450220,55.759280,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Летниковская, д.10с4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.643270,55.724964,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вучетича 21с6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.554568,55.811949,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остаповский 12 с 7</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.708456,55.718109,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

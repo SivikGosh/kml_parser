@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-B29189-1969-nodesc</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="line-B29189-1969-nodesc-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>1.969</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-B29189-1969-nodesc-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>2.9535</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-B29189-1969-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-1969-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-1969-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Линия 468</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-1969-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.585411,55.823475,0.000000 37.585830,55.823234,0.000000 37.586345,55.823132,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

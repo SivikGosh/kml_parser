@@ -1,0 +1,55 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57-nodesc</name>
+    <description>БРИЗ</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Мирской пр-д,д.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.882305,55.740642,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

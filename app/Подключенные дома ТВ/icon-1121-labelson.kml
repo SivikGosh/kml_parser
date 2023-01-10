@@ -1,0 +1,2437 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1121-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1121-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1121-crisis-animal.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1121-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1121-crisis-animal.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Маршала Захарова ул., д.10, к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.700078,55.624667,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Инфокос Пудовкина 6к.3</name>
+      <description>Инфокос Пудовкина 6к.3</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.534806,55.728388,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Инфокос Пудовкина 6к.1</name>
+      <description>Инфокос Пудовкина 6к.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.532467,55.728436,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Инфокос Ломонос-й 34а</name>
+      <description>Инфокос Ломоносовский 34а</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.511707,55.708947,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Инфокос Ломонос-й 34б</name>
+      <description>Инфокос Ломоносовский 34б</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.511884,55.708597,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Инфокос Мосфильм 10</name>
+      <description>Инфокос Мосфильмовская 10</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.526856,55.723068,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Енисейская 5</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.659759,55.858676,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские Холмы ул., д.28</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.417240,55.764883,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские Холмы ул., д.36,к2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.409107,55.765339,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й Очаковский пер., д.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.459514,55.685471,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й Очаковский пер., д.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.460589,55.685282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр., д.123,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.481454,55.646302,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Большая Тульская улица, 2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.620835,55.709410,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р, д.10,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.408855,55.757081,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р 5к.1</name>
+      <description>Осенний б-р 5к.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.407138,55.756649,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р, д.6</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.409289,55.754412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рублевское ш., д.38,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.416172,55.750044,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские холмы ул., д.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.422862,55.746934,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.156,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.499712,55.617770,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский пр., д.12,к.1</name>
+      <description>КЛЮЧИ МОСТЕЛЕКОМА!!!!!!!!!!!</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.508070,55.703573,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усиевича ул., д.11</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.529656,55.804178,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Черняховского 5к1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.532290,55.803177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усиевича ул., д.27,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.521068,55.806832,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Менжинского 38к3</name>
+      <description>ООО Мостелисигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.659411,55.871335,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские холмы ул., д.7,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.422792,55.748879,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские холмы ул., д.33,к2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.416859,55.757988,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р, д.12,к.10</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.415823,55.759221,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р, д.12,к.5</name>
+      <description>Мостелесигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.412401,55.758974,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Варги, д.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.478485,55.632199,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>М. Калужская ул. 12</name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.595837,55.716711,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешних Вод 2; 2,к.1-2,к.6</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.697278,55.858190,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Русаковская ул., д.25</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.675981,55.786866,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Русаковская ул., д.27</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.676523,55.787279,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ореховый б-р, д.11,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.712095,55.610887,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Капицы д.18</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.524946,55.626907,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Волгина д.23 корп.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.510843,55.645800,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Волгина д.25 корп.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.512474,55.645013,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Волгина д.31 корп.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.507694,55.642769,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Волгина д.31 корп.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.508558,55.642527,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Арцимовича ул., д. 4</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.513863,55.644749,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Арцимовича, д 5 к 3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.516894,55.642833,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Байкальская д. 35 корп.4</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.813021,55.818958,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская ул., д.10,к.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.724194,55.795844,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.14 корп.2 </name>
+      <description>5-8 п-д -ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.726219,55.796233,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.3 корп.6</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.715984,55.798983,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.4 корп.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.718452,55.795479,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.5 корп.1</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.720219,55.797437,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.5 корп.8</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.718948,55.799817,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.719932,55.795561,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.720710,55.795458,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.5</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.720587,55.794370,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.7</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.721112,55.794014,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.8 корп.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.722657,55.795808,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.8 корп.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.723328,55.794894,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская ул., д.9,к.1</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.723467,55.798428,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.26 корп.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.738067,55.799225,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Балаклавский пр-т, д.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.614929,55.639984,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Буденного пр-т д.9</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.722427,55.777659,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гурьевский пр-д, д.23,к.1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.753031,55.607142,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гурьевский пр-д, д.29,к.1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.757006,55.608660,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гурьевский пр-д, д.35/58</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.760249,55.609399,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.7/2</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.353609,55.837893,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.9</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.354095,55.837139,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.9,к.1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.354996,55.837286,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.11</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.354645,55.836857,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.15</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.356182,55.836586,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.21</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.358314,55.835318,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ген. Белобородова ул., д.23</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.358223,55.834390,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10-я Парковая ул., д.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.802043,55.794525,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10-я Парковая ул., д.20</name>
+      <description>ООО "СПЕЦТЕЛЕСЕРВИС"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.803271,55.798537,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Измайловский буль., д.55</name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.803091,55.797381,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каширское ш., д.92,к3</name>
+      <description>Мостелесигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.710110,55.616310,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каширское ш., д.98,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.712497,55.613689,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Константина Федина ул., д.1,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.791333,55.806744,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Константина Федина ул., д.1,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.791005,55.807095,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские холмы ул., д.3,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.424567,55.748308,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр., д.123,к..3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.484595,55.645125,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ломоносовский пр., д.18</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.539790,55.692681,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маршала Захарова ул., д.12,к.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.697777,55.623713,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маршала Захарова ул., д.20</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.695766,55.619515,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Миклухо-Маклая ул., д.39,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.521996,55.646357,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский пр., д.27,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.501209,55.696956,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский пр., д.29,к. 3.</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.505264,55.693685,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островитянова ул., д.33А</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.526167,55.633808,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островитянова ул., д.34,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.524694,55.632590,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островитянова ул., д.36</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.526226,55.632408,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Образцова ул., д.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.607215,55.786088,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Образцова ул., д.5А</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.606735,55.786141,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Образцова ул., д.8</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.608894,55.786878,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15-я Парковая ул., д.47,к.1</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.817087,55.807067,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15-я Парковая ул., д.41,к.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.816398,55.805276,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11-я Парковая ул., д.42,к.1</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.805639,55.804222,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11-я Парковая ул., д.42,к.2</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.807281,55.804198,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.28,к.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.814019,55.805318,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.28,к.3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.815252,55.805252,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.31,к.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.809151,55.807223,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.40</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.812506,55.808372,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.42</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.812415,55.809674,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.92</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.528739,55.649051,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.94</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.528768,55.648402,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.113,к.3</name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.521642,55.630413,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.116,к.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.518370,55.638982,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.132,к.6</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.508730,55.631094,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.136,к.1</name>
+      <description>МОСТЕЛИСГНАЛ 1-3 под.&lt;br&gt;СПЕЦТЕЛЕСЕРВИС 4,5 под.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.512817,55.628720,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.136,к.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.509298,55.629462,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.142,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.507083,55.626070,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.142,к.4</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.505463,55.626660,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.146,к.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.504159,55.625040,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.152, к.4</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.503467,55.623768,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Пугачевская ул., д.4,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.727630,55.796746,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Пугачевская ул., д.8,к.2 </name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.727389,55.794388,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул.,д.2,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.354875,55.837839,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.4</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.354841,55.838371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.6</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.355763,55.838253,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.26</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.357888,55.833147,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.28</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.358413,55.832686,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борьбы пл., д.13</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.605064,55.785512,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борьбы пл., д.15</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.606303,55.785596,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сиреневый буль., д.41</name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.807697,55.803618,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сиреневый буль., д.43</name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.808550,55.804546,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сущёвский Вал д.14/22,к.5</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.599960,55.791334,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Халтуринская ул., д.4,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.730540,55.799950,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Халтуринская ул., д.8</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.728408,55.800979,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Халтуринская ул., д.9,к.3</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.725034,55.800973,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Халтуринская ул., д.20</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.725369,55.806590,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Хромова ул.,  д.7,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.719471,55.800606,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Цюрупы ул., д.17</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.567052,55.666231,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Малыгина ул., д.9</name>
+      <description>Бывший дом Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.692933,55.881419,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тарусская ул., д.,22к.3</name>
+      <description>МосГорТелеСеть&lt;br&gt;Подтвердили включение 10.11.2017 уровень -2,5 дБм</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.527065,55.599275,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясногорская ул., д.21,к.3</name>
+      <description>МосГорТелеСеть&lt;br&gt;Подтвердили включение 10.11.2017 уровень -2,5 дБм</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.530531,55.598426,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пудовкина ул., д.6,к.2</name>
+      <description>Инфокос </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.533572,55.728473,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское ш., д.169,к.8</name>
+      <description>&lt;img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/japq37rbl4ga4mpbibtn70oj98/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9l3Dn5IITICbIhFl17OKODS5mk7jUeFnZFLgfPqJFYVw8zY6ofOdzDXjBDzW9e8m3UckGbGBQgAo7nifF93w6QDXzJnhYDDvFvxC4IfI6DyEifk8OPu93eL0AbPkrQU9M0AM38bgui9XFsA7RHcteUOs7p6a_Mu2jTiUPX-7baLFp8yOR8gT750uSZLE8Jkfbc?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Комната слабых токов, не со двора&lt;br&gt;ТВ - МосГорТелеСеть&lt;br&gt;ПД - РиНет</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/japq37rbl4ga4mpbibtn70oj98/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9l3Dn5IITICbIhFl17OKODS5mk7jUeFnZFLgfPqJFYVw8zY6ofOdzDXjBDzW9e8m3UckGbGBQgAo7nifF93w6QDXzJnhYDDvFvxC4IfI6DyEifk8OPu93eL0AbPkrQU9M0AM38bgui9XFsA7RHcteUOs7p6a_Mu2jTiUPX-7baLFp8yOR8gT750uSZLE8Jkfbc?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.540326,55.931342,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 2к1</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.548592,55.913987,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 10к1</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.551971,55.913950,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 10к2</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.553618,55.913666,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 10к3</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.554917,55.913367,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 12к1</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.548958,55.914659,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 12к2</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.548647,55.913688,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 12к3</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.550108,55.913182,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 12к5</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.547946,55.912407,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 12к6</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.547928,55.912843,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 14к1</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.551476,55.912634,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 14к2</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.553421,55.912443,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 14к3</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555266,55.912079,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 14к4</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555829,55.912510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш., 14к5</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555969,55.912129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское ш. д.12 корп.4</name>
+      <description>подключение, отключение только через заявление (конъсерж, председатель)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.549510,55.912243,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шипиловский пр-д, 45к1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.698012,55.609960,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шипиловский пр-д, 49/1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.699251,55.608828,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шипиловский пр-д, 61к2</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.709190,55.603760,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Шумкина, 15</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС мы,Акадо, Ростелеком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.670191,55.788561,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Щёлковское ш., 95к1</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.832809,55.814283,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Щёлковское ш., 82к1</name>
+      <description>ООО Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.815502,55.810641,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. 60-летия Октября, 8</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.576559,55.695480,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Теплый Стан, 3к2</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.499688,55.620445,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Зеленодольская, 3к2</name>
+      <description>ЮРИДИЧЕСКОЕ ЛИЦО</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.791289,55.715809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Щелковское ш., 77к2</name>
+      <description>ООО СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.803622,55.814055,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Таманская д.7</name>
+      <description>ООО Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.439883,55.780326,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярославское ш., 12к1</name>
+      <description>ООО Мостелесигнал ЯЩИКИ ОТКРЫТЫ ЗАМОК СЛОМАН</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.684196,55.853543,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Уральская ул., 6к8</name>
+      <description>ООО Спецтелесерви</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.802070,55.812451,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Менжинского, 38к2</name>
+      <description>Мостелесигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.660806,55.870932,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенняя, 25, корп. 1 - 7</name>
+      <description>ООО "Спецтелесервис"&lt;br&gt;Сигнал не подан</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.398083,55.768698,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Снежная ул., д.25 </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.651952,55.855582,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Русанова ул., д.31,к. 2 </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.638466,55.855897,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Седова ул., д.13,к. 2 </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.637846,55.851231,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лазоревый пр-д, д.4</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.637554,55.849760,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Снежная ул., д.27,к.1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.652469,55.856347,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская ул., 1к1</name>
+      <description>&lt;img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/2cd2afuliu91qu5mvkq5m524uo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mGb7Ww9X3bIOXneT-iij1PAaIpxaxHBlBJQXyg22RlEm826kREVhBCo0qOFTKfQAgA7O_eRJAZ5EUjN3jaiOajz912jfZlNbGjO77-wuluSLx1Ugwq_NmHVmfBOC1QPQhJj0C5Z8M0MZN7tJm5dYhiDeKzmm0A6lqrFD2bR9rkuwzpJ-uzr3bTG9ynaUu6pQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Инфокос, подвал 6п. ОДС- Восницовский стан д11</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/2cd2afuliu91qu5mvkq5m524uo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mGb7Ww9X3bIOXneT-iij1PAaIpxaxHBlBJQXyg22RlEm826kREVhBCo0qOFTKfQAgA7O_eRJAZ5EUjN3jaiOajz912jfZlNbGjO77-wuluSLx1Ugwq_NmHVmfBOC1QPQhJj0C5Z8M0MZN7tJm5dYhiDeKzmm0A6lqrFD2bR9rkuwzpJ-uzr3bTG9ynaUu6pQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.751523,55.711864,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Капицы, д.30, корп.2</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.520451,55.627663,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, д.3к14</name>
+      <description>Инфокос&lt;br&gt;НТЭ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.508631,55.672391,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.1к1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.517997,55.671482,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.1А</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.518809,55.671002,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.16</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.510591,55.676480,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.14</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.511782,55.675996,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.12</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.512597,55.675337,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ул. Удальцова, д.10</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.513627,55.674735,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. Вернадского, 24А</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.500570,55.674576,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. Вернадского, 38А</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.499222,55.673836,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр. Вернадского, 64А</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.496713,55.672442,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д.70А </name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.495443,55.671746,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 48</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.497554,55.670501,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 46</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.498219,55.670266,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 44</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.499686,55.669798,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 42к1,к2,к6</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.501805,55.669725,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 52 корпус 1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.492487,55.672143,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д. 44, к.2</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.496462,55.674720,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д. 44, к.1</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.498395,55.674092,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д. 42, к.1</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.499540,55.675228,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д. 42, к.2</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.498929,55.675525,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 73</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.497040,55.677495,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 24</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.497133,55.681015,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 22</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.498361,55.680816,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 26</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.495925,55.681386,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 28</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.495987,55.682102,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 30</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.494522,55.681895,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 32</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.493496,55.681557,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 32 корпус 1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.492930,55.682033,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 88</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.486392,55.675266,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, 12</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.485249,55.677018,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, 10</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.486402,55.677559,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, 6</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.488914,55.678940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, 2</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.491187,55.680277,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 85А</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.491045,55.681682,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр-т  Вернадского, д.60 корпус 1</name>
+      <description>ООО "Инфокос"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.495555,55.674234,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, д. 6, корп. 1</name>
+      <description>Инфоком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.488059,55.680034,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Коштоянца, 8 корпус 1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.485982,55.679039,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 27</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.480753,55.680762,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 92 корпус 3</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.482872,55.681029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Лобачевского, 92 корпус 4</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.484380,55.682121,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 85 корпус 4</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.486455,55.681129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 85 корпус 1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.489330,55.682779,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>НИИ Восход</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.487691,55.683165,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 44</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.491108,55.684598,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 46</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.492166,55.685118,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 50</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.490621,55.685167,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 52</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.489500,55.685565,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова, 48</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.493644,55.685801,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул.Ак.Анохина,д.66</name>
+      <description>ООО "Инфокос" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.468298,55.647157,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский пер., 1к1</name>
+      <description>Инфокос (МосГорТелесеть) ТК-198 Бескудниковский бульвар-ТК450Минаевский
+                    пер-Новосущевка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555025,55.863446,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Текстильщиков д.1</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.974158,55.608405,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Текстильщиков д.2</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.973177,55.608488,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пр-д Русанова, 25 корпус 1</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.641087,55.856420,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.10 к.1</name>
+      <description>ООО "Инфокос" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.753848,55.715764,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.11</name>
+      <description>ООО "Инфокос"  Прямое волокно с Окской, д.1к1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.751446,55.716671,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.3 к.1</name>
+      <description>ООО "Инфокос" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.751314,55.713148,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.5 к.1</name>
+      <description>ООО "Инфокос" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.750768,55.713893,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.7 к.1</name>
+      <description>ООО "Инфокос" В этот дом приход оптики и передатчики!</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.750047,55.714899,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Васильцовский стан, д.9</name>
+      <description>ООО "Инфокос" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.751051,55.715997,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к5</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.541708,55.929811,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к9</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.541445,55.930636,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к1
+                </name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.545034,55.930560,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к2</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.543478,55.930699,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к3</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.542942,55.932333,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, 169к4</name>
+      <description>Мосгортелесеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.544540,55.931940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Новаторов, 4к4</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.518787,55.667103,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Новаторов, 6</name>
+      <description>Инфокос </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.523063,55.668652,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский б-р, 58 корпус 3</name>
+      <description>Инфокос (МосГорТелесеть)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.536719,55.875063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский б-р, 58 корпус 1
+                </name>
+      <description>Инфокос (МосГорТелесеть)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.535223,55.874906,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский б-р, 56,к.1</name>
+      <description>Инфокос (МосГорТелесеть)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.536040,55.874074,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Новаторов, 10
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.521164,55.667176,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский б-р, 17 к.1</name>
+      <description>МосГорТелесеть ОТКЛЮЧЕН!!!</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.557072,55.864687,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский пер., 1к2</name>
+      <description>Инфокос (МосГорТелесеть) Помещение слабых токов.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555678,55.863801,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский пер., 1к3</name>
+      <description>Инфокос (МосГорТелесеть)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555829,55.864247,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новаторов ул.,д.10к.2</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.519984,55.666731,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская, д.3к1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.754742,55.712775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская, д.3к2</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.754626,55.713997,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская, д.5к1</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.757679,55.713925,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская, д5к3</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.756547,55.714898,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волжский б-р, д.11</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.747824,55.714820,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Новаторов, 4к3</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.519860,55.667460,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Удальцова д.26 к.1
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.494753,55.681114,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Балаклавский пр-т, д.5</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.609913,55.640437,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.4 п.1-3</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.721424,55.795454,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домодедовская ул. д.7 корп.2 9-14 под
+                </name>
+      <description>Спецтелесервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.710183,55.612613,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крылатские холмы д.36 корп.3
+                </name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.409553,55.765818,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешних вод ул., д.6, к.1
+                </name>
+      <description>ООО Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.697598,55.859462,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешних вод ул., д.6, к.2
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.699749,55.858264,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешних вод ул., д.8Б (вл.4, стр.141)
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.698712,55.859513,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешних вод ул., д.8Г
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.700433,55.859995,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кольская ул., д. 2, к.5
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.653739,55.858509,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лобачевского ул., д.90 ЮР ЛИЦО
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.486745,55.675938,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Оборонная ул., д. 2
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.690227,55.881554,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Удальцова , д. 16 к 1 Д/с "Сказка"</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.511422,55.676862,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Удальцова ул., д. 40
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.493312,55.683987,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Удальцова ул., д.85, к.2 
+                </name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1121-labelson</styleUrl>
+      <Point>
+        <coordinates>37.488460,55.682603,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

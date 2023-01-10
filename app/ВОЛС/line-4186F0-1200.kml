@@ -1,0 +1,87 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-4186F0-1200</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-4186F0-1200-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-4186F0-1200-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-4186F0-1200-nodesc-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-4186F0-1200-nodesc-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-4186F0-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-4186F0-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-4186F0-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-4186F0-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-4186F0-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-4186F0-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>17-08-02</name>
+      <description>ОК-8&lt;br&gt;ВКП&lt;br&gt;Летчика Бабушкина, 17 - Летчика Бабушкина, 18</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-4186F0-1200</styleUrl>
+      <LineString>
+        <coordinates>37.672623,55.864505,0.000000 37.672146,55.864954,0.000000 37.672414,55.865490,0.000000 37.673648,55.865448,0.000000 37.674490,55.865413,0.000000 37.674450,55.865170,0.000000 37.675268,55.864686,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-03</name>
+      <description>ОК-8                                                                              
+                    ОКК-Т-8А-2,7кН                                                           L-
+                    300,0 м                                                                    
+                    грунт</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-4186F0-1200</styleUrl>
+      <LineString>
+        <coordinates>37.615913,55.802551,0.000000 37.618498,55.802563,0.000000 37.618766,55.802473,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>11-99</name>
+      <description>ВКП</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-4186F0-1200</styleUrl>
+      <LineString>
+        <coordinates>37.832145,55.721917,0.000000 37.830909,55.720948,0.000000 37.830340,55.720416,0.000000 37.830190,55.719509,0.000000 37.832207,55.718826,0.000000 37.832229,55.718651,0.000000 37.831413,55.717847,0.000000 37.830791,55.717551,0.000000 37.829761,55.717576,0.000000 37.829117,55.717745,0.000000 37.828163,55.716923,0.000000 37.829686,55.716464,0.000000 37.829697,55.716288,0.000000 37.828796,55.715448,0.000000 37.828345,55.715025,0.000000 37.827251,55.715043,0.000000 37.826854,55.715134,0.000000 37.825437,55.715605,0.000000 37.825223,55.715750,0.000000 37.824268,55.716609,0.000000 37.822626,55.716379,0.000000 37.822305,55.717733,0.000000 37.822970,55.718808,0.000000 37.823485,55.719497,0.000000 37.824440,55.720694,0.000000 37.824611,55.721093,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

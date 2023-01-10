@@ -1,0 +1,98 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1037-labelson-nodesc</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1037-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ул. Печорская, 8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.667668,55.864362,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ангелов пер., д.6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.348157,55.853139,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маршала Тухачевского, д.55</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.457934,55.783540,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Протопоповский д.17 стр.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.637024,55.782035,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Протопоповский д.17 к.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.637394,55.781247,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярцевская, д.33 к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.415168,55.743914,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярцевская д.33 к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.414580,55.744135,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ак. Туполева д.15а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.682241,55.761413,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Молодцова, д.2а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.647011,55.877783,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Нежинская д.3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.476952,55.716880,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

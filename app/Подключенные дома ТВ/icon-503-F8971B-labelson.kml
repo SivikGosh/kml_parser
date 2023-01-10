@@ -1,0 +1,44 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-503-F8971B-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-F8971B-labelson">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F8971B-labelson-nodesc">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Тк64а (Малая Тульская)</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/bjnh6obvgiius8nq4ohd5jgtn8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k-vK0T-DNFfiOzNXiTgZbGdmAMRcWcgx60Z4QsORvD2aZt7PwEKFl1ci32hVJyxHghWW73ES94nMVBAEf6NsRgy8LuXk869BfSXu4iRbeY3SNHJYfGha_hiF52f5qSmCzMEvismidlHkQzIVCDWHM_dvhyk55wKtBusYbI7DCrvopE6HFTpyD5ZpBjRMAJSg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/bjnh6obvgiius8nq4ohd5jgtn8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k-vK0T-DNFfiOzNXiTgZbGdmAMRcWcgx60Z4QsORvD2aZt7PwEKFl1ci32hVJyxHghWW73ES94nMVBAEf6NsRgy8LuXk869BfSXu4iRbeY3SNHJYfGha_hiF52f5qSmCzMEvismidlHkQzIVCDWHM_dvhyk55wKtBusYbI7DCrvopE6HFTpyD5ZpBjRMAJSg?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.617965,55.703395,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

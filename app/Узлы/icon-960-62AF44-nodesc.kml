@@ -1,0 +1,71 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-62AF44-nodesc</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-62AF44-nodesc-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-62AF44-nodesc-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-62AF44-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-62AF44-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-62AF44-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Челобитьевское, ш. 12, к.5, 1п. тех этаж</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.548091,55.912407,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Панфилова ул., д.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.426912,55.886601,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Совхозная ул., д.8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.482449,55.900013,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

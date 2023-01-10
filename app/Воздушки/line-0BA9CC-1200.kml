@@ -1,0 +1,180 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-0BA9CC-1200</name>
+    <description>Воздушки</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Калинина 5 - Калинина 2</name>
+      <description>ВОК по столбам</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>36.723582,55.387430,0.000000 36.723987,55.387314,0.000000 36.725309,55.387310,0.000000 36.725470,55.387313,0.000000 36.725602,55.387377,0.000000 36.725690,55.387484,0.000000 36.725907,55.387359,0.000000 36.726114,55.387226,0.000000 36.726691,55.386626,0.000000 36.727452,55.386460,0.000000 36.727471,55.386432,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ОК8</name>
+      <description>ОК8</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.486242,55.681014,0.000000 37.484236,55.681982,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП</name>
+      <description>данных нет</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.648169,55.819895,0.000000 37.648679,55.819714,0.000000 37.648789,55.819134,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-07-13</name>
+      <description>ВКП
+                    ОК-8                                                                      150,0
+                    м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.509556,55.878272,0.000000 37.511760,55.877474,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-02-09</name>
+      <description>ВКП-48</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.537392,55.864216,0.000000 37.538470,55.864581,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-02-09</name>
+      <description>ВКП-32</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.538470,55.864581,0.000000 37.539881,55.864876,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-02-09</name>
+      <description>ВКП-32</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.539881,55.864876,0.000000 37.540830,55.865390,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-02-09</name>
+      <description>ВКП-32</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.540830,55.865390,0.000000 37.539242,55.866247,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-02-09</name>
+      <description>ВКП - 32</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.539242,55.866247,0.000000 37.540138,55.866659,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ВОК8
+                </name>
+      <description>20-04-02</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.723455,55.798402,0.000000 37.724158,55.798525,0.000000 37.725386,55.798541,0.000000 37.725869,55.798405,0.000000 37.727982,55.798770,0.000000 37.729452,55.799047,0.000000 37.730627,55.799976,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ВОК8
+                </name>
+      <description>20-04-02</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.730627,55.799976,0.000000 37.730562,55.799987,0.000000 37.729463,55.801326,0.000000 37.728433,55.800904,0.000000 37.728449,55.801257,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ВОК8
+                </name>
+      <description>20-04-02</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.728449,55.801257,0.000000 37.727541,55.802408,0.000000 37.727606,55.802821,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ВОК8
+                </name>
+      <description>20-04-02</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.727606,55.802821,0.000000 37.729177,55.803942,0.000000 37.729623,55.804716,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

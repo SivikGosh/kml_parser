@@ -2,8 +2,21 @@ import os
 import re
 
 import requests
-from input_datas import root_dir, soup_file
+from bs4 import BeautifulSoup
 from progress.bar import PixelBar
+
+base_dir = os.path.dirname(__file__)
+
+
+def soup_file(dir):
+    os.chdir(dir)
+    file = input('Введите название файла (без расширения):')
+    with open(f'{file}.kml', encoding='utf-8') as f:
+        soup = BeautifulSoup(f, 'xml')
+    return soup
+
+
+soup = soup_file(base_dir)
 
 
 def get_urls(soup):
@@ -26,9 +39,9 @@ def download_icons(urls):
 
 
 if __name__ == '__main__':
-    os.chdir(root_dir)
-    urls = get_urls(soup_file)
+    urls = get_urls(soup)
+    os.chdir(base_dir)
     if not os.path.isdir('pictograms'):
         os.mkdir('pictograms')
-    os.chdir(f'{root_dir}/pictograms')
+    os.chdir('pictograms')
     download_icons(urls)

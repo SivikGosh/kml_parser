@@ -1,0 +1,110 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1113</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-1113-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1113-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1113-biz-tv.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1113">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1113-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>коннектика </name>
+      <description>&lt;img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/pjbvaknic6l5nc0rs683fkrqqg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ml97tgUHxc58DB1DnmyqwWWiIWLiMfFIzENpaRKFeHS8RfpGxGwIsL5xlvWGeciQOhKIVLjcQ0Oevy9_yh29cNMuJohRJE_KM0x4KDJBrf7yum2P7f8Hzy3sxPl0r9Nd6Kys2ue0aeRiYbtNB2JAKHjgCTqTZI2VJaGR1Ox_i_5DDtnswdlCSEwDLSWHuQ1g?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;кросс длина до тк 50 -   837м</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/pjbvaknic6l5nc0rs683fkrqqg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ml97tgUHxc58DB1DnmyqwWWiIWLiMfFIzENpaRKFeHS8RfpGxGwIsL5xlvWGeciQOhKIVLjcQ0Oevy9_yh29cNMuJohRJE_KM0x4KDJBrf7yum2P7f8Hzy3sxPl0r9Nd6Kys2ue0aeRiYbtNB2JAKHjgCTqTZI2VJaGR1Ox_i_5DDtnswdlCSEwDLSWHuQ1g?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.714475,55.715728,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

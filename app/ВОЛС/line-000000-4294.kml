@@ -1,0 +1,74 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-000000-4294</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-4294-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.294</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-4294-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>6.441</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-4294">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-4294-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-4294-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-96 - белый, оформлен на Инофонд&lt;br&gt;ИД есть.&lt;br&gt;664 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4294</styleUrl>
+      <LineString>
+        <coordinates>37.614119,55.699190,0.000000 37.612199,55.697174,0.000000 37.610219,55.694989,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-03-08. Донская ул., д. 28 - Бутлерова ул., д. 22</name>
+      <description>ОК-64 - белый, оформлен на Инофонд.&lt;br&gt;ИД есть.&lt;br&gt;730м.</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4294</styleUrl>
+      <LineString>
+        <coordinates>37.535895,55.652501,0.000000 37.533547,55.650355,0.000000 37.534456,55.649989,0.000000 37.534604,55.650010,0.000000 37.534889,55.649890,0.000000 37.534927,55.649582,0.000000 37.536782,55.648820,0.000000 37.536753,55.648784,0.000000 37.535123,55.649287,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>11-35. ПК-159(Обручевский колл-р) -ул.Бутлерова д.22</name>
+      <description>Трасса в договоре МГТС, есть ИД . &lt;br&gt;ОК-64</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4294</styleUrl>
+      <LineString>
+        <coordinates>37.535125,55.649287,0.000000 37.535072,55.649426,0.000000 37.535136,55.649602,0.000000 37.533784,55.650171,0.000000 37.529986,55.651757,0.000000 37.525684,55.653591,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>11-91. ТК-32 (Русаковская ул.) - Русаковская ул., д. 25</name>
+      <description>Белый, есть ИД МГТС&lt;br&gt;ОК-8&lt;br&gt;1005 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4294</styleUrl>
+      <LineString>
+        <coordinates>37.675847,55.787080,0.000000 37.676169,55.787171,0.000000 37.675815,55.787575,0.000000 37.675209,55.787430,0.000000 37.676427,55.786130,0.000000 37.677489,55.786993,0.000000 37.678449,55.787771,0.000000 37.678964,55.787602,0.000000 37.678540,55.787270,0.000000 37.679189,55.787074,0.000000 37.677526,55.785683,0.000000 37.676743,55.785822,0.000000 37.675756,55.785047,0.000000 37.675998,55.784745,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-11-04</name>
+      <description>ОК-252                                                                          ОКДН-1х12/10х24А-2,7                                              L - 90.0 м&lt;br&gt;Акт Москоллектора есть</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-4294</styleUrl>
+      <LineString>
+        <coordinates>37.528803,55.652552,0.000000 37.529039,55.652463,0.000000 37.528937,55.652382,0.000000 37.529811,55.652015,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

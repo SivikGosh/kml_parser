@@ -1,0 +1,45 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1137-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1137-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1137-crisis-death.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Школьная, д. 9
+                </name>
+      <description>ООО "УК ЖКХ" снесен</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1137-labelson</styleUrl>
+      <Point>
+        <coordinates>36.719047,55.387590,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Школьная, д. 7
+                </name>
+      <description>ООО "УК ЖКХ" снесен</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1137-labelson</styleUrl>
+      <Point>
+        <coordinates>36.719396,55.387303,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Наро-Фоминск, ул. Школьная, д. 14
+                </name>
+      <description>ООО "УК ЖКХ" снесен</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1137-labelson</styleUrl>
+      <Point>
+        <coordinates>36.718117,55.388745,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

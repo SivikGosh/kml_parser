@@ -1,0 +1,226 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1037-nodesc</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1037-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1037-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1037-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1037-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1037-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>МК Металургов ул., д.44к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.799433,55.759900,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мусы Джалиля, д.7к4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.744442,55.628838,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мусы Джалиля, д.17к1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.746470,55.624246,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинградский пр., 48(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.543621,55.796154,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Усиевича, 25 к.1(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.523488,55.805929,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пер. Эльдорадовский, 5(ТВиСТ)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.547269,55.799831,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярославская ул. д.10 к.5
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.649152,55.819090,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Новогиреевская д.32
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.797086,55.754549,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопольская улица, 28</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.975545,55.842650,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Новогиреевская д.34
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.797336,55.753913,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Василия Петушкова 17</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.400020,55.840354,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.16  УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.344298,55.601623,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.22к1 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.349809,55.599544,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.25 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.351096,55.603020,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.43 к.1 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.341334,55.602116,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.43 к.2 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.341940,55.601679,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.45 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.342633,55.602179,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.23 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.354364,55.603178,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.24 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.353014,55.603699,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.41 УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.352573,55.601896,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.15  УК Маторин
+                </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.343142,55.601568,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

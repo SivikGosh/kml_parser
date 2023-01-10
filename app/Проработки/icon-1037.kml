@@ -1,0 +1,314 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1037</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1037-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1037-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1037-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1037-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1037-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1037-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1037-biz-house.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1037">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1037-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1037-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1037-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1037-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1037-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>МК Металлургов, ул. д.38</name>
+      <description>где-то в тех краях у них 1-2 домика&lt;br&gt;От нас порядка 7 км.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.796252,55.759743,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СКТП Славянский бульвар д. 3</name>
+      <description>СКТП Тропорево</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.473534,55.727183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СКТП Славянский бульвар д. 7</name>
+      <description>СКТП Тропорево</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.469645,55.726699,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Озерная ул., д.9</name>
+      <description>ТЕЛ ЖК 07</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.461534,55.683022,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>МК Металлургов, ул. д.40</name>
+      <description>Узловой дом</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.797271,55.759930,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>МК Б. Спасская д.10 к1</name>
+      <description>&lt;img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/rtanbknir2kpvajk0ltn7n0rd4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nGsgBZorZqDk4Niy905WtPIcgUQMwJ8k1XICKGNTLVtHf29wBS-YEtDiPpVRzteWNWtSH1Hov4FBxotXebYs9r1it5WP1j-xG01Qpg5G3x2pI2pkeyH11n-OrUxm7ELtw6iWwkWO7Ktb0Cb77RXv5ogrtWYXWRHeTD_ZlYIDe3XXhdGTOWCpG_SSuFdVB0EyU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Спецтелеприём, кросс в 4м падике, консьерж 310 номер домофона, ключи от решётки у консьержа.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/rtanbknir2kpvajk0ltn7n0rd4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nGsgBZorZqDk4Niy905WtPIcgUQMwJ8k1XICKGNTLVtHf29wBS-YEtDiPpVRzteWNWtSH1Hov4FBxotXebYs9r1it5WP1j-xG01Qpg5G3x2pI2pkeyH11n-OrUxm7ELtw6iWwkWO7Ktb0Cb77RXv5ogrtWYXWRHeTD_ZlYIDe3XXhdGTOWCpG_SSuFdVB0EyU?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.646252,55.776108,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Большая Тульская улица, 56</name>
+      <description>ООО "Спецтелеприем"                                             ТСЖ "На Большой Тульской улице" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.619323,55.702446,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Эльдорадовский пер. д.7(ТВиСТ)</name>
+      <description>Север Строй. Мы ТВиСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.548239,55.800327,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешняковская 9к2</name>
+      <description>Проработка Лантек</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.828316,55.736516,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Староволынская ул., 12 корпус 3</name>
+      <description>мы ООО Спецтелеприем</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.476082,55.714873,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Быковское шоссе,д.30к.1</name>
+      <description>РТП отдаем сигнал ООО "ЭКРАН"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>38.000100,55.625239,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярославская ул. д.10 к.1
+                </name>
+      <description>&lt;img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/74vn756n7qs2m3jdvno5odf31g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nnh5j4jhpnuACUTZQABF57lD6PSdsGuncpNwz6WU7SPa6hioT72v8QyS9FR5adteO2qp7dyEsmGGelWK1i3kgkPZ3yHImiMt-Yhc7lQP3S6zSfzR7FRhg_1bfs_zLoe4mPAeitFLKlPK-XaAWXO1eP9JReRC-r8clfYfqa_LEoMN3dOfKYFZ58U6_-l-wpYQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/74vn756n7qs2m3jdvno5odf31g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nnh5j4jhpnuACUTZQABF57lD6PSdsGuncpNwz6WU7SPa6hioT72v8QyS9FR5adteO2qp7dyEsmGGelWK1i3kgkPZ3yHImiMt-Yhc7lQP3S6zSfzR7FRhg_1bfs_zLoe4mPAeitFLKlPK-XaAWXO1eP9JReRC-r8clfYfqa_LEoMN3dOfKYFZ58U6_-l-wpYQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.648085,55.819906,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Реутовская ул. д.2
+                </name>
+      <description>ГУП г. Москвы «ДЕЗ района Вешняки»,</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.833458,55.742404,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопольская улица, 32</name>
+      <description>СВС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.977235,55.843120,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопольская улица, 30</name>
+      <description>СВС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.976629,55.842361,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопольская улица, 24</name>
+      <description>СВС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.974419,55.841563,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопольская улица, 26</name>
+      <description>СВС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.976371,55.841515,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Зеленая ул., 15а</name>
+      <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dhidpki9p7f23ls8jl40k5e900/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kdwzc_SSWMc1ADXUS5tyGSqCKHTwSQKsTFWXpG0vPdbCHfr0lxwlyotczTCpaR0Brk4we8hDWBUT7-jz5ByjVeubOiHSeTJLm0K6i1s9jcr3fegd2-1W8i_Dv5lWQxzvKM2G4G_fiEpQqSjrmb6T41TILzsqOlNK3jzX2vk69_R1PEmPB3xvTB_ualJ57oyw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ТВиСТ&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/ed615e793gm7t5it9ti5gc62d4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9klcwf4jBSTtqg2Lqo5wRtvcwIJtU78wTrYAH2zi24xlD_cc6bPdfEtYt4dmyyAnmC23uhcEqBAi185GwAPw_Igb4Lh602fyosi-dilNaezq5zV3_DpNe3FJUNXvmw8ahHJ6VWu7Km_8c8oT5O6ldzCKc45QiwGCIS5gLMdBa9hpA4KcyBvqZUbJ1O1kLDbXXw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/7u3id5n1lf9v0f91elco217inc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mrVBdptOf0K-Q9obVbbllflC9TPYfqP_GIQj8M_zT9z5pXSvSDeAUg4W_yzmnV-Cb1aLCZ2wTV4jWQ9G3mwCGLXaTJ9PFSHksmNW3E8J4r1aULnFzTjLtFz7Xcb3idBAV1FY-zXLGg1ygVVybY_pQ0E04fLYfVy_1g1nO7PGHIUxjDRZrnHnND4vEP0O5jyOY?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dhidpki9p7f23ls8jl40k5e900/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kdwzc_SSWMc1ADXUS5tyGSqCKHTwSQKsTFWXpG0vPdbCHfr0lxwlyotczTCpaR0Brk4we8hDWBUT7-jz5ByjVeubOiHSeTJLm0K6i1s9jcr3fegd2-1W8i_Dv5lWQxzvKM2G4G_fiEpQqSjrmb6T41TILzsqOlNK3jzX2vk69_R1PEmPB3xvTB_ualJ57oyw?session=0&amp;fife https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/ed615e793gm7t5it9ti5gc62d4/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9klcwf4jBSTtqg2Lqo5wRtvcwIJtU78wTrYAH2zi24xlD_cc6bPdfEtYt4dmyyAnmC23uhcEqBAi185GwAPw_Igb4Lh602fyosi-dilNaezq5zV3_DpNe3FJUNXvmw8ahHJ6VWu7Km_8c8oT5O6ldzCKc45QiwGCIS5gLMdBa9hpA4KcyBvqZUbJ1O1kLDbXXw?session=0&amp;fife https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/7u3id5n1lf9v0f91elco217inc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mrVBdptOf0K-Q9obVbbllflC9TPYfqP_GIQj8M_zT9z5pXSvSDeAUg4W_yzmnV-Cb1aLCZ2wTV4jWQ9G3mwCGLXaTJ9PFSHksmNW3E8J4r1aULnFzTjLtFz7Xcb3idBAV1FY-zXLGg1ygVVybY_pQ0E04fLYfVy_1g1nO7PGHIUxjDRZrnHnND4vEP0O5jyOY?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.478296,55.890265,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Молдагуловой д.28 к.3
+                </name>
+      <description>МосТелеСигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.826369,55.718643,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Краснопресненская наб д.10 с4
+                </name>
+      <description>представительство Брянской области</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.565412,55.754915,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Довыдковская ул., д3</name>
+      <description>СВС с М-9 своим волокном&lt;br&gt;ЖК Эдельвейс</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.479639,55.727360,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.31 УК Маторин
+                </name>
+      <description>п.2 вход через п.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1037</styleUrl>
+      <Point>
+        <coordinates>37.352619,55.599131,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

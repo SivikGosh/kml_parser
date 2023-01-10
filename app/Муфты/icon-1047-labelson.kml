@@ -1,0 +1,35 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1047-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1047-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1047-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1047-biz-medical.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Муфта ЮлКом ТК13</name>
+      <description>заход в ЦОД Oxygen Волгоградский пр-т, д.42, к.9</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1047-labelson</styleUrl>
+      <Point>
+        <coordinates>37.730543,55.710442,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

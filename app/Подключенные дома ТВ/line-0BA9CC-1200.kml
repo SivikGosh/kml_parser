@@ -1,0 +1,84 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-0BA9CC-1200</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ВКП</name>
+      <description>кабель Процентнер, собирал Стрельцов</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.558766,55.692393,0.000000 37.558251,55.692689,0.000000 37.554968,55.694352,0.000000 37.551609,55.692423,0.000000 37.548874,55.690845,0.000000 37.546026,55.689227,0.000000 37.543160,55.687370,0.000000 37.545220,55.684691,0.000000 37.546479,55.683105,0.000000 37.547520,55.681354,0.000000 37.548641,55.678482,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ВКП, ёмкость не указана</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.971947,55.695217,0.000000 37.971320,55.695339,0.000000 37.970708,55.695353,0.000000 37.970095,55.695277,0.000000 37.969392,55.695014,0.000000 37.968298,55.694748,0.000000 37.967723,55.694919,0.000000 37.967023,55.694940,0.000000 37.966435,55.694980,0.000000 37.965749,55.694910,0.000000 37.965077,55.694806,0.000000 37.965497,55.693538,0.000000 37.966267,55.693567,0.000000 37.966878,55.693658,0.000000 37.967526,55.693750,0.000000 37.968080,55.693443,0.000000 37.968796,55.693907,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ВКП, ёмкость не указана</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.973262,55.691316,0.000000 37.972622,55.691401,0.000000 37.972082,55.691349,0.000000 37.971481,55.691273,0.000000 37.970676,55.691276,0.000000 37.970215,55.691210,0.000000 37.970112,55.692486,0.000000 37.970498,55.692534,0.000000 37.971052,55.692525,0.000000 37.971797,55.692522,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

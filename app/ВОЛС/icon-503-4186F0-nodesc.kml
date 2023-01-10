@@ -1,0 +1,57 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-503-4186F0-nodesc</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-4186F0-nodesc-normal">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-4186F0-nodesc-highlight">
+      <IconStyle>
+        <color>fff08641</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-4186F0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-4186F0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-4186F0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>М</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-4186F0-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.817909,55.806148,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

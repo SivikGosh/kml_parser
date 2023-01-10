@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-DB4436-5844</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-5844-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>5.844</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-5844-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>8.766</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-DB4436-5844">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-5844-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-5844-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ООО Бородино-Телеком
+                </name>
+      <description>кол-ра Димитровский, Октябрьский</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-5844</styleUrl>
+      <LineString>
+        <coordinates>37.615553,55.738656,0.000000 37.613725,55.735862,0.000000 37.613382,55.735282,0.000000 37.612842,55.734050,0.000000 37.612306,55.732336,0.000000 37.612199,55.731535,0.000000 37.612196,55.730063,0.000000 37.614103,55.730010,0.000000 37.614666,55.727551,0.000000 37.611357,55.727569,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

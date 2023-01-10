@@ -1,0 +1,66 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-0BA9CC-1200</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ОК-16</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.986895,55.658569,0.000000 37.986206,55.659201,0.000000 37.985702,55.659818,0.000000 37.984050,55.660251,0.000000 37.982908,55.659006,0.000000 37.980818,55.659755,0.000000 37.980410,55.659658,0.000000 37.980148,55.659286,0.000000 37.978549,55.659525,0.000000 37.976468,55.660596,0.000000 37.976217,55.661074,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

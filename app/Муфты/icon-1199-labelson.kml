@@ -1,0 +1,60 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1199-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1199-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1199-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1199-fac-help.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ул. Ефремова, 19</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/07g3u2urjalsllat16v5na9f5s/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nf_2xDXwhYL7A7F5MkrNoPoSMhKU6y34Q6a4z3mNBR1LM9dgkJx0IZIu8M9ouf-IqW3NUaKFmzmLHMFGdlwSKlVAQV207eQ-ewejopJSl7ZY6_ioiWT9G8m3p1gJiOfROrUX7KNtEYu2rnvohwcnHvyng0MaH9YU34nGUHGG-9_FEiMN9YoL8x4R8B6brKCg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Tel. Влок С, помещение ПКЦ-1&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dsd68m49s2553e7bh11a78n68k/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9l_gpBc-PTunhRW9ez9hloYVALoPcaU2_xDQw-VEFgvW7O0ovOFLMZDHtLWmR-JCR_hP7EVjvSh-ggaY5TnuYLz-lzTnKlpR6ugHQMn95x0LZQfX4rf5Q6kquvIfu-INSj9C0meNlLETZ0dMBLlxJ6bhBuUz4zW59muBHrcLNZ9SFoDSMkIvue-QX-U0c78_w?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jb6janmubpkivjqoqfg15s1a7g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k39mrVcyD6fUxd_V2GpxaRByBDCeRoQl1kC_watz2LQjrZ53mqJJIzCcb8b8j0m6SlRuqjlSuTR8gr7hqQcFKijVwB6i650k3hlI_kztaHcgrYs6W5bNLBTF9NwqTbM8jR4OkvFEl3pnVbhr4-rJMcOb-lZPY3BMe4G7mUWO73Gks0KMlV0Zx7wOzHyNiXIw?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/07g3u2urjalsllat16v5na9f5s/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nf_2xDXwhYL7A7F5MkrNoPoSMhKU6y34Q6a4z3mNBR1LM9dgkJx0IZIu8M9ouf-IqW3NUaKFmzmLHMFGdlwSKlVAQV207eQ-ewejopJSl7ZY6_ioiWT9G8m3p1gJiOfROrUX7KNtEYu2rnvohwcnHvyng0MaH9YU34nGUHGG-9_FEiMN9YoL8x4R8B6brKCg?session=0&amp;fife https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dsd68m49s2553e7bh11a78n68k/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9l_gpBc-PTunhRW9ez9hloYVALoPcaU2_xDQw-VEFgvW7O0ovOFLMZDHtLWmR-JCR_hP7EVjvSh-ggaY5TnuYLz-lzTnKlpR6ugHQMn95x0LZQfX4rf5Q6kquvIfu-INSj9C0meNlLETZ0dMBLlxJ6bhBuUz4zW59muBHrcLNZ9SFoDSMkIvue-QX-U0c78_w?session=0&amp;fife https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jb6janmubpkivjqoqfg15s1a7g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k39mrVcyD6fUxd_V2GpxaRByBDCeRoQl1kC_watz2LQjrZ53mqJJIzCcb8b8j0m6SlRuqjlSuTR8gr7hqQcFKijVwB6i650k3hlI_kztaHcgrYs6W5bNLBTF9NwqTbM8jR4OkvFEl3pnVbhr4-rJMcOb-lZPY3BMe4G7mUWO73Gks0KMlV0Zx7wOzHyNiXIw?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.570839,55.721937,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Форест
+                </name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.357905,55.643071,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>село Троицкое
+                </name>
+      <description>55.978923, 37.584723</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1199-labelson</styleUrl>
+      <Point>
+        <coordinates>37.584722,55.978912,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

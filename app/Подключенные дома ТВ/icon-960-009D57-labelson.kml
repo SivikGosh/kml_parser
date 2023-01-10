@@ -1,0 +1,184 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-960-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Загорьевская ул., д.15</name>
+      <description>&lt;img src="https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/0c1djjm8i4rdm44dtokls29rv0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mexTlLY1j72TzoI2YQjWPIZJoAjpblP42pCguus5jmmIrdF30Nf-VZ35k1xruA8c9UTyhq7zDo7Oz6AXN-VL4b_rkV7_c3UaTtBLv6AdiZLeWWmvROslGV4dqI8YI5HsACsGvibP5anrVNKhW3J5gWadB8bxPnhiGGzoOVK-T0EOKMCsUddqjJX_Nor6PQrQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Мостелесигнал, Ключи от дома находятся в ОДС , загорьевская 17, верхний тех.этаж, шкаф открыт.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/tok8t83gctmhq3756pflnapcuo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nN-9cXWR_HhJ7nfs1UrBQEaDBCmWfnlTV8ZQijsnMVf-V9tRER54M9EHBilR-UUkjI5IlvCyZj5OgSkWG1oMnO0XOgbOyceGCffTOyUBM0ilq9Vzsp_5htWApA2OkOV5CJQGpYfsT1NyR7gxFwiUmQjfD7vYvirqplpW49s8dMqq9kA8swwAfn35FzmEc9-g?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-08-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/0c1djjm8i4rdm44dtokls29rv0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mexTlLY1j72TzoI2YQjWPIZJoAjpblP42pCguus5jmmIrdF30Nf-VZ35k1xruA8c9UTyhq7zDo7Oz6AXN-VL4b_rkV7_c3UaTtBLv6AdiZLeWWmvROslGV4dqI8YI5HsACsGvibP5anrVNKhW3J5gWadB8bxPnhiGGzoOVK-T0EOKMCsUddqjJX_Nor6PQrQ?session=0&amp;fife https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/tok8t83gctmhq3756pflnapcuo/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nN-9cXWR_HhJ7nfs1UrBQEaDBCmWfnlTV8ZQijsnMVf-V9tRER54M9EHBilR-UUkjI5IlvCyZj5OgSkWG1oMnO0XOgbOyceGCffTOyUBM0ilq9Vzsp_5htWApA2OkOV5CJQGpYfsT1NyR7gxFwiUmQjfD7vYvirqplpW49s8dMqq9kA8swwAfn35FzmEc9-g?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.688325,55.580625,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Карла Маркса д.83</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.987108,55.658641,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Заводская д.21</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.976200,55.660972,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Карла Маркса д.94</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.995590,55.660903,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Некрасова д.6</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>38.002638,55.673703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островского д.8</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>38.005685,55.669926,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лорха д.21</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.997191,55.677866,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>мкр. Западный д.1</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.968884,55.608651,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина д.39</name>
+      <description>Любтелемонтаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.978057,55.608634,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦСС Каланчевская 2, к 1</name>
+      <description>Каланчевская 2, к 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.652461,55.770077,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>улица Маршала Жукова, 14
+                </name>
+      <description>1 этаж</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>36.718305,55.383008,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Окская ул., 1к1</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/66q2sl9t5ciki8dj7f73dhji0g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kfBNFKLrx6vB4Tsa1KMgKl97Iepj5jE93hqUl6wvMnCyKWLQOvSpWPFaU_005HoHobkZz_FwWaZp4mhvXw_vVdQbuof9HkaH7EIbdxTG7Syr-_TgA-CydbzMIOOCaukXnuILGMJGWrrJdrBZil8a7iMLFG-CR5V2WdPTnnEncEQcfU-SVdNP0tCmB3N2J-1w?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Инфокос. Подвал 5п. Заход с 6-го. Ключи в д. Васильц. стан 11</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/66q2sl9t5ciki8dj7f73dhji0g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kfBNFKLrx6vB4Tsa1KMgKl97Iepj5jE93hqUl6wvMnCyKWLQOvSpWPFaU_005HoHobkZz_FwWaZp4mhvXw_vVdQbuof9HkaH7EIbdxTG7Syr-_TgA-CydbzMIOOCaukXnuILGMJGWrrJdrBZil8a7iMLFG-CR5V2WdPTnnEncEQcfU-SVdNP0tCmB3N2J-1w?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.750835,55.711695,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-ой под.,ВТЭ.Активный распред.узел.Опт усил. 4х18дБм.
+                </name>
+      <description>15я Парковая 41к2</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.816420,55.805082,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. 3-е Почтовое отделение, 34</name>
+      <description>узел Бриз ВТЭ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.874842,55.676926,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. 3-е Почтовое отделение, 51</name>
+      <description>Основной узел Бриз ВТЭ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.871941,55.681447,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Раменский р-н,дер.Островцы,ул.Подмосковная,д.33</name>
+      <description>Узел Бриз, электрощитовая</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.986482,55.596338,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

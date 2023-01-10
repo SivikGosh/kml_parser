@@ -1,0 +1,24 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1193-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1193-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1193-fac-animal-shelter.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Мир Митино д.14</name>
+      <description>Ловител, дали ближайшую ТП Пятницкое ш, 35</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193-labelson</styleUrl>
+      <Point>
+        <coordinates>37.374672,55.859751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

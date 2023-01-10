@@ -1,0 +1,106 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>line-B29189-2938</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-B29189-2938-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-2938-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-2938-nodesc-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>2.938</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-B29189-2938-nodesc-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>4.407</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-B29189-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-B29189-2938-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-2938-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-2938-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>16-07-03</name>
+      <description>ОК-32&lt;br&gt;ДПТС (Инфокос) 50\50</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2938</styleUrl>
+      <LineString>
+        <coordinates>37.805103,55.806195,0.000000 37.805060,55.806829,0.000000 37.804931,55.808776,0.000000 37.804945,55.810010,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-11-09</name>
+      <description>ОК-8&lt;br&gt;160 м до оконечки&lt;br&gt;ОКЗ-САО-1/3Сп-8(2) (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2938</styleUrl>
+      <LineString>
+        <coordinates>37.637299,55.849216,0.000000 37.637309,55.849364,0.000000 37.637393,55.849356,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Русанова д.9</name>
+      <description>ОК-8 ВКП данных нет (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2938</styleUrl>
+      <LineString>
+        <coordinates>37.646073,55.855347,0.000000 37.644561,55.855679,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-07-15</name>
+      <description>ОК-8                                                                  
+                      ОТД-2х4А-2,7кН                                                        L-75,0 м
+                    (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2938</styleUrl>
+      <LineString>
+        <coordinates>37.866702,55.743224,0.000000 37.867152,55.743206,0.000000 37.867163,55.743366,0.000000 37.868622,55.743387,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-16</name>
+      <description>ОК-8                                                                              
+                    ООО СВИСТ                                                                 L-
+                    98,0 м (Инфокос) кол-р Ленинградский-2 оформлен на РТП</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2938</styleUrl>
+      <LineString>
+        <coordinates>37.490632,55.827150,0.000000 37.490649,55.827019,0.000000 37.491518,55.827239,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

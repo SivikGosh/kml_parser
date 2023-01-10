@@ -1,0 +1,247 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1273</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1273-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1273-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1273">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1273-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1273-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Московский региональный центр РТРС </name>
+      <description>Московская область, Истринский район, ДАВЫДОВСКОЕ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.789670,55.857752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Наро-Фоминский район, Пожитково</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.813880,55.416897,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Россия, Московская область, городской округ Воскресенск, деревня
+                    Богатищево, 50</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.747091,55.461447,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Щелковский район, Петровское</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.225512,56.105868,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Владимирский областной радиотелевизионный передающий центр РТРС</name>
+      <description>Владимирская область, Киржачский район, КИРЖАЧ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.877569,56.160984,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Владимирский областной радиотелевизионный передающий центр РТРС</name>
+      <description>Владимирская область, Александровский, АЛЕКСАНДРОВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.707138,56.390910,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Владимирский областной радиотелевизионный передающий центр РТРС</name>
+      <description>Владимирская область, Александровский район, ТИРИБРОВО</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.464005,56.512850,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Сергиев Посадский район, Мишутино</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.098939,56.377134,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Дмитровский район, Подчерково</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>37.554384,56.385015,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Дмитровский район, Новоселки</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>37.110500,56.370254,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Солнечногорский район, Солнечногорск</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.958830,56.190599,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Клинский район, КЛИН</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.700012,56.314733,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Волоколамский район, ВОЛОКОЛАМСК</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.104450,56.044007,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Шаховской район, Жилые горы</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>35.458180,56.023595,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Рузский район, Морево</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.451946,55.637318,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Можайский район, Отяково</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>36.059936,55.483821,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Можайский район, Мокрое</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>35.510210,55.439526,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Москва, Троицкий административный округ, Рогово</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>37.067310,55.224749,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Чеховский район, ЧЕХОВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>37.442391,55.157077,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Серпуховской район, СЕРПУХОВ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>37.416323,54.949980,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Ступинский район, СТУПИНО</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.053658,54.914546,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Ступинский район, Алфимово</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.341308,55.098604,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский региональный центр РТРС</name>
+      <description>Московская область, Орехово-Зуевский район, Ликино-Дулево</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1273</styleUrl>
+      <Point>
+        <coordinates>38.968863,55.696622,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,31 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-962-7C3592-labelson</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-962-7C3592-labelson">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>тк№23 ш. Энтузиастов
+                </name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/d80puoa5ug3gno0rfv5gm59hsc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nh-Woz8LpTBA4AHhNMKTydwU6KhJM9xHvDf4Bbp7hRcn1D0gC1JnpjeP8LHSS8VGow5JpyI3k12B5hInwBc5_aCcwhpmcaZiI3LKfcXxqjKzBY78JMIcUrs-aIdITeE074wsXjEJVdB2fYLN_7DWtSNYAstRR80nbeMXTqTNFFFS-W44aOZ0onsm7sbe3FWQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка!!!</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-7C3592-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/d80puoa5ug3gno0rfv5gm59hsc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nh-Woz8LpTBA4AHhNMKTydwU6KhJM9xHvDf4Bbp7hRcn1D0gC1JnpjeP8LHSS8VGow5JpyI3k12B5hInwBc5_aCcwhpmcaZiI3LKfcXxqjKzBY78JMIcUrs-aIdITeE074wsXjEJVdB2fYLN_7DWtSNYAstRR80nbeMXTqTNFFFS-W44aOZ0onsm7sbe3FWQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.789778,55.765513,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

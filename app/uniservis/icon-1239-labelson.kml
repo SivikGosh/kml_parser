@@ -1,0 +1,123 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1239-labelson</name>
+    <description>uniservis</description>
+    <visibility>1</visibility>
+    <Style id="icon-1239-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1239-poi-civic.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Садовническая ул., 29</name>
+      <description>МФК «Balchug Residence»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.636414,55.746204,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усачёва ул., д.10к1, д.12</name>
+      <description>«Садовые кварталы»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.570957,55.725805,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усачёва ул., 2, стр. 1</name>
+      <description>«Фьюжн парк»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.576793,55.730868,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Звенигородская ул., 11</name>
+      <description>Резиденция МОНЭ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.554268,55.761500,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ломоносовский просп., 25к1</name>
+      <description>«Доминион»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.531936,55.694247,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский Проспект, Олимпийская Деревня, 1к1</name>
+      <description>«Чемпион парк»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.469645,55.679472,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Козлова, 34</name>
+      <description>«Астра»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.447532,55.718022,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Попов пр-д, 4</name>
+      <description>Жилой комплекс «Арко ди соль»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.697434,55.784507,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ярцевская, 27к1</name>
+      <description>ЖК «O2XYGEN» Оксиджен&lt;br&gt;ТК ТЕЛ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.416907,55.741997,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ходынский бульвар, 2</name>
+      <description>МФК «Лайнер-Восток»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.538840,55.788700,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волоколамское ш., 69, корп. 1-2</name>
+      <description>«Город на реке Тушино-2018»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.430527,55.820404,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лайнер Запад</name>
+      <description>объект компании Тел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1239-labelson</styleUrl>
+      <Point>
+        <coordinates>37.522704,55.790113,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

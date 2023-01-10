@@ -1,0 +1,175 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-960-009D57-nodesc</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Новусущевская ул., д. 13/1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.603100,55.789997,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГС Инфокос </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.486403,55.677621,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Менжинского 38к.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.660886,55.871185,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Осенний б-р 12к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.411623,55.758340,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мичуринский 27к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.501482,55.697048,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная 126</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.517077,55.632542,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кастанаевская 51</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.460268,55.731868,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-й под.,ВТЭ.Пассивный распределительный узел на группу домов.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.675703,55.787068,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пр-т Вернадского, 42к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.499000,55.675536,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д.9</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.344661,55.595874,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борисова, 14к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.456908,56.011394,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Авиател</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.609806,55.796490,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Выход на кровлю.Активный распред.узел.Опт усил.</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.721121,55.793836,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кавказский б-р 29к2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.666403,55.627847,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вешняковская, 21/26</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.830589,55.732669,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-я Владимирская д.5</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.780975,55.762100,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

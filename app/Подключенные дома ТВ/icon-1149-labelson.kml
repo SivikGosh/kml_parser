@@ -1,0 +1,1530 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>icon-1149-labelson</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1149-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1149-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/1149-crisis-flood.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Истринская ул., д.5</name>
+      <description>УК "КомСервис" </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.431203,55.737220,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Молодогварейская ул., д.24</name>
+      <description>УК "КомСервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.420104,55.734946,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Алма-Атинская ул., д.2</name>
+      <description>ООО "Спецтелеприем"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.767482,55.642712,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ходынский б-р, 9</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/6lu8skplhve1p4a629to5g63h8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lSY7SYfCDdBK7iWsZtciOgn1uPZ8ImPQyMFHj0K_zuAu3EKUfDeyLBm87pNAm4jnWTxC5n_p_peBcQ92j2YklAV1BB06aj6VGoS9VQLIqWXo8W1tg6XBAsn5GeEWn6zAYjXUgcxK4PAkoWF8V_CgvCjIyYdPQqztFKKgfoAnlJc8modsASVMTSGfBWc1MsjQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ООО "Твист" оборудование в Электрощитовой 2п. Гл инженер 89268123076, Работник который открывал - 89163379631.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/tmk4ajsv03sh8j20j2qfe40oe8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kfMuVxudyYArvjmYLWS03SkjTafwhaevtFmyQz6sAXbnJcoOP8c2606u2drVFUVuvPF19nYrDV_7y6p98X9azVF_76wmZvDo3Mh4ZSylwfvUiBxThmJmCUpwkdaNfAxB1Q_6H36tLWfcGNTqolJVzq1hOWPXXis6UNsJMBxhh-n9vQW7ESuTk6UDmZh8tplw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jlsj1u633575qmafhdrble00g0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k8VXiiRrrxIa-yRrT4c13yVRqlPslRU4JCAsdXgkYbwC5VXevA6T8NkeoE24VO7QV4vhtynNS5bV-zSzWf5jfkXKDRFDXG6uv-POV7rH373o3KsutmDqGY0XB53x8dOUOW0Kt0I92LAeRKu6dujLVGQ2JzCb4FnrPQ4MBlBfa9wlJoUTR3JtGsQjyUBIo-Iw?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/6lu8skplhve1p4a629to5g63h8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9lSY7SYfCDdBK7iWsZtciOgn1uPZ8ImPQyMFHj0K_zuAu3EKUfDeyLBm87pNAm4jnWTxC5n_p_peBcQ92j2YklAV1BB06aj6VGoS9VQLIqWXo8W1tg6XBAsn5GeEWn6zAYjXUgcxK4PAkoWF8V_CgvCjIyYdPQqztFKKgfoAnlJc8modsASVMTSGfBWc1MsjQ?session=0&amp;fife https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/tmk4ajsv03sh8j20j2qfe40oe8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9kfMuVxudyYArvjmYLWS03SkjTafwhaevtFmyQz6sAXbnJcoOP8c2606u2drVFUVuvPF19nYrDV_7y6p98X9azVF_76wmZvDo3Mh4ZSylwfvUiBxThmJmCUpwkdaNfAxB1Q_6H36tLWfcGNTqolJVzq1hOWPXXis6UNsJMBxhh-n9vQW7ESuTk6UDmZh8tplw?session=0&amp;fife https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/jlsj1u633575qmafhdrble00g0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9k8VXiiRrrxIa-yRrT4c13yVRqlPslRU4JCAsdXgkYbwC5VXevA6T8NkeoE24VO7QV4vhtynNS5bV-zSzWf5jfkXKDRFDXG6uv-POV7rH373o3KsutmDqGY0XB53x8dOUOW0Kt0I92LAeRKu6dujLVGQ2JzCb4FnrPQ4MBlBfa9wlJoUTR3JtGsQjyUBIo-Iw?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.528165,55.784447,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова ул., д.4,к.2</name>
+      <description>Наш</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.559080,55.692221,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Селигерская 26к.1</name>
+      <description>КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.549607,55.868395,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский б-р, д.25,к4</name>
+      <description>ООО "ТВиСТ".     Узел. КП МПТЦ&lt;br&gt;В электрощитовой рядом с диспетчерской, на ключа написано Ростелеокм</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.556216,55.868906,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бескудниковский бульвар, д. 27, к.4</name>
+      <description>ООО "ТВиСТ"    КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555357,55.870164,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сев. Бульвар, д.21А</name>
+      <description>Мостелесигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.619277,55.870172,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фестивальная 27</name>
+      <description>Строится ЖСК "Внуково"&lt;br&gt;Контактное лицо - Председатель: Шубина Антонина Герасимовна (все вопросы)&lt;br&gt;тел. &lt;br&gt;(499) 457-98-34&lt;br&gt;моб. (916) 382-20-69</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.479510,55.857067,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Артековская ул., д.2к.2</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.612091,55.649257,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Артековская ул., д.2к.1</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.612832,55.650679,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Митинская ул., д.27к.1</name>
+      <description>Владислав Добрин&lt;br&gt;НТЭ, 2 под.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.360468,55.844832,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Климашкина ул., д.9</name>
+      <description>&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/r6gpk1v1aen9bqa6b3b7v2ms8s/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ngjWlZgJAmDhLyQHGam28_2URQlyg4J5lZE7YPPNsxLflED-LiL0pvnVT991Kc8iLNrjwotfuxqBymvW7I9GmjrKtfs6YUQgLOl-KwUG_y7SJflvtFC6PfAJcF2Egxc-xl7EKdPNHKFcTEGXxgS5xqdkrzFEB6y_wBxZ47Iwjv7X_g1puud2G-QFes9a8cJQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Мостелесигнал&lt;br&gt;Менеджер Евгений Сапожников</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/r6gpk1v1aen9bqa6b3b7v2ms8s/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ngjWlZgJAmDhLyQHGam28_2URQlyg4J5lZE7YPPNsxLflED-LiL0pvnVT991Kc8iLNrjwotfuxqBymvW7I9GmjrKtfs6YUQgLOl-KwUG_y7SJflvtFC6PfAJcF2Egxc-xl7EKdPNHKFcTEGXxgS5xqdkrzFEB6y_wBxZ47Iwjv7X_g1puud2G-QFes9a8cJQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.573014,55.767573,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ак. Арцимовича ул., д. 8</name>
+      <description>ООО "Спецтелесервис"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.510811,55.643669,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Архитектора Власова ул., д.10</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.547632,55.677185,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская ул., д.20,к.1</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.732249,55.798034,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова д.44 корп.3</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.561183,55.694374,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова д.44 корп.4</name>
+      <description>ООО "ТВиСТ" для абонентов </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.562111,55.694837,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вавилова ул., д.48</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.560416,55.691320,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Загородное ш., д.9,к.2</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.607242,55.693343,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Алма-Атинская ул., д. 11, корп.1</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.773303,55.638431,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинский пр., д.127</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.477310,55.646027,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул. д.34,к.1</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.571657,55.677503,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочеремушкинская ул. д.60,к.1</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.560700,55.666213,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочеремушкинская ул. д.60,к.2</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.558179,55.666609,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочеремушкинская ул. д.62,к.1</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.560620,55.665236,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островитянова ул., д.26к.2</name>
+      <description>Мостелесигнал</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.514142,55.633623,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9-я Парковая ул., д.40</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.799851,55.797946,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., д.32</name>
+      <description>ООО "Мостелесигнал"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.812369,55.806566,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11-я Парковая, д.44,к.3</name>
+      <description>ООО "СПЕЦТЕЛЕСЕРВИС", </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.807946,55.806039,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.43,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.553399,55.668049,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.43,к.2</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.555717,55.667239,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Профсоюзная ул., д.45,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.552852,55.666440,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.8</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.356251,55.837928,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.10</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.356777,55.837554,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.10,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.356166,55.837334,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.12</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.358156,55.836922,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.12,к.1</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.357394,55.836530,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., д.20</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.360092,55.834635,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Цюрупы ул., д.13</name>
+      <description>СПЕЦТЕЛЕСЕРВИС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.570732,55.665880,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аминьевское ш., д.15</name>
+      <description>ООО "ТВиСТ"                                                                УК Комсервис от Лебедева</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.453750,55.706584,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аминьевское ш., д.17</name>
+      <description>ООО "ТВиСТ"                                                                  УК Комсервис от Лебедева</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.453664,55.707082,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Веерная ул., д.28,к.2</name>
+      <description>ООО "ТВиСТ"  УК Комсервис от Лебедева</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.481020,55.710540,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кедрова ул., д.21,к.2</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577850,55.682865,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кедрова ул., д.19</name>
+      <description>&lt;img src="https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/o3oameuh1cbfa5l7remimua82g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nAiuHaDMb9gu75wHwFNw1pq4knEo4Z08EwZDbpeU1mT6qypYCTdVD2Gf3Vk1sTlOcprWnS_QacjmbJhWANLeJECBCKL40lvP_goOosizMoFbmKE348kDRH23eqBFGamHnkXjf8RphiVpRXRtGI7tUsJ_hj4sskgE5eTfLlsnRt_bPV0xD1wMK4E-G5kgL9ALU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ИНКВЕСТ&lt;br&gt;ВТЭ, 2 под.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/31sebrckihd4qm1u724v67aubc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mhEDLZvOPnBd0c6uu5b2o3SOpR9snbeojc324yfZ7spudotF3K2Vh4HCD6DHObTPZPC3lJtwxTBYAYAsnJkHfQ0VMoRQaDJPwjO_Cd84Z--FkS7xE9-Qx-fTh6MFvatZKxL_MZUQzW1BkfwSydtDBejMnP3Wqect0S3rqzCDXNjg1ywJ1CidjAlSW6AlqmCdA?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-10-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/o3oameuh1cbfa5l7remimua82g/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nAiuHaDMb9gu75wHwFNw1pq4knEo4Z08EwZDbpeU1mT6qypYCTdVD2Gf3Vk1sTlOcprWnS_QacjmbJhWANLeJECBCKL40lvP_goOosizMoFbmKE348kDRH23eqBFGamHnkXjf8RphiVpRXRtGI7tUsJ_hj4sskgE5eTfLlsnRt_bPV0xD1wMK4E-G5kgL9ALU?session=0&amp;fife https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/31sebrckihd4qm1u724v67aubc/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9mhEDLZvOPnBd0c6uu5b2o3SOpR9snbeojc324yfZ7spudotF3K2Vh4HCD6DHObTPZPC3lJtwxTBYAYAsnJkHfQ0VMoRQaDJPwjO_Cd84Z--FkS7xE9-Qx-fTh6MFvatZKxL_MZUQzW1BkfwSydtDBejMnP3Wqect0S3rqzCDXNjg1ywJ1CidjAlSW6AlqmCdA?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.576069,55.682822,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кедрова ул., д.19,к.1</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.576616,55.683443,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова, д.28,к.2</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577056,55.683857,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова ул., д.28,к.1
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577915,55.684462,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова ул., д.30,к.1
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.579014,55.684205,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.16
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.580162,55.683621,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.23
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.579685,55.681683,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.21,к.1
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.581262,55.682472,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.21,к.2
+                </name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.582759,55.681937,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Большая Черемушкинская д.20к4</name>
+      <description>ООО "ТВиСТ".  допуск от Теле Трест</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.584105,55.682533,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова ул., д.36</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.585833,55.683028,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.23,к.1</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.581401,55.681758,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.23,к.2</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.582383,55.681398,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новочерёмушкинская ул., д.23,к.3</name>
+      <description>ИНКВЕСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.581766,55.681020,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Летчика Бабушкина, д.17</name>
+      <description>Чердак, 3-й подъезд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.672623,55.864505,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистяковой ул. д.2</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.330937,55.695890,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 4</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.330724,55.695395,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 6</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.329761,55.694753,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 8</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.327547,55.694051,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 12</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.328690,55.696236,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 14</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.327043,55.694768,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 16</name>
+      <description>В 1-ом подъезде на ОУ 1 пачкорд не работает ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.326287,55.695616,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 18</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.326382,55.696627,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 20</name>
+      <description>ШКОЛА НЕ ОБСЛУЖИВАЕМ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.326304,55.696146,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 22</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.325094,55.696182,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Чистяковой, 24</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.324175,55.697015,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пенягинская ул., 18</name>
+      <description>ООО Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.359226,55.835021,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Миклухо-Маклая, 65к4</name>
+      <description>&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/vbuhs5mucof5kir8idlj0lp2qg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ncNUjqPF4lXKa7BAwIPQ-cceo_C4CSx9AEN-f5qOSWBZedG6BEFjF_HyCCExKFA6ZLiZwk_0x7UwoPY7yq4RE1ShDArfeisVioC5qHMV1mgJGfyVdBG-w9sfmhT58gp04PBpIvrbK7NiVSeZOIBx8wsk0WizT5FkQEeIeNSNCuTe41hdm0pSR7VBC7bvwEqDE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ООО Спецтелесервис ИНФОКОС&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/1n6gfbuuqd2ukh28fu84vt0va8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nv47Fv3WdP9AS52XVFM8vvAl4a6UlpeNc10SstUXAV0uxgJGIcFAqgDqLnIxoICrvzfCPRqBAtUhM5-N2t_QZwHApZnPTVAaA16u5cf4-aM4YdZiCtWePVhiSMrjdsLtK4mRO5xrsZbfPxREMrjUCUIBE09A-gSnmnli0Hw99562-JchJgGbE5CzYjHeEtYQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dhnbjthoj8jsus639ocgih6dd0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9km3TFoLJuWEu9mosnj-8_BFJ7v1NLI96qJ6hJOraVMkGWNpsFzIALwUCE3rOkBVMX2Gz0isHbu-12JF9IZAjqEIFUr_1TNknFpKe8t2fVqasoh6_ci3n6FrSRhLbedvD_qoKy4jgvxzNGEFJ_5zH7uDyN8eKw_sya_D7Q9TI8ujAwbvRNChoETKgvYx6uFeIQ?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/vbuhs5mucof5kir8idlj0lp2qg/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9ncNUjqPF4lXKa7BAwIPQ-cceo_C4CSx9AEN-f5qOSWBZedG6BEFjF_HyCCExKFA6ZLiZwk_0x7UwoPY7yq4RE1ShDArfeisVioC5qHMV1mgJGfyVdBG-w9sfmhT58gp04PBpIvrbK7NiVSeZOIBx8wsk0WizT5FkQEeIeNSNCuTe41hdm0pSR7VBC7bvwEqDE?session=0&amp;fife https://doc-0c-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/1n6gfbuuqd2ukh28fu84vt0va8/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9nv47Fv3WdP9AS52XVFM8vvAl4a6UlpeNc10SstUXAV0uxgJGIcFAqgDqLnIxoICrvzfCPRqBAtUhM5-N2t_QZwHApZnPTVAaA16u5cf4-aM4YdZiCtWePVhiSMrjdsLtK4mRO5xrsZbfPxREMrjUCUIBE09A-gSnmnli0Hw99562-JchJgGbE5CzYjHeEtYQ?session=0&amp;fife https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/gvice2uarok7e0a70899tca5fs/dhnbjthoj8jsus639ocgih6dd0/1671545895500/coJuRd3l6y7PFWZK5b3Z2S62bRqtRJ4R/01031599027170491485/5AKgB-9km3TFoLJuWEu9mosnj-8_BFJ7v1NLI96qJ6hJOraVMkGWNpsFzIALwUCE3rOkBVMX2Gz0isHbu-12JF9IZAjqEIFUr_1TNknFpKe8t2fVqasoh6_ci3n6FrSRhLbedvD_qoKy4jgvxzNGEFJ_5zH7uDyN8eKw_sya_D7Q9TI8ujAwbvRNChoETKgvYx6uFeIQ?session=0&amp;fife</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.544014,55.639552,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 17, 3-й микрорайон</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.341864,55.593661,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 10, 3-й микрорайон</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.343038,55.595649,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 9, 3-й микрорайон</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.345061,55.595547,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 18, 3-й микрорайон</name>
+      <description>Телетрейд Добраться до ящиков нужна стремянка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.342808,55.594255,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 16, 3-й микрорайон</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.340807,55.594052,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 4, 3-й микрорайон</name>
+      <description>Телетрейд</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.340609,55.597490,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Московский, д. 12, 3-й микрорайон</name>
+      <description>Телетрейд Добраться до ящиков нужна стремянка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.339804,55.595353,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гризодубовой ул., 4к1</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.528483,55.783168,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская ул., 40Ак1</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.558332,55.888996,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская ул., 40Ак2</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.558324,55.889362,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская ул., 40Ак3</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.559531,55.889037,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубнинская ул., 40Ак4</name>
+      <description>ООО "Телетрейд"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.559547,55.889398,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Заповедная ул., 16к3</name>
+      <description>Не леальта</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.636991,55.868798,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гришина ул., вл. 16, стр. 1</name>
+      <description>МосГорТелеСеть</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.418291,55.722681,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вернадского пр-т, д.37,к.1Б</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.510377,55.678062,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чаянова ул., д.14 </name>
+      <description>Монтажкоммуникации</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.596626,55.776371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Амурская ул., д.54</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.787148,55.811989,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Молодежная ул., д.17</name>
+      <description>Одинцовские кабельные сети</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.266376,55.677149,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Анохина, д. 50</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.469848,55.652501,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Академика Анохина, д. 56</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.469409,55.651339,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Братеевская д.23 к.1</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.754828,55.632863,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Братеевская ул., д.21к3</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.754109,55.632172,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бажова ул., д.8</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.662549,55.833180,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дежнева пр., 11к1</name>
+      <description>ТВиСТ, ЖК Айсберг</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.643078,55.870296,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дежнева пр., д.9к1</name>
+      <description>ТВиСТ, ЖК Айсберг</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.644465,55.870588,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Беломорская ул., 8 корпус 1</name>
+      <description>КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.469272,55.861548,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13-я Парковая ул., 35</name>
+      <description>ООО "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.810000,55.808249,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Луганская ул., 3 корпус 2</name>
+      <description>ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.665439,55.626979,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Луганская ул., д.3к1.</name>
+      <description>ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.664330,55.627938,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Луганская ул., 4 корпус 1</name>
+      <description>ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.664852,55.625014,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Луганская ул., 8</name>
+      <description>ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.666284,55.623446,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Коровинское ш. Д.5к.1</name>
+      <description>от Крестьянинова</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.540203,55.866695,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калужская ул.,д.26</name>
+      <description>ПИК КОМФОРТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.620974,55.123282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калужская ул., 22</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.620651,55.122658,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калужская ул., 18</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.620323,55.122064,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 85</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607205,55.124016,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 81</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.605724,55.123238,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Белкинская ул., 2</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.603815,55.122479,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Белкинская ул., 4</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.603051,55.122945,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Белкинская ул., 6</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.602958,55.123413,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 79</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.605344,55.121914,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 87</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.608981,55.123657,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 83</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607419,55.122910,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 126</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.619108,55.124344,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 89</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.610410,55.124121,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>, Маркса пр-т, 93</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.611752,55.124755,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 80</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.622397,55.123214,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 78</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.622431,55.122692,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 74</name>
+      <description>ПИК-Комфорт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.622515,55.121917,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мира ул., 11</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.610758,55.103224,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Победы ул., 12</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.611519,55.100279,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мира ул., 21</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.614996,55.102657,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 40</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.612350,55.090118,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Королева ул., 1</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.616348,55.107951,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 68</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.610123,55.096778,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мигунова ул., 8</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.597021,55.090234,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 102</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.612438,55.123531,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 78</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607110,55.120947,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 104</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.613673,55.122374,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мира ул., 13</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.611762,55.103101,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Энгельса ул., 36</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607556,55.120282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лермонтова ул., 3</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.598160,55.090313,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Жолио-Кюри ул., 2</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.614014,55.095383,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 59</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.611977,55.093541,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Блохинцева ул., 11</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.601372,55.090550,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 42</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.613797,55.089982,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ляшенко ул., 6А</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.612672,55.107066,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 84</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.609065,55.121261,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 88</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.609670,55.122242,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Победы ул., 1</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607140,55.098397,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калужская ул., 15</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.618010,55.123697,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 90</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.611077,55.121076,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 18</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.615397,55.102140,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пирогова ул., 9А</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.588771,55.091501,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 75</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.600783,55.121454,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 94</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.610923,55.122885,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 80</name>
+      <description>ЖКУ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>36.607276,55.098758,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Борисовские пруды, 7к2</name>
+      <description>Мы Твист, объект КП МПТЦ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.715366,55.636220,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Каховка, 18 к.1
+                </name>
+      <description>Телетрест</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.569750,55.657809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б.Черкизовская д.6 корп.4 п.4-5</name>
+      <description>ООО ТВИСТ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.721507,55.795641,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Севастопольский пр-т , 28 к.7
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.574404,55.664565,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Севастопольский пр-т , 28 к.8
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.576040,55.664435,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова, д.23, корп.2
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.579024,55.686898,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитрия Ульянова, д.23, корп.1
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577511,55.687291,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское шоссе, д. 86, к. 6
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.548516,55.869932,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кедрова, д.26/22
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577412,55.681414,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Летчика Бабушкина, д.29, к.2
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.673948,55.869622,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маломосковская, д.21, корп.2
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.649308,55.814027,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маломосковская, д.21, корп.1
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.649807,55.813499,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маломосковская, д.21, корп.4
+                </name>
+      <description>твист</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-labelson</styleUrl>
+      <Point>
+        <coordinates>37.650123,55.814452,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
