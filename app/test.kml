@@ -150,6 +150,28 @@
                     </coordinates>
                 </LineString>
             </Placemark>
+            <Placemark>
+                <name>ТК-61(Волгоградский пр-т)
+                </name>
+                <description><![CDATA[Колодец закопан<br>Был залом кабеля(авария от 20.02.2020)]]></description>
+                <styleUrl>#icon-503-009D57</styleUrl>
+                <Point>
+                    <coordinates>
+                        37.7233204,55.7110176,0
+                    </coordinates>
+                </Point>
+            </Placemark>
+                        <Placemark>
+                <name>ТК-61(Волгоградский пр-т)
+                </name>
+                <description><![CDATA[Колодец закопан<br>Был залом кабеля(авария от 20.02.2020)]]></description>
+                <styleUrl>#icon-503-009D57</styleUrl>
+                <Point>
+                    <coordinates>
+                        37.7233204,55.7110176,0
+                    </coordinates>
+                </Point>
+            </Placemark>
         </Folder>
     </Document>
 </kml>

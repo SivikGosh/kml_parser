@@ -4,239 +4,386 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d576b63-4a93-460e-b00e-0466fc1305bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.vscode/PythonImportHelper-v2-Completion.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/get_pictograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/get_pictograms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/input_datas.py" beforeDir="false" />
+    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил цветные иконки">
+      <change afterPath="$PROJECT_DIR$/app/i_sort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_009D57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_0BA9CC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_4186F0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_62AF44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_795046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_7C3592.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_93D7E8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_B29189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_CDDC39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_DB4436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_F4B400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_F8971B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_FFDD5E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_009D57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_62AF44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_DB4436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/961_colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/icon_col/962.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1019.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1037.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1047.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1113.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1119.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1137.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1149.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1151.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1193.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1199.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1239.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1313.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1337.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1343.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/1351.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/503.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/960.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/961.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pictograms/962.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kml_to_qgis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kml_to_qgis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1239-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/uniservis/icon-1239-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/БРИЗ/icon-1349.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/БРИЗ/icon-1349.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/БРИЗ/icon-960-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/БРИЗ/icon-960-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1037.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1037.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1113.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1113.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1121-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1121-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1121.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1121.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1149.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1149.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1343.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1343.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1351.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-1351.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-0BA9CC-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-0BA9CC-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-7C3592.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-7C3592.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-F8971B.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-503-F8971B.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-62AF44.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-959-62AF44.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-DB4436-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-959-DB4436-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-000000-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-009D57-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-009D57-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-0BA9CC-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-0BA9CC-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-795046-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-795046-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/icon-503-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-4186F0-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/icon-503-4186F0-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-0BA9CC-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/line-0BA9CC-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-4186F0-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Воздушки/line-4186F0-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1001.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1001.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-62AF44.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-62AF44.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-93D7E8.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-93D7E8.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-FFDD5E.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-FFDD5E.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1001-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1001-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1119-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1119-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1151-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1151-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1193-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1193-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-62AF44-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-62AF44-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-CDDC39-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-CDDC39-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F4B400-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-F4B400-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-959-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-62AF44-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-959-62AF44-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-961-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-961-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-7C3592-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-7C3592-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-DB4436-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-DB4436-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/line-000000-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/line-009D57-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/line-009D57-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Муфты/line-0BA9CC-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Муфты/line-0BA9CC-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1137-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1137-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1151-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1151-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1193-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1193-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1337-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1337-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1351-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1351-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-62AF44-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-62AF44-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-F8971B-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-F8971B-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-DB4436-labelson.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-DB4436-labelson.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-000000-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-000000-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-009D57-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-009D57-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-0BA9CC-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-0BA9CC-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1001.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1001.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1037-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1037-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1037.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1037.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1047-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1047-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1047.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1047.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1113.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1113.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1121-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1121-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1121.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1121.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1149-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1149-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1149.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1149.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1151-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1151-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1151.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1151.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1193.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1193.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1199-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1199-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1199.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1199.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1273.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1273.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1343-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1343-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1343.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1343.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1345.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1345.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1351.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-1351.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-503-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-4186F0.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-503-4186F0.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-959-DB4436.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-959-DB4436.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-960-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/icon-960-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Проработки/line-0BA9CC-1200.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Проработки/line-0BA9CC-1200.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1119.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1119.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1137-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1137-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1149.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1149.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1193.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1193.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1313-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1313-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-7C3592.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-7C3592.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-960-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-960-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1001-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1001-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1001.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1001.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1037-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1037-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1037.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1037.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1113.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1113.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1121.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1121.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1149.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1149.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1337-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1337-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1337.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-1337.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-503-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-503-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-503-DB4436-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-503-DB4436-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-009D57-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-960-009D57-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-009D57.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-960-009D57.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44-nodesc.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44-nodesc.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-DB4436.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/Узлы/icon-960-DB4436.kml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/test.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/test.kml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1121-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/uniservis/icon-1239-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/БРИЗ/icon-1349.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/БРИЗ/icon-960-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/БРИЗ/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/БРИЗ/line-93D7E8-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/БРИЗ/line-DB4436-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1037.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1113.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1121-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1121.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1149.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1343.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-1351.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-0BA9CC-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-4186F0.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-7C3592.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-DB4436.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-503-F8971B.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-62AF44.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-959-DB4436-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/icon-961-4186F0.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1000.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1388.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1390.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1581.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1775.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-1969.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2163.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2356.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2550.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2744.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2755.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-2938.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-3131.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-3145.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-3325.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-3519.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-4100.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-4294.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-4488.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-4681.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-4875.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-5069.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-000000-5263.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-009D57-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-009D57-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-0BA9CC-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-4186F0-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-4186F0-2755-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-4186F0-3325.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-62AF44-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-1581.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-4100.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-4294.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-5263.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-5650.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-6038.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-777777-7006.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-795046-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-795046-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-795046-2550.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-11656-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-1388.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-4681.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-5263.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-5650.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-6037.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-7006.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-7780.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7C3592-7781.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-7CCFA9-2163-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-93D7E8-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1581.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1775.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-1969.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-2163.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-2356.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-2550.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-2744.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-2938.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-3131.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-3519.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-3713.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-B29189-3906.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-C6A4CF-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-D698AD-2170-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-D698AD-3519.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-1975.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-3131.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-3906.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-5456.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-5844.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-6038.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-DB4436-8944.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F4B400-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-3325-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ВОЛС/line-F8971B-5263.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-0BA9CC.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/icon-503-4186F0-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-0BA9CC-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-0BA9CC-1388-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-4186F0-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-4186F0-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-795046-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Воздушки/line-93D7E8-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1001.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-1151.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-62AF44.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-93D7E8.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-DB4436.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/icon-503-FFDD5E.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/line-000000-1000.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/line-000000-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/line-009D57-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Любтелемонтаж/line-DB4436-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1001-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1037-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1047-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1113-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1119-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1121-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1149-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1151-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1193-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-1199-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-0BA9CC-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-4186F0-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-62AF44-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-795046-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-7C3592-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-B29189-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-CDDC39-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-DB4436-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F4B400-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-503-F8971B-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-62AF44-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-959-DB4436-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-961-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-7C3592-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-B29189-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-DB4436-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/icon-962-F8971B-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-1388-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-3906-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-4100-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-000000-4488.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-009D57-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-009D57-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-0BA9CC-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-777777-2170-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-A61B4A-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Муфты/line-DB4436-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1001-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1019-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1037-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1047-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1113-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1119-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1121-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1137-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1149-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1151-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1193-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1199-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1337-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-1351-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-0BA9CC-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-62AF44-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-DB4436-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-503-F8971B-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-009D57-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/icon-960-DB4436-labelson.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-000000-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-000000-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-009D57-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-009D57-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-009D57-4294-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Подключенные дома ТВ/line-0BA9CC-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1001.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1037-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1037.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1047-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1047.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1113.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1121-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1121.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1149-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1149.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1151-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1151.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1193.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1199-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1199.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1273.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1343-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1343.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1345.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-1351.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-4186F0.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-503-DB4436.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-959-DB4436.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/icon-960-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/line-0BA9CC-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/line-B29189-1969-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/line-B29189-2356-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Проработки/line-B29189-2938-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1113.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1119.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1121.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1137-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1149.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1151.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1193.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-1313-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-503-7C3592.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/icon-960-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Телепорт+ТВ/line-000000-1200.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1001-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1001.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1037-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1037.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1113.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1121.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1149.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1337-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-1337.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-503-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-503-DB4436-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-009D57-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-009D57.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-62AF44.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/icon-960-DB4436.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Узлы/line-0BA9CC-1200-nodesc.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ТЗ/diagram.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="5e74fca0-aaa8-4ede-8756-3c4bdf0234c5" />
-        <option name="url" value="https://github.com/SivikGosh/kml_to_qgis.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-    <option name="sortByName" value="true" />
-  </component>
-  <component name="ProjectId" id="2JzgmTFPNZ9HxB5JVEOJt0vDYSi" />
+  <component name="ProjectId" id="2K8b8es7sYIyZT4aB9ahCQO5kHB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -246,84 +393,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last.edited.regexp": "Sample Text",
+    "last_opened_file_path": "C:/Users/SivikGosh/Desktop/kml_to_qgis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.get_pictograms">
-    <configuration name="get_pictograms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kml_to_qgis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/get_pictograms.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kml_to_qgis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.get_pictograms" />
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d576b63-4a93-460e-b00e-0466fc1305bd" name="Changes" comment="" />
-      <created>1673086489644</created>
+      <changelist id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="" />
+      <created>1673358998475</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673086489644</updated>
-      <workItem from="1673086492902" duration="623000" />
-      <workItem from="1673087129125" duration="12000" />
-      <workItem from="1673087151590" duration="154000" />
-      <workItem from="1673195551424" duration="242000" />
-      <workItem from="1673206322560" duration="1331000" />
-      <workItem from="1673208054810" duration="31000" />
-      <workItem from="1673208098783" duration="7000" />
-      <workItem from="1673287011037" duration="27000" />
-      <workItem from="1673346188293" duration="83000" />
-      <workItem from="1673355347184" duration="2469000" />
+      <updated>1673358998475</updated>
+      <workItem from="1673358999931" duration="13267000" />
     </task>
     <servers />
   </component>
@@ -342,10 +427,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="добавил цветные иконки" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил цветные иконки" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kml_to_qgis$main.coverage" NAME="main Coverage Results" MODIFIED="1673356290334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673356842180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1673361194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$tests.coverage" NAME="tests Coverage Results" MODIFIED="1673379724681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673369107608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>
