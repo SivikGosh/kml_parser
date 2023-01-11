@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь и метод извлечения иконки по ID объекта">
+    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь имён пиктограм">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/icons.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/icons.py" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <workItem from="1673383938095" duration="4171000" />
       <workItem from="1673416458705" duration="507000" />
       <workItem from="1673464206457" duration="19000" />
-      <workItem from="1673467478679" duration="1772000" />
+      <workItem from="1673467478679" duration="4266000" />
     </task>
     <task id="LOCAL-00001" summary="добавил цветные иконки">
       <created>1673380881048</created>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673389962131</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавил словарь имён пиктограм">
+      <created>1673469313668</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673469313668</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,12 +115,13 @@
     <MESSAGE value="добавил цветные иконки" />
     <MESSAGE value="делаю словарь" />
     <MESSAGE value="добавил словарь и метод извлечения иконки по ID объекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил словарь и метод извлечения иконки по ID объекта" />
+    <MESSAGE value="добавил словарь имён пиктограм" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил словарь имён пиктограм" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kml_to_qgis$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1673361194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/kml_to_qgis$tests.coverage" NAME="tests Coverage Results" MODIFIED="1673389919287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673468028804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673470282527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673369107608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>
