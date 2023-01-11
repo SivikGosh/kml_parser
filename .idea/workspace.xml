@@ -4,75 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="делаю словарь">
-      <change afterPath="$PROJECT_DIR$/app/icons.py" afterDir="false" />
+    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь и метод извлечения иконки по ID объекта">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_009D57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_0BA9CC.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_4186F0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_62AF44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_795046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_7C3592.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_93D7E8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_B29189.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_CDDC39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_DB4436.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_F4B400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_F8971B.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/503-wht-blank_maps_FFDD5E.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_009D57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_62AF44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/959-wht-circle-blank_DB4436.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/961_colors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon_col/962.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1001-biz-cinema.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1001.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1019-biz-finance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1019.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1037-biz-house.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1037.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1047-biz-medical.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1047.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1113-biz-tv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1119-crisis-air-quality.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1121-crisis-animal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1137-crisis-death.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1149-crisis-flood.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1149.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1151-crisis-hurricane-strong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1151.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1193-fac-animal-shelter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1193.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1199-fac-help.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1199.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1239-poi-civic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1239.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1273-poi-japanese-cemetery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1313-poi-religious-buddhist-zen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1313.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1337-poi-temple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1337.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1343-poi-tower.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1343.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1345-poi-tv-radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1349-poi-zoo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1351-rec-baseball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/1351.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/503-wht-blank_maps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/503.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/959-wht-circle-blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/959.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/960-wht-star-blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/960.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/961-wht-square-blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/961.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/962-wht-diamond-blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/pictograms/962.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/icons.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/icons.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,18 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SivikGosh/Desktop/kml_to_qgis&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/SivikGosh/Desktop/kml_to_qgis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -119,7 +54,10 @@
       <updated>1673358998475</updated>
       <workItem from="1673358999931" duration="13326000" />
       <workItem from="1673383091321" duration="206000" />
-      <workItem from="1673383938095" duration="4123000" />
+      <workItem from="1673383938095" duration="4171000" />
+      <workItem from="1673416458705" duration="507000" />
+      <workItem from="1673464206457" duration="19000" />
+      <workItem from="1673467478679" duration="1772000" />
     </task>
     <task id="LOCAL-00001" summary="добавил цветные иконки">
       <created>1673380881048</created>
@@ -135,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673385082738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="делаю словарь">
+      <created>1673389934123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673389934123</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавил словарь и метод извлечения иконки по ID объекта">
+      <created>1673389962131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673389962131</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,12 +107,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил цветные иконки" />
     <MESSAGE value="делаю словарь" />
-    <option name="LAST_COMMIT_MESSAGE" value="делаю словарь" />
+    <MESSAGE value="добавил словарь и метод извлечения иконки по ID объекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил словарь и метод извлечения иконки по ID объекта" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kml_to_qgis$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1673361194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/kml_to_qgis$tests.coverage" NAME="tests Coverage Results" MODIFIED="1673389919287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673389923625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673468028804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673369107608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>

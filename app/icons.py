@@ -1,3 +1,6 @@
+# icon-503-000000 ?
+# icon-962-000000 ?
+
 icons = {
     'icon-1001.png': [
         '#icon-1001',
@@ -129,8 +132,8 @@ icons = {
         '#icon-503-B29189-labelson',
         '#icon-503-B29189-labelson-nodesc'
     ],
-    'icon-503-CDDC39.png': [
-        '#icon-503-CDDC39-labelson'
+    'icon-503-CDC39.png': [
+        '#icon-503-CDC39-labelson'
     ],
     'icon-503-DB4436.png': [
         '#icon-503-DB4436',
@@ -146,8 +149,8 @@ icons = {
         '#icon-503-F8971B-labelson',
         '#icon-503-F8971B-labelson-nodesc'
     ],
-    'icon-503-FFDD5E.png': [
-        '#icon-503-FFDD5E'
+    'icon-503-FF-DD5E.png': [
+        '#icon-503-FF-DD5E'
     ],
     'icon-959-009D57.png': [
         '#icon-959-009D57',
@@ -204,11 +207,58 @@ icons = {
         '#icon-962-F8971B-labelson-nodesc'
     ]
 }
+icons_names = {
+    'icon-1001.png': 'телестудии',
+    'icon-1019.png': 'Подключённые дома. Наро-Фоминск ( тв строй) -',
+    'icon-1037.png': 'Подключённые дома. (Собственная сеть РТП)',
+    'icon-1047.png': 'проработки 2',
+    'icon-1113.png': 'B2B клиенты ( коннектика, авелаком и т.д)',
+    'icon-1119.png': '',
+    'icon-1137.png': 'Дом снесен',
+    'icon-1121.png': 'Подключённые дома Инфокос 1',
+    'icon-1149.png': 'Подключённые дома Инфокос 2',
+    'icon-1151.png': 'подключенные дома  ЛЮБТЕЛЕМОНТАЖ ( инфокос)',
+    'icon-1193.png': 'объекты Ловител',
+    'icon-1199.png': 'Проработки 1',
+    'icon-1239.png': '',
+    'icon-1273.png': 'вышка связи РТРС',
+    'icon-1313.png': '',
+    'icon-1337.png': 'ЦОДы',
+    'icon-1343.png': 'базовая станция, (Теле2, МТС , билайн, мегафон)',
+    'icon-1345.png': '',
+    'icon-1349.png': 'Подключённые дома Инфокос 3',
+    'icon-1351.png': '',
+    'icon-503-009D57.png': 'муфта - собственная сеть (РТП) 1',
+    'icon-503-0BA9CC.png': '?',
+    'icon-503-4186F0.png': '?',
+    'icon-503-62AF44.png': '',
+    'icon-503-795046.png': '',
+    'icon-503-7C3592.png': 'Телепорт (сторонний оператор)',
+    'icon-503-93D7E8.png': '?',
+    'icon-503-B29189.png': 'Инфокос (партнеры)',
+    'icon-503-CDC39.png': '',
+    'icon-503-DB4436.png': 'муфта - сторонний оператор, аренда волокна (услуги для РТП) 1',
+    'icon-503-F4B400.png': '',
+    'icon-503-F8971B.png': 'муфта -- кабель демонтаж, отключен, сторонний оператор 1',
+    'icon-503-FF-DD5E.png': '',
+    'icon-959-009D57.png': '',
+    'icon-959-62AF44.png': '',
+    'icon-959-DB4436.png': '',
+    'icon-960-009D57.png': 'Узел связи',
+    'icon-960-62AF44.png': '',
+    'icon-960-DB4436.png': '',
+    'icon-961-009D57.png': '',
+    'icon-961-4186F0.png': '?',
+    'icon-962-009D57.png': 'муфта - собственная сеть (РТП) 2',
+    'icon-962-7C3592.png': '',
+    'icon-962-B29189.png': '',
+    'icon-962-DB4436.png': 'муфта - сторонний оператор, аренда волокна (услуги для РТП) 2',
+    'icon-962-F8971B.png': 'муфта -- кабель демонтаж, отключен, сторонний оператор 2'
+}
+lines_names = {}
 
 
-def get_icon(icons, id):
+def get_icon(icons, placemark_id):
     for key, value in icons.items():
-        if id in value:
+        if placemark_id in value:
             return key
-
-print(get_icon(icons, '#icon-962-F8971B-labelson'))
