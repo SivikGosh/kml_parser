@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь имён пиктограм">
+    <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь имён линий">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icons.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/icons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/get_pictograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/get_pictograms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/test.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/test.kml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/SivikGosh/Desktop/kml_to_qgis",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SivikGosh/Desktop/kml_to_qgis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +59,9 @@
       <workItem from="1673383938095" duration="4171000" />
       <workItem from="1673416458705" duration="507000" />
       <workItem from="1673464206457" duration="19000" />
-      <workItem from="1673467478679" duration="4266000" />
+      <workItem from="1673467478679" duration="4823000" />
+      <workItem from="1673556859369" duration="17000" />
+      <workItem from="1673792198765" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="добавил цветные иконки">
       <created>1673380881048</created>
@@ -94,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673469313668</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавил словарь имён линий">
+      <created>1673471832027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673471832027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +127,8 @@
     <MESSAGE value="делаю словарь" />
     <MESSAGE value="добавил словарь и метод извлечения иконки по ID объекта" />
     <MESSAGE value="добавил словарь имён пиктограм" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил словарь имён пиктограм" />
+    <MESSAGE value="добавил словарь имён линий" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил словарь имён линий" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kml_to_qgis$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1673361194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />

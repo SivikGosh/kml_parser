@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 from datetime import datetime
 
 from fastkml import data, kml, styles
@@ -7,6 +8,8 @@ from fastkml.geometry import Geometry
 from get_pictograms import base_dir, soup
 from progress.bar import PixelBar
 from pygeoif import LineString, Point
+import requests
+
 
 def get_placemark_styles(folder_object):
     """получаем список уникальных стилей объектов папки"""
@@ -20,11 +23,11 @@ def get_placemark_styles(folder_object):
 
 def create_icon_style(folder, style, directory):
     """"""
-    folder_name = folder.find("name").text
-    icon_url = style.find('href').text
-    icon_name = re.search('[0-9-a-z_]+.png', icon_url).group(0)
+    icon_id = style.attrs['id']
+    icon_name = re.search(
+        '(icon-[0-9]{3,4}-[0-9A-F]{6}|icon-[0-9]{3,4})', icon_id).group(0)
     icon_style = styles.IconStyle()
-    icon_style.icon_href = f'{directory}/{folder_name}/{icon_name}'
+    icon_style.icon_href = f'{directory}/pictograms/{icon_name}.png'
     icon_style.scale = style.find('IconStyle').find('scale').text
     if style.find('color'):
         icon_style.color = style.find('color').text
@@ -115,6 +118,7 @@ def get_line_string_coordinates(line_string):
 def add_placemarks(folder, placemark_style):
     """"""
     placemark_list = []
+    photos = []
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
@@ -127,8 +131,13 @@ def add_placemarks(folder, placemark_style):
             if placemark.find('ExtendedData'):
                 ext_data_kid = data.Data(name=placemark.find('Data')['name'])
                 ext_data_kid.value = (
-                    placemark.find('ExtendedData')
-                    .find('Data').find('value').text)
+                    re.search(
+                        'https:(.)+fife',
+                        placemark.find('ExtendedData')
+                        .find('Data').find('value').text
+                    ).group(0)
+                )
+                photos.append(ext_data_kid.value)
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
                 placemark_object.extended_data = ext_data
             if placemark.find('Point'):
@@ -145,7 +154,7 @@ def add_placemarks(folder, placemark_style):
                 geometry_line_object = Geometry(geometry=line_object)
                 placemark_object.geometry = geometry_line_object
             placemark_list.append(placemark_object)
-    return placemark_list
+    return placemark_list, photos
 
 
 if __name__ == '__main__':
@@ -161,20 +170,42 @@ if __name__ == '__main__':
         placemark_styles = get_placemark_styles(folder)
         os.chdir(folder_name)
         for style in placemark_styles:
+            if 'icon' in style:
+                file_name = (
+                    re.search(
+                        '(icon-[0-9]{3,4}-[0-9A-F]{6}|icon-[0-9]{3,4})', style
+                    ).group(0)
+                )
+            else:
+                file_name = style
             kml_object = kml.KML()
             style_objects = add_styles(soup, style, base_dir, folder)
             style_map_objects = add_style_maps(soup, style)
             document = kml.Document(
                 styles=[*style_objects, *style_map_objects],
                 name=style, description=folder.find('name').text)
-            placemarks = add_placemarks(folder, style)
+            placemarks, photos = add_placemarks(folder, style)
             for placemark in placemarks:
                 document.append(placemark)
                 placemark_count += 1
             kml_object.append(document)
-            kml_file = open(f'{style}.kml', 'wb')
+            if not os.path.isdir(file_name):
+                os.mkdir(file_name)
+            os.chdir(file_name)
+            kml_file = open(f'{file_name}.kml', 'wb')
             kml_file.write(kml_object.to_string(prettyprint=True).encode())
             kml_file.close()
+            if 'icon' in file_name:
+                shutil.copy(
+                    f'{base_dir}/pictograms/{file_name}.png',
+                    f'{file_name}.png'
+                )
+            for photo in photos:
+                photo_url = requests.get(photo)
+                photo_name = photo_url
+                with open('{photo_name}+{placemark_count}.jpg', 'wb') as ph:
+                    ph.write(photo_url.content)
+            os.chdir('../')
         os.chdir(base_dir)
         bar.next()
     bar.finish()

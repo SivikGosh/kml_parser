@@ -8,7 +8,7 @@ from progress.bar import PixelBar
 base_dir = os.path.dirname(__file__)
 
 
-def soup_file(directory):
+def get_soup_file(directory):
     os.chdir(directory)
     file = input('Введите название файла (без расширения):')
     with open(f'{file}.kml', encoding='utf-8') as f:
@@ -16,7 +16,7 @@ def soup_file(directory):
     return souped_file
 
 
-soup = soup_file(base_dir)
+soup = get_soup_file(base_dir)
 
 
 def get_urls(souped_file):
