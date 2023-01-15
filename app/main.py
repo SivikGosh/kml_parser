@@ -11,6 +11,7 @@ from pygeoif import LineString, Point
 import requests
 
 
+
 def get_placemark_styles(folder_object):
     """получаем список уникальных стилей объектов папки"""
     style_list = set()

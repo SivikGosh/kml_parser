@@ -4,31 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="добавил словарь имён линий">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/get_pictograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/get_pictograms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/test.kml" beforeDir="false" afterPath="$PROJECT_DIR$/app/test.kml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tests.py" afterDir="false" />
+=======
+    <list default="true" id="7d576b63-4a93-460e-b00e-0466fc1305bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/icons.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/icons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+>>>>>>> cc1ad1c5169b2887860ca6c348911cad8bfd045e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5e74fca0-aaa8-4ede-8756-3c4bdf0234c5" />
+        <option name="url" value="https://github.com/SivikGosh/kml_to_qgis.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2K8b8es7sYIyZT4aB9ahCQO5kHB" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="2JzgmTFPNZ9HxB5JVEOJt0vDYSi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,21 +55,84 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< HEAD
     &quot;last_opened_file_path&quot;: &quot;C:/Users/SivikGosh/Desktop/kml_to_qgis&quot;,
+=======
+    &quot;last.edited.regexp&quot;: &quot;Sample Text&quot;,
+>>>>>>> cc1ad1c5169b2887860ca6c348911cad8bfd045e
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+<<<<<<< HEAD
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
+=======
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.get_pictograms">
+    <configuration name="get_pictograms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kml_to_qgis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/get_pictograms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kml_to_qgis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_pictograms" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> cc1ad1c5169b2887860ca6c348911cad8bfd045e
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e22f4735-c235-4221-a15f-ef96130a6d02" name="Changes" comment="" />
-      <created>1673358998475</created>
+      <changelist id="7d576b63-4a93-460e-b00e-0466fc1305bd" name="Changes" comment="" />
+      <created>1673086489644</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1673358998475</updated>
       <workItem from="1673358999931" duration="13326000" />
       <workItem from="1673383091321" duration="206000" />
@@ -106,6 +186,21 @@
       <updated>1673471832027</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=======
+      <updated>1673086489644</updated>
+      <workItem from="1673086492902" duration="623000" />
+      <workItem from="1673087129125" duration="12000" />
+      <workItem from="1673087151590" duration="154000" />
+      <workItem from="1673195551424" duration="242000" />
+      <workItem from="1673206322560" duration="1331000" />
+      <workItem from="1673208054810" duration="31000" />
+      <workItem from="1673208098783" duration="7000" />
+      <workItem from="1673287011037" duration="27000" />
+      <workItem from="1673346188293" duration="83000" />
+      <workItem from="1673355347184" duration="2469000" />
+      <workItem from="1673540400950" duration="1968000" />
+    </task>
+>>>>>>> cc1ad1c5169b2887860ca6c348911cad8bfd045e
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,17 +218,20 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="добавил цветные иконки" />
     <MESSAGE value="делаю словарь" />
     <MESSAGE value="добавил словарь и метод извлечения иконки по ID объекта" />
     <MESSAGE value="добавил словарь имён пиктограм" />
     <MESSAGE value="добавил словарь имён линий" />
     <option name="LAST_COMMIT_MESSAGE" value="добавил словарь имён линий" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+>>>>>>> cc1ad1c5169b2887860ca6c348911cad8bfd045e
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kml_to_qgis$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1673361194715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$tests.coverage" NAME="tests Coverage Results" MODIFIED="1673389919287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673470282527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673369107608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$icons.coverage" NAME="icons Coverage Results" MODIFIED="1673536429491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$main.coverage" NAME="main Coverage Results" MODIFIED="1673356290334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/kml_to_qgis$get_pictograms.coverage" NAME="get_pictograms Coverage Results" MODIFIED="1673536105543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
 </project>
