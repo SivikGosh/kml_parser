@@ -9,6 +9,8 @@ from get_pictograms import base_dir, soup
 from progress.bar import PixelBar
 from pygeoif import LineString, Point
 import requests
+from legend import legend
+from time import sleep
 
 
 
@@ -131,14 +133,17 @@ def add_placemarks(folder, placemark_style):
                     placemark.find('description').text)
             if placemark.find('ExtendedData'):
                 ext_data_kid = data.Data(name=placemark.find('Data')['name'])
-                ext_data_kid.value = (
-                    re.search(
-                        'https:(.)+fife',
-                        placemark.find('ExtendedData')
-                        .find('Data').find('value').text
-                    ).group(0)
-                )
-                photos.append(ext_data_kid.value)
+                try:
+                    ext_data_kid.value = (
+                        re.search(
+                            'https:(.)+fife',
+                            placemark.find('ExtendedData')
+                            .find('Data').find('value').text
+                        ).group(0)
+                    )
+                    photos.append(ext_data_kid.value)
+                except Exception:
+                    print('No photo')
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
                 placemark_object.extended_data = ext_data
             if placemark.find('Point'):
@@ -170,6 +175,7 @@ if __name__ == '__main__':
             os.mkdir(folder_name)
         placemark_styles = get_placemark_styles(folder)
         os.chdir(folder_name)
+        bar = PixelBar('Обработано объектов', max=len(placemark_styles))
         for style in placemark_styles:
             if 'icon' in style:
                 file_name = (
@@ -179,6 +185,15 @@ if __name__ == '__main__':
                 )
             else:
                 file_name = style
+
+            # переименовать папку, доб в назв ширину линии, если line
+
+            if not os.path.isdir(style):
+                os.mkdir(style)
+
+            #
+
+            os.chdir(style)
             kml_object = kml.KML()
             style_objects = add_styles(soup, style, base_dir, folder)
             style_map_objects = add_style_maps(soup, style)
@@ -190,10 +205,10 @@ if __name__ == '__main__':
                 document.append(placemark)
                 placemark_count += 1
             kml_object.append(document)
-            if not os.path.isdir(file_name):
-                os.mkdir(file_name)
-            os.chdir(file_name)
-            kml_file = open(f'{file_name}.kml', 'wb')
+
+            # переименовать назв файла, доб ширину, если line
+
+            kml_file = open(f'{style}.kml', 'wb')
             kml_file.write(kml_object.to_string(prettyprint=True).encode())
             kml_file.close()
             if 'icon' in file_name:
@@ -201,12 +216,19 @@ if __name__ == '__main__':
                     f'{base_dir}/pictograms/{file_name}.png',
                     f'{file_name}.png'
                 )
-            for photo in photos:
-                photo_url = requests.get(photo)
-                photo_name = photo_url
-                with open('{photo_name}+{placemark_count}.jpg', 'wb') as ph:
-                    ph.write(photo_url.content)
+            if len(photos) > 0 and not os.path.isdir('photos'):
+                os.mkdir('photos')
+                os.chdir('photos')
+                for i in range(len(photos)):
+                    photo_url = requests.get(photos[i])
+                    photo_name = f'{style} {i}'
+                    with open(f'{photo_name}.png', 'wb') as ph:
+                        ph.write(photo_url.content)
+                os.chdir('../')
             os.chdir('../')
+            bar.next()
+            sleep(1)
+        bar.finish()
         os.chdir(base_dir)
         bar.next()
     bar.finish()

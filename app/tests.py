@@ -21,9 +21,21 @@
 
 from get_pictograms import soup
 
-style = soup.find('Style')
-print(style.attrs['id'])
+styles = soup.find_all('Placemark')
+# array = []
+# for i in styles:
+#     try:
+#         # print(i.find('value').text)
+#         array.append(i.find('value').text)
+#         print(i.find('name').text)
+#     except Exception:
+#         print('No value')
 
-# with open('id иконок.txt', encoding='utf-8') as n:
+for i in styles:
+    print(i.find('LineString'))
+
+# print(array)
+
+# with open('id иконок (новое).txt', encoding='utf-8') as n:
 #     name = n.read().split('\n')
 #     print(len(name))
