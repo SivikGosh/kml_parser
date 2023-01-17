@@ -177,19 +177,21 @@ if __name__ == '__main__':
         os.chdir(folder_name)
         bar = PixelBar('Обработано объектов', max=len(placemark_styles))
         for style in placemark_styles:
+
+            # если стайл в айди стиля, и если это лайн, то
+            # в стиль с этим айди ищем виз и отправляем значение
+            #
+            # если иконка, то просто айди стиля
+
             if 'icon' in style:
-                file_name = (
-                    re.search(
-                        '(icon-[0-9]{3,4}-[0-9A-F]{6}|icon-[0-9]{3,4})', style
-                    ).group(0)
-                )
+                file_name = soup.find('Style').attrs['id'].text
             else:
-                file_name = style
+                file_name = soup.find('Style', id=f'{style}-normal').find('width').text
 
             # переименовать папку, доб в назв ширину линии, если line
 
-            if not os.path.isdir(style):
-                os.mkdir(style)
+            if not os.path.isdir(file_name):
+                os.mkdir(file_name)
 
             #
 
@@ -208,7 +210,10 @@ if __name__ == '__main__':
 
             # переименовать назв файла, доб ширину, если line
 
-            kml_file = open(f'{style}.kml', 'wb')
+            kml_file = open(f'{file_name}.kml', 'wb')
+
+            #
+
             kml_file.write(kml_object.to_string(prettyprint=True).encode())
             kml_file.close()
             if 'icon' in file_name:
