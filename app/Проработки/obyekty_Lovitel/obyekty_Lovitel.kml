@@ -1,0 +1,218 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>obyekty_Lovitel</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1193-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1193-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1193-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="icon-1193">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1193-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1193-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Березовая аллея, д. 17 к 1</name>
+      <description>Удостоверение РТП          справка Ловител.  ЖК Грин Парк,</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.617331,55.850912,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Березовая аллея, д.17, к.2</name>
+      <description>Удостоверение РТП справка Ловител ЖК Грин Парк</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.620655,55.849499,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Дмитровский Парк</name>
+      <description>Ловител. Официальная точка Лобненская улица, 12к1, стыковаться будем в муфте перед домом ТК-276 (Лобненская ул.)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.528751,55.889672,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Олеко Дундича ул., 29</name>
+      <description>Реновация Ловител, стык в Минская улица, 9</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.483365,55.738149,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Измайловский проезд, д.7 к.2</name>
+      <description>стык с Ловител по Измайловский,11</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.768107,55.797147,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дмитровское ш.61к1</name>
+      <description>Стык с Ловител по ЖК Нижнелихоборский пр-д.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.567256,55.846682,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Смирновская,6</name>
+      <description>Стык с Ловител для ЖК Новохохловская,15</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.708403,55.736804,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК ул. Дербеневская, вл.20</name>
+      <description>Ловител стыковка  2-й Кожевнический переулок, д.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.646885,55.719695,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ферганский проезд, влд.14</name>
+      <description>ловител реновация, точка стыковки Волгоградский проспект, 189/15</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.816117,55.694848,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Электролитный проезд, вл.7А</name>
+      <description>Ренорвация Электролитный проезд, вл.7А&lt;br&gt;От Варшавское шоссе, 50</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.612011,55.674296,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Новогиреевская, влд. 24А</name>
+      <description>Реновация ул. Новогиреевская, влд. 24А от Новогиреевская улица, 28</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.793818,55.756004,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-й Лихачевский пер. вл.4</name>
+      <description>Реновация от 3-й Лихачёвский переулок, 11/11</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.524435,55.844562,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Красных Зорь, влд. 23/25</name>
+      <description>реновация.&lt;br&gt;проработал от улица Багрицкого, 3к1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.434248,55.724867,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тайнинская ул. д. 7к1</name>
+      <description>ПИК реновация Тайнинская улица, 6</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.683256,55.880780,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нижегородская улица, вл. 94к4</name>
+      <description>ПИК реновация Нижегородская ул., 84</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.719881,55.729190,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Толбухина, д. 2к1</name>
+      <description>ПИК реновация улица Толбухина, 5к1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.403022,55.717554,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Москва Погонный пр-д. д. 11</name>
+      <description>ПИК реновация от бульвар Маршала Рокоссовского, 17</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.711828,55.820286,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ловител жк барклая вл 6</name>
+      <description>Ловител жк барклая вл 6&lt;br&gt;От Кастанаевской 5</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.506801,55.739682,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Базовская</name>
+      <description>Реиновация Ловител Базовская 22г</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.515964,55.880029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

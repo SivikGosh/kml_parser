@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_4_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-3131-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-3131-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-DB4436-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>М-9 - тк№210а ул. Лобачевского</name>
+      <description>Вектор Групп </description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-3131</styleUrl>
+      <LineString>
+        <coordinates>37.484958,55.666106,0.000000 37.487060,55.667280,0.000000 37.488595,55.667873,0.000000 37.491127,55.668787,0.000000 37.492714,55.669519,0.000000 37.493967,55.670124,0.000000 37.495249,55.670850,0.000000 37.494069,55.671467,0.000000 37.492723,55.671903,0.000000 37.490722,55.672562,0.000000 37.488361,55.673645,0.000000 37.487197,55.674108,0.000000 37.485867,55.675073,0.000000 37.485025,55.675977,0.000000 37.484606,55.676561,0.000000 37.483506,55.678200,0.000000 37.483168,55.678742,0.000000 37.482246,55.680260,0.000000 37.481060,55.682187,0.000000 37.479886,55.684004,0.000000 37.478695,55.685320,0.000000 37.477128,55.686532,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

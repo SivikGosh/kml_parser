@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_7_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-5456-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>5.456</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-5456-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>8.184</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-DB4436-5456">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-5456-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-5456-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ООО Бородино-Телеком
+</name>
+      <description>Новокировский кол-р</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-5456</styleUrl>
+      <LineString>
+        <coordinates>37.650964,55.774597,0.000000 37.648846,55.773929,0.000000 37.648207,55.773646,0.000000 37.646416,55.772511,0.000000 37.643733,55.770471,0.000000 37.642634,55.769675,0.000000 37.636918,55.766307,0.000000 37.636784,55.766358,0.000000 37.636650,55.766277,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,57 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>prorabotki_2</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-1047-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1047.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1047-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1047.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1047">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1047-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1047-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Поляны, д.5</name>
+      <description>проработка для ТЕЛ</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1047</styleUrl>
+      <Point>
+        <coordinates>37.554818,55.557464,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лефорт: Электрозаводская, 27, стр. 1, стр. 1А,</name>
+      <description>Проработка для МКС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1047</styleUrl>
+      <Point>
+        <coordinates>37.705653,55.791187,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

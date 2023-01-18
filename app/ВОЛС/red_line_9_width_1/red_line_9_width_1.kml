@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_9_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-6038-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>6.038</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-6038-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>9.057</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-DB4436-6038">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-6038-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-6038-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ООО Бородино Телеком
+</name>
+      <description>Кол-р Ильинская галерея</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-6038</styleUrl>
+      <LineString>
+        <coordinates>37.631565,55.757197,0.000000 37.630204,55.756639,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

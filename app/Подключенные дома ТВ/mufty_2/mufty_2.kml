@@ -1,0 +1,80 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_2</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-62AF44.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-62AF44.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-62AF44-labelson-nodesc">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-62AF44.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>прямая муфта</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-62AF44-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.718698,55.388933,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>прямая муфта </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-62AF44-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.718535,55.388549,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>прямая муфта</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-62AF44-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>36.719405,55.387703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

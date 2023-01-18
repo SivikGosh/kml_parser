@@ -1,0 +1,56 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>obyekty_Lovitel</name>
+    <description>Телепорт+ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1193-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1193-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1193-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1193.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="icon-1193">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1193-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1193-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Юности, 9 Люберцы</name>
+      <description>ЦУС между 2 и 3 под</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1193</styleUrl>
+      <Point>
+        <coordinates>37.906989,55.703373,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

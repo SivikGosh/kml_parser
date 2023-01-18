@@ -1,0 +1,66 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>blue_line_5_width_1</name>
+    <description>Воздушки</description>
+    <visibility>1</visibility>
+    <Style id="line-93D7E8-1200-normal">
+      <LineStyle>
+        <color>ffe8d793</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-93D7E8-1200-highlight">
+      <LineStyle>
+        <color>ffe8d793</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-93D7E8-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffe8d793</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-93D7E8-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffe8d793</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-93D7E8-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-93D7E8-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-93D7E8-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-93D7E8-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-93D7E8-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-93D7E8-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ВКП 11-01 </name>
+      <description>Образцова 3</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-93D7E8-1200</styleUrl>
+      <LineString>
+        <coordinates>37.607215,55.786088,0.000000 37.608882,55.786824,0.000000 37.609201,55.787095,0.000000 37.611152,55.786944,0.000000 37.611923,55.787427,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

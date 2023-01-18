@@ -1,0 +1,444 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>B2B_clienty_Konnectika_Avelakom_itd</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1113-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1113-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1113">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1113-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Варшавское ш. 42с1</name>
+      <description>даем волокно Релсофт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.625028,55.676187,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Коммерческий пр., 10</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/31f1lti8cvc4928ncf58944hgo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9knoe5ibLGugFpug2-8GXKsa7dVyfUFg_SfwAPIiyUuhc6wUK-GQ7pcYc_glKmKrTCeV3uh6JXolNuBxntR69d79HLcTogWFyP-__Y8cCX6BNazZ0nxXrYOzYGfL3PkQYFVDvZKbN2q2Mod9RevPqZkgIwgjggJAfzOttaoyu6BCxh4XEUU1Di5g8zPS5dU0bc?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Коннектика Авилон Общая длинна 14691м, 2 и 3 порты кросса SC/UPC</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.835723,55.649765,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Волгоградский пр. 43</name>
+      <description>&lt;img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/gkfu1sa0etaor4ltnkk4jo4sus/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k_P1JxsufOV8Q8hwVkpCrhbcDSyidacHXAnMgiWmDNQRghrNjof-k6Vt49r3xy2fxF-3tB-n2ujb2Hmcmsi-blG7Xadq8J4fHzc9pV0GiBvg62LsoCssyvm6Vh6uxLTS0GCH2T4X99fHLinQxCXOxcRQlYXl99YqQbN0sJXyj5bcd0nOwfti6IxOZkshQgJyo?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Коннектика для Авилон</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.717539,55.714309,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Комсомольский 42с1</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.572942,55.721261,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Крылатский</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/s1qjjls6tef2ffm9tnrrs0n0mo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k-OCOjKev3V2zLZ_n9pbD32xWRiGkDRf3LG5APWKnKd5PCTvqC6lspjc6TXHdQ7HeQ028PbjEc6PVO4h2HmRlqkxGywV6E3NJYVAWPdFhNPmyjfAXtIUVOg6dojy_1wpNI2Xtc__YvOz6wkDZP7uW3vuzy6oLzRNbfptwOHexjdXjzeUv0L53uRi62tEyT0hw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Коннектика Все хозяйство находится &lt;br&gt;Р.ш.70к5, рядом с 1 подъезд&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/48o9ihu612d6l7smec33ngp378/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l_U1eb_sIr5GB5wB7hbZRU9Elw5tvkudZWpmeim5u2Nk2i79gp72ZtJfNZwBk109Lsmz2cBAMW-Iao_8wrim2xIGGTNwKZfa3RDvUfA1n8YCU2HXcNDohg0ItS9GlrMp5i_rht1IFPsAVRiaq7tP3SAa344Km8Nb_IFxKMODvA775gr2ZNi1tKxDbJ0Tkemms?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.375166,55.770816,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Коннектика Кировоградская 23</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.598809,55.600717,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вятская, ул. д.35,с.4</name>
+      <description>Коннектики отключились</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.580216,55.798320,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гиляровского ул., д.4с.5</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.630701,55.774238,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мытная ул. д.1,с.1</name>
+      <description>Узел Коннектики</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.615090,55.728412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Стасовой ул., д.4</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.593252,55.713964,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кон. Поварская ул., д.28,к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.592769,55.755146,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Салон красоты «Ангел» Ленинградское ш. д.37 ( ЖК Город яхт)</name>
+      <description>Объект компании "ТEL"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.483023,55.832048,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Денисовский пер., д. 26</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.676325,55.766787,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красногорский бульвар, д.46</name>
+      <description>Узел Коннектики. Приход ТВ на всю  Павшинскую пойму. лямбды для коннектики и леальты</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.376754,55.825371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кутузовский просп., 32</name>
+      <description>Сбербанк 20 волокон</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.532094,55.740424,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2-й Южнопортовый, д.12а</name>
+      <description>Сбербанк, 10 волокон</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.689285,55.701809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красного Маяка, д. 16 стр.3</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.586083,55.613602,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Успенский пер. д.3 стр.4</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/83m44igj2taba5sm1al1al86l4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9m7D5-Jh5yLqs9-nIOT7DIygTh6mASN2e0I3GMqv01ijs2R4jnILjgSs-39pfzFnBBwXjiAKiFrAe4D8u-KNE01yPByyJJ1LHxCjRbDF8AgULuqE1irHb4_5rtkelzJpHoUNzpSlNgGxr-ufTNUaUW_DkbAHd8c3xAT5u_CoUw6OhSKT7SWvCshI_SeDxMCDm0?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.607085,55.769317,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>г. Москва, ул. Озерная, вл.42-46</name>
+      <description>ЖК Ловител Стык Б.Очаковской,40&lt;br&gt;А2</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.445020,55.671480,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Б. Косинская 27</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.857578,55.717841,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Родниковая 4</name>
+      <description>Альтаген</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.099422,55.984850,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-я улица Леонова, 18</name>
+      <description>Эффортел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.639748,55.844912,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пятницкая 25</name>
+      <description>Радио Подмосковье</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.629984,55.741754,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Климентовский пер.</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.631930,55.740960,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Овчинниковская наб. д.8а</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.629410,55.745512,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Серпуховский Вал, 8</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.616514,55.712421,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сиреневый бульвар 85 </name>
+      <description>Авелаком БС </description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.833302,55.804248,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Поварская</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.586858,55.757565,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Летниковская, д.11/10с19</name>
+      <description>Комфортел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.646062,55.724174,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Летниковская, д.10с4</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.643270,55.724964,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пл.Свободы 10</name>
+      <description>Телеканал Твой дом</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>36.728096,55.385973,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вучетича 21с6</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.554568,55.811949,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остаповский 12 с 7</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.708456,55.718109,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖК Фестивал Парк</name>
+      <description>Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.480956,55.859265,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рязанский проспект, 75к4</name>
+      <description>БС Теле2&lt;br&gt;Связь Сервис&lt;br&gt;b00367 Связь Сервис. 1 ов. ЦГС - Рязанский пр-т 75к4 55.718307,37.792137</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.792027,55.718303,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сиреневый б. 25а</name>
+      <description>Эффортел. Аренда у "Открытие Телеком" до М9&lt;br&gt;По общим вопросам: +74996827282&lt;br&gt;По тех.вопросам: +74996827300&lt;br&gt;По оплате: +74992903999 доб.9-2598&lt;br&gt;Договор №141021 от 4 октября 2021г.&lt;br&gt;35т.р инсталл&lt;br&gt;20т.р ежемес&lt;br&gt;Канал 1Гбит/с&lt;br&gt;БЗ №1/140139 от 4 октября 2021г.&lt;br&gt;Мы - СпецТелеПриём</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.795360,55.803295,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Горбунова 7к4</name>
+      <description>Эффортел. Аренда через Комкор</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.387178,55.720834,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

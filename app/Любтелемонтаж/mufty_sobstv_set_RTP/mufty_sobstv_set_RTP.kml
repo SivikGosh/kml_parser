@@ -1,0 +1,297 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_sobstv_set_RTP</name>
+    <description>Любтелемонтаж</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Ремонтная муфта </name>
+      <description>тк 1570</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.176684,55.979318,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>временная муфта </name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.176246,55.979072,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-99 (3-й Котельнический пер.)</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/qjnnugnhftvcdoqa88ekrkdtdc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9n4ZISikpkWnUpwAuDn-AXhZBJ9GmJl90QZxbxhGZA7yBkLmwUWh9heBEto4R6Xh-V73ceeiauyxwKDE9vGOisn6BDhdJ6zzKLJ8kTk79cUlCR2R-vmt9aRJYrDpXskXgVvAjjobvMa75ZZ0k5UJAWqjGYNAZeDv836OMp3rFNV1JFCNkgNHqbcQYQjggHkDM8M?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.743739, 37.647313 (11542м от ЦГС). Черная муфта&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/6shlj3gmcs81g9sb1e0oigef8c/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kJoX_39W3ybnlOK1tqY50rVxKG5sT0TJPatmtu_g5zmrbUq_cr45ViQPPxfSgeHJrvFOFZB3IE9gD7nkVs-QjE6GjXHHt_Q-FIwUpbz7jSPe0gmE0E19-8M8srYq-HAVowzJVzXrbhcI1ddJLI-1Iuh8zEmfFctxQWHpkRKBXnrjXxPnyNG1sW9Um7xnMgVLQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/avpd4dkp9152bfddjobksdmnj8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mqP-rAxJcGICe5l2rRiVj9pDuj6KL_xLNN32qdi5q6ZsM3hLaDQcWMc-9P3F9TQCce06YPEUxv3Zjuz7QL1Wl3ebuynXZHINCghsx8KJPvq-C0MyUULpSph0WOJmG2X9sQIaKNGA_Io2BZVl8_3hGMX6XNG4YVsMEIpNMzNKHSY6hCp0X5tEsySYKUjV9xC7o?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/5qcn0rilovcfr1m211oaopo9jk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lvJwYkzHqOjyu32r0n1SL7_vQVwQ4Bqy89iSK86AvDj46AmyrhZLSisx5AVJ3CPRC93kNaJcJ6Rsd6cxrIO8xDfnXS_7tz8MjkOvL4XyPOCjtOC07lgmpnH5P5Mz7xCj3so9fy5AFL_MrNvAGlUuBQGqyr47erkCNlqkrgDIwUVTJGdi6X7cZdDpoziwTkH40?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.647249,55.743759,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 68</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/65hilpglp7hbtnq3l0vknukqkc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kh_HcdUHB2Y01QUto7DlDHVgQdu2JQZzQupr7vlHhGP-QJOjkSGxZkq6c40Mw02b06KHjSGzR10-neG8elv_VuGLj42Ova0x5UvET2jCtbZMDacSIgoYHhBMgV3CiWtoPuG-nvSnlg-4wWZNDj-4o0P8VTZDeAMKN2JXRmOCrdu_5UpUOQWhWlW5H_5rDex6FG?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.847189, 37.671075                                                Сварено 48&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/77fbcp1r2s48odj4ncsbh0gklc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lmoz3uJIeFRcGQbATzQ6T-hJ0zz_TjNsqUD8aRkDCCXSUt7WcIOaUlhA2GUBkCGpYO00jX_9XzXyhAdIwJnAGuYuMx65Rvy5JiyyzVLy8AGwbAR51Z2S-MbYohYDUT5BtVzwRiHNDmuCOeIbuS3w_aMowbCR2Y4Nzgu-idqljduhkSbiktp4xQAI48LKIcMv7z?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/cqre2e025r57m4fm22nctsts7c/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nKv9t8dQ9oM-iTVB0jXBkm7p3PNyGONQDeHFPWMUDcd3hDOFjEJ0ZaBW0wt8m4we5pi5Jfj087L-MkvrHCLMbqwdIvX5x2VZekkIt8bUUb9xqreCazt4nNnFV8-aMVkZySrkh0-vJEdyxlX6wzZ6XBc5SBVzMA4UjesWUk4shhvvatW4LgVcbr1ePF3qXor4Uq?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/shrcdl94rnh1poqqaqiv1m4nuc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lkq120U_b8xNhVLv5aIPt7Em60YxP8GmBcQK9kadnhuqpoxXN6bgmfWVOz_w8rLSqg4oMd6vOQYA76Jokn6FwWHSdcPZVF0J5aPG_rH-FTkXXzWaQNl23K7kh_MkMckPmag60TNHBJqXopqp_4B24pOCm8RDQ4hBx4qcOY5x63ViaxGk7yZmVjpnqaJ2plVS8J?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.671075,55.847189,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 43</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/pafc6e1q6ded1umg7h7cbsoffk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k7ykHOFLS0yIZPqQfMZ_DMN_B_9pgjKuauyAVjjhrARNeQbPdZkbnXuUXXt8vgIOJtkNmt0lDyHn3mTvw-0ecLHqGchkYrNuofeCOEg2vh0ezJ0OR0fXYuyZvLpTAoaSMcfx7nUIbF5lyyuSDgP4mQ778W52WKKO0eevtlV6vAoQcsawvuQTmJV7hHNJ25PJxv?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.845442, 37.670516                                                Сварено 24                 &lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/48f0ka0vj8cd9v90ictgc4b2e8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mK3q8vmA33g2XV7y8cqjLJhFHtfhPoGi7u7DAZ8A5vgHQz8ICSjooIJybe1UZB8nGw1RN2snYaqQdl44pqiBFRzW055oY3spHa4O0qSHmpuAIJ_MTey_RpM5TxuGN40XqFUNF5iouL1snId-SgejfFjK8Dhd7GGYcj0M275ATIJAFIEeeDrMR8kwJ1wPcw6lA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rkj34mjh1j6jkb953nuvtg9nq8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9muFZY7d-wG-r0fYXjf9KmLMnMAqMWCkeSRvYl0dU6aw3rc9pjXkeJILlIBfCtJDY-CxIGiybwO2RPwc9D6CKkRUpCQSZExagpZQAnfiwauNkQ3B5U60T6mQiUBL99r8Xq4zp8GbbxMwsBIzAIM5tvOhvDeD_zQC_DAxK6oaWEnSkDUBxfF53bXFiTGIOiGhGI?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/t3vfjiv2rqungqu0u5ijr1rna4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9n16pkG6unBL8lYFv_9oNZ9usSq4IMScfHy86NUHAGaysGqCITTpAB47avyDgwS5GEscNwWL-MPv9PXdRAJkqJu6xcrhToKusA9qJtvi1LlrIFd-cV79qhKkTWLAsGnw2nxsd_F-ZqaVMpTwGW6npAm0DhlTW5eSTjU02DAPVh8j9IocyLHmClKHAI82AMYnVY?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.670645,55.845415,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта на опоре</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/ask801d8fm66qt3snre0mm1dos/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kxuJqHREz1fR74hT_yWl0J7LtrlcmUcrN1gFqyJz1B5KZMYMQcg7HPwEPt8LH9r_dqY4pDt8Gya5bJ8liWPflGZ96TzP8VNK2mZDiyF0CJ-B2QBNLiS7OvfgMolRm00f1mKW1NE7VPFJbDjc6-DhTruVb3bIG1PRNeTM5nMLWbpGrzqyVmIkHN-l9KmCIuhKtM?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Аварийная 55.539072, 37.560870&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/7q94ir102io8fjmb4e0irh2fhk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mtBcjVotb8JZVYR7lGQ_cScCgzu0FOjfdqX1tBWqtFgoM5uBT5KqfqOTZu_JbjchDddJmpSqKjqJqkBWvb-WI9wtUGg8JyV00pS247rFV80LGmCFaJeIEnZD4S9P7MalXxmOjHj7sBRaDwRIIDGsRmKXpyBsbU-yaGj628Wda8CtcNmgarym_tyZFx-x08Ngow?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/3bh8gv4fq1tuhoasaqe8pdoub0/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l-kxFWqgMiRwEmyfqG5c5X2sajkXxoaVhdSKEi-Wn6puZplkip7tS8XtwyyD6vkA1h6wnZbAQecDtRyYwEaEodRfSnomicTMRkb-DJHz79TdB97mUFh4Rm6HOQMVkORbE8UjOwKfof16TRJ32t_SxF1x1Dwe8JxBLT8BLmDF-puun3t_etMbGV_IDWky-Po9E?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.561208,55.539060,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК915-37 (5-й Котельнический пер.)</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/ko6kv36335cfqt9bcc1fb3sqmc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lurl0VJu12QF5lmIAUKoiU4JEP2Jv0W2TOkpTsBaLBZ4dNrAvRBZGwNqafrHkZChqWBjN6phccylEGiQSrZHXSkFmkkwzbGzUcRCkfUi9r6hiWf0w3xB26PPiziAqN3r3GYLLW7C7JvontgieQlMH70W2ckqJ_yMchfYCqCayarxkRsGox7w0VzU1Mtn3G4vQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ТК-915 (10996м от ЦГС). Белая муфта</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.648072,55.741401,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 45</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/bo12qquarhilsoqdl6sfe8ltvk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lBHUbVy3KWsGc8--T5okvBhO3Ws8IJURD1NL40QdD3_UymZjOU4ALgpLZ0jPob0DrC6NC6a1gY8J4_H95cZsG16pMnQKZE96dm6MPk-rAlhdPANDMYDFmtR8fXvmifJPo3J-Y1DSi6HZC7XrxNK8OUHPQMiWvKYJ8VgRaFi0RodsMz5aV-WgK1Dfao54D8lmaE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.656669, 37.829404&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/jsgoftp3hqi5t1qoh3809u7nd4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9m9XhLFtqtMnOGZtZDWKNQhB8BtX5Rd9K1_6vdZveBQC5pOUZPying6IDWtX0YrEVPhwQYEBTefCStUSevxLzpQLgzqq58O4xcwQmk51a1J6jPh3OGGKDl8uOitwRak8giu441mu8kTOzJAIOs_rVZBgXR2ey6yjqIpmXUOfVzW3veC5UyB6ssVYw0pZjvIBSxT?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.829415,55.656742,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 246 </name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/2i9a1q3bv10hefhrd1o9me1i1s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9leSYsdEMPlweyVsjHLbU6Fxm8XY6MfKFIXe9LOxWELupUk0IANsbiD7UFTkBeEuPplzqspfK9LwyIZSz13BkVJNjRsiZboq3HL3kSHY9XZPYBRmM6LZz1mXarXZCAM_Lkbxfqkez1DTRGj6O4JJ-22rJ5C6z6-L6LO2Y9GnYU1sqERO9jVq0opFKT-8Xetcc-V?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.656518, 37.829983&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/hm849tq88vgss95d2j3ttgp3n4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lVbBwdi4zUTc-hwEjnXhMy4mjDuBoPHf1dO4uMg0qRBGLA53rO8wWgYpZPv_64FOJtUSySamULqCTvcH15thM_8yDenNCyy8bmY6LOmDuAAu0rfkoU2UYRb1R343z2u59Tb3_1HeBik1i3hn-H0eA5LqH5E6QNA8kYQcX39Wq-aU34w6UvpvISlXnWSaCuFLMM?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.829983,55.656739,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 156а</name>
+      <description>&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/6sor7acce4ihqnq9vlculc9bt8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kVdQXzFOMMhrcch7bkGdHN8dErxr0VgsrVNfGt6FITFBWETWB2-vLmgRPiVUj2dQfJE9QLOoJaKqOVsPSwekKotJSo4-CYGaSkDw6-On6TSXzjr-vjBh9BULUcdWsGn3_OpIBfynbYcfRNuUeVdbX-PKhdkLt7NrqdAVyQu417xVsYg5c1E79rvTOzqLPZaUt5?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.727711, 37.610927&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/4sf030pho5tabut58unhk5fe48/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lT7c9PUo9UvIGZhy9PrMJQ1AEqZcoZWowV7Jq5CcQjTrl0uFQM8br8khg-6ZRNa3ZAQ48xI77nFlLfJS_Yfh137zeVBKQPiOSVvWDxU76AK7KIVSBvJsZTc5yVYvAYk5VHuCdntVySIM4ajyj3irSwkTkyh5TrhLsGj9WbAXNJ0ZhvtlN4MVz2SNvHl9VF1a0?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/hraiefjs0494b8p9lcv3ckeb84/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mexpTaTodVYx4aq_oIQ3pzZfTpOysujbn4ULuvSQxGKCi5Rdp5XgeKNhI5Mk2IVR6Hu9ZSODV_PviyHI8ne-NcORrPHzFQynaw4YwoZCAM9fzaXgGh4cjXm89GqG1u0nD3oyl7O53QIgVY85cft6PyMjQwo5-6wrfnjdjhEdl7r8DlPW56SOquXwr2wDIuCM0?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.611415,55.727667,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 141 </name>
+      <description>&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/28jddaoj7bafkbprts3vo4ru60/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9la5lId08m6JU3rY1U9LJlzCY8x5gqmFHVp6MyDYpAW1N5Pn9VYVutZPJQMeRvpGxWKt_lhJYYP-m1VbAvrqzyTsfi620yhNITapVfpLcXvS4HPnSTDdHw1Fk6q80zieCq07qq3gtKN-_4R8v17iooaf5ekjzlOvtbUdp6J5aRDyEvX-XWvTXkmX0AKSz7grSJy?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.725864, 37.609521 АТС 236&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/0douqme80sa3i606tiadau3sjo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mPnK-UkXB2HvsZei72GW2kcCKNPW6UvHarfo4Dej_tLYD7czb51AipnYdVyXuVwr3cIVfsoAEDdaH9bcphOTJgJm6O-kuiSRhAoPD5uj-4QGzeanLrAUYUAsqkR5CXWPnR6GskubSKHfHDXeF3o1dQuPNmscsHvPjolTO5iaHFdoVPi78bF8XZFrCigGpLuVfO?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/10b4qm7hr5elu5r448199kqglk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lU8e6zoHFCSAPwG6kOPb2xyxmAk-fshC6jeONRStp-9SAFtxV2r_UlmeFoppgMm4bcRwFdFV3WtLKntqxkZwZdAKflIdI5B8qF9BjGKA6B6RcMl4dfqZ1cPaoYXU-blF2YOfLVo1iyL_nj-C-Sb1aBpwxpa9ocOH4Mp1AS6kcm6ro9E-UkBZjwBSbAd8_N1I4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/p7o2ouk46pk5pe5nk22narsn0k/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mTHY_q40hjlk0Q0kEF4pkOHXnnqPOCxOpzI8DkPO53P6izP7L097ATkGd2eWxLS_3zqBsDlyX1gCSwNQI_KauhV8uyV0_w8pZxjaVmJQNAvXolbSdu7Big-Z7FSUMhyWGjqZYE_HyALL0r6DuO36wrEDcnvaa1-HCQeY6tiT0WyP1WbQy79kkJtvXzDskjtqs?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.609591,55.725841,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК915-38 (5-й Котельнический пер.)</name>
+      <description>Черная</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.648786,55.741600,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК915-133 (Подгорная наб.)</name>
+      <description>Белая муфта</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.643094,55.748120,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Временная авартйная муфта</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/p38dh632slgdicnf8u7lipm66o/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9ngViqqffS4ODPoDO6RMlKZsDflwXdjtI9tLvLZcOI7Sid_mhg6QAxiA0pmoACBi9TQ126OV_MkDNxO58YQx9jxltSqwJ5JTWXYTjSp1INKY4tUldfxsLaKXebIoxCcAV6cYgYR5sWAIhKKlMGQoqIDosZqOhpcgPQ1iMW_BAuEssVwd_CW5Uvho1En5RoB89I?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;в грунте&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/lis83agad0gkahol7lruo4qp18/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mDepfBWHDfs4Rn-L_9H_gqV1lGNqz1h8-KYbYQJIzVxAdOMCPGGH9ugdtjBfo4UHyVg0O0VrMRV8-n59NLLh1H1h2qysTfX1oG3vGitnXNx17EDZ7ShK9mN6M2udzqxQZJ1WYETDYq5wDCGBahgwIZbHez6qVDYmLH-BNszG0EyG8l4N9OLJ26CA7aM31xns8?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.176164,55.979024,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>временная аварийная муфта</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/22vojla99qpsl626i8e0lhastk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mh913XYLPgK5b1fewDscGIYvBPMVJQ_tfe1ZTthDHCnj_rBfkDo78YQnGdZ-C-vbDfMf0kjIwGsiHCStHDaTC40qf-f4JNTukTvrU4TtXRfF1ZkDO0VzMabPX2MZOjky2QSgM2931ohZYWLAckD9XTd3yLiEEwaMnJVUzXRPXpUG677zwG-ZWXLQHhCbEUabU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;в грунте</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.176058,55.978961,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

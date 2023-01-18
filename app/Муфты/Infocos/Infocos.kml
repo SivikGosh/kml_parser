@@ -1,0 +1,405 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Infocos</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-B29189-labelson">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-B29189.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-B29189-labelson-nodesc">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-B29189.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ТК-268а (Мичуринский пр.)</name>
+      <description>&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/occua23jcr66vb1c5p8n1b3cak/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lNONQcyC-xPGKeJ8M_Ywu4bHCO5xJoXvFrTx17iHURYwtsHIs1AKOZAGvwFZfir8RVm96ph-4caIdF11km9obikpwgoCjw8PbR9lMPz8YCHMklRnMUGc2M93HHKk5ei80Ja8QGkIKdRiedKCZWp_jNZwfBkG8HIcMuc8oMNZKDY9qkWHt7yeiOSaLzEWcL2HY?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/nqb1c8cskl4dilp51im2v3r22g/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l2V1_MtRTZeWTpPc94lO_p0sIOok9Y3bS54JJKf8_W6_02A_ZKyNwNNbx3ch35Q_3rMHW4sXaXWO4i3gt8xOdOJDOF8lpd8r_GXzQ63dsRw1DRZOQEa4uWmYL3MZuxcRF8ahWO35ALWmFe0pIPcV-lJaknFG3i2sh_7z8YHAYBi2fs5pCOjxa7G62Qvv0jmR8?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.492293,55.693763,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-259 (11-я Парковая)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.805103,55.806195,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-19 (11-я Парковая)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.804945,55.810010,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-267а (Мичуринский пр-т)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.490957,55.693042,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>НК-18 (ТК-545)Удальцова ул.</name>
+      <description>перенесена из ТК374</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <Point>
+        <coordinates>37.488530,55.685697,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-4 (Северный б-р)</name>
+      <description>&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/5019tv94d7eme7a6irff2596i4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9m-0MxGQ1AxnjLRZPr0CUqTZCL9xl0HMoH-HMHlTvTiN_0wSXVr-7Wewq_y4RaagCMrN5VRA38sSwiB2MuZ19Rf3YpSqtUvWLxVK83Z84VWqWJa8ygDtWcDFiFFrpiCTUsSMISUj2lZ1khO2uhvcWlvXhCpnvYG1xckuo6qpxMJXtUd7_3xGhwk-C5l2fqiPZE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.613019,55.868522,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-10 (Вернадского пр-т)</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rsu1tia9r38nv0ifplbk5c562s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l6nPwCCvetmou_Wmnt2dfHwIqkvZwqiEo6yV2rr46zWPZXqyotVp-61XU5lBe6nPb5WtQ_Eu57vdE_dU37g9AOeBkH507ubQ6ghFdvCNNSpDAq-myOvfcEehflRrs5j8XfUIEaXlEo4_kh0GFp5j4yQoxaCkKm6MqOvAYPJ-f4Z2YYL4Cif0g2NocZFw7TrCM?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.511589,55.679835,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-203 (Вернадского пр-т)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.506069,55.676774,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-253а (Удальцова ул.)</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/eus9h0dbhfk7j6bkksvhvvqur8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nF49E27TU2UDx290V2c5e_qOlt3mLYrQP_qMgxYmPA1DEBZmAfF9W6OJT3idkAwp4n9TuQJdvnPdJuJdwsVfFuK71Jk7EFqR7c4gduecbkjC3RohESD48oe6SStTlmOi3R1jtfVn3lpIsPHOB5Wvxw-Yi-Izne6Fp2TT8ZinkHwVH_E2AcKaZNo4Zr27C-H8j5?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.494928,55.680597,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-144 (Норильская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.695905,55.881889,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-20 (Щелковское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.807794,55.810229,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-125 (Таймырская ул.)</name>
+      <description>&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/jhhici9kt05br14rik0b88qts4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kjN0PcZGBJcXvgBbW6wfVOHZfAKLCSlrVUaKNgqaEgPvcmz8sCLONFzOLz9D-cyMkmiDXiQZnCTqj7uqJgwyvkjwzoXgBiLJtB3v0SEr3I6kmyD5zYJluPH5b5HB7ygJQhKCxmW8uWAPfzeW9qVh5WGNAf5STIFy8z1ubHbnSGXRW1kWHi8k8ddnQh79PpDVI?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.706382,55.884591,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-120 (Таймырская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.701039,55.884723,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1256а (Коштоянца ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.491209,55.679986,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-927 (Удальцова ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.495421,55.681111,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-256а (Коштоянца ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.492025,55.679476,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тех. этаж (Коштоянца, д.2)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.491317,55.680122,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1136 (Коштоянца ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.487218,55.677723,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Подвал (Коштоянца ул., д.6)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.489193,55.678794,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-723 (Лазоревый пр-д)</name>
+      <description>Бухта - 280 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <Point>
+        <coordinates>37.635191,55.851897,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-123а (Щелковское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.798076,55.809985,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-245 (Щелковское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.799022,55.810012,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-256 (11-я Парковая ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.804846,55.809108,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-32 (Б. Черкизовская ул.)</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/m5v57n62pnahtf1gq5h1mb6460/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kL2yla0RPyoGtQKNOBX_Hkg8A6KsutIxhEhzGDu-z0ufyOpwrVFKpcQbZ9ZGBKyreRyOsEIHj7g9x13EId3ed2xSbSoQHvzS7RBVwfIr-zRDT5meqg1fgVFtEYl5jo5Aa1A5RxBYYmiyO9DFzkl0_SPn6UBXZjTD_gGd_oMDzjdBi3ghx3xJGoFbUd6hoJ70M?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Стык с Эр телеком (инфосети)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.715743,55.796342,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1086 (Щелковское ш.)</name>
+      <description>&lt;img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/k0m77dmj1enhv29ssj51tb43u8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kGzXBNRtppMzRBKlrpaVRpzc4xa89pyX3zyFkMIMBm1zCFdWaB_p70Hedmhh6eIMRccAvOo4VJR5-2yTQItb1as5j6iMDJmemNzLB6-1W6bgt_STrDJrGDf1m6w_Ou-MYDgt1Y32lRkTinu3NBP0nK1Bro1eAYaWJZi6kcPT4OI3Yd_uOzVXeMGFotAIrJTe6A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.790320,55.809338,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-2305 (Щелковское ш.)</name>
+      <description>&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/n2f23n4ulgsa13dn7nnti236v8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nF1Ebv1Bqr_UqMJ9_cGe4JcqKYEipHa3xofbPQQXEETI0JWKKQom_LTULjz93dEV46ketEAflcKPIR9UpdbH6HYH8Ss1QB8k2xLElbVZgd0Q1YAHvjs8ZMUhYRa5dZft-JzUQgVL9VsNCtafpwGkbYLl149HFaD4sosfxJ-yHYPsm9oFhYKt8sHR8zrboPwUA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.789431,55.809319,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-116а (Щелковское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.785609,55.809582,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-264 (Амурская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.785673,55.813177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-688 (Щелковское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.772627,55.807371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№323 ул. Вешних Вод</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.699378,55.858778,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-507</name>
+      <description>Запас по муфту 20м</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <Point>
+        <coordinates>37.790572,55.807438,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-?</name>
+      <description>Авария</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <Point>
+        <coordinates>37.639605,55.855652,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-276</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.629516,55.848949,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-2 (Большая Черкизовская)</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/9dkqfm3arlmd846ht6qvpvo5h8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nh1LBMIKtXuY2DB_xz9nDSKkhigFdMLeOlVojo11p6IfcpNxc4TUZE_fmeqgyXduwxIzFfV1dKUu5RFL6jHYtbp1Ccz6TTQcYMU1DOX47A4WT-gTaBjqvi3yI2vRu2B9goba-INHwvTn-auaAuQnL2NZMDfFWxJkKOd3drhq6jjV4zpboZhIwDpTAtu9qzjEQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.718275,55.795757,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№34 МКАД 7км(внеш)
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.838492,55.714228,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№276б ул. Ак. Анохина
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.470507,55.652981,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№394а ул. Ак. Анохина
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.469817,55.650564,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№397а ул. Ак. Анохина
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.469248,55.648558,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>муфта инфокос</name>
+      <description>тк 46</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-B29189-labelson</styleUrl>
+      <Point>
+        <coordinates>37.838105,55.708472,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

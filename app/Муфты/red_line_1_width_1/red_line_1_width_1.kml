@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_1_width_1</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-A61B4A-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff4a1ba6</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-A61B4A-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff4a1ba6</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-A61B4A-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-A61B4A-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-A61B4A-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Кабель Махова</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-A61B4A-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.984920,55.522523,0.000000 36.981240,55.514687,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

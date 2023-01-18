@@ -1,0 +1,165 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>B2B_clienty_Konnectika_Avelakom_itd</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-1113-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1113-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1113-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1113-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1113.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1113">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1113-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1113-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>АТС-578</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.417437,55.982802,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Конный пер. д.4</name>
+      <description>Релсофт</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.613769,55.721664,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Столб, Шухова д.4
+</name>
+      <description>Авелаком</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <Point>
+        <coordinates>37.618433,55.716788,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чистопрудный бульвар 17</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/m148vg7o0ctk6nmfc272qpqrb8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lCnVxSyJH-Ymwvk25ajiYFQmZqdH57rnuIjWbDDWbvReX0p5cIsjm6Cd7q-QIC-_GfJ2ViL-mhtHmrXNHp5k3vABTy62K0EYPDLS2GNYc5SprqR71ae4e0EJNwMxricG59zO_8_h6uCNPRgPprsHh-FFzl7LkJIBuWKor5bzUUfwuOGjaITuq_mi5NrpfPMFs?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Коннектика</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.645601,55.762079,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>кросс</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/8po2obqmnhhv1o5u7k5l2sqfvk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k3DeVnTYfviE8n8sJjZzuZQ0hb35s8M5qtQxZqGs0iTt2Y6hHPomCuN_Az8QH6toieLCSz-VetYtTz4WOd0aCEqJI67HdRw_Zh1Vr0Y3Yt1BOrxcsY-sdcwPu6ajebszmSsB83RHOzmEXtAJkauz4KNqPzuDsPXYNclgJQJQxjPdt4GwRtf01K59xhBn6_Ccw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;для тесла тел</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.674409,55.771444,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул.ТВЕРСКАЯ 13</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/6qd0i4vrvhorge3vqh7qg3ajd4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lnW0hT55wKWDsxzBb8qyrDcu-xrY_Dd3rPfFIo3DQxCLUk3UEE3qY3zISPmWsayJVnW9zSJBBEOIvjp-dElMpyDSKmcCIARAicPmWKQmhAfZsgoM0gin26FpEn1w3JOWKL71Ltx3rf0bprI8tndhupvaLWFj-oQxZZ-um07nXtM-dfq71qmzZs_1UdEV64yMoE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;МЭРИЯ Москвы</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1113-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.608741,55.761305,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

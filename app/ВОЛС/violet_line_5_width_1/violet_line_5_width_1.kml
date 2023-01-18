@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>violet_line_5_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7C3592-5263-normal">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7C3592-5263-highlight">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7C3592-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7C3592-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7C3592-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>19-01-02</name>
+      <description>Телепорт ТВ ул. Г. Кузнецова, д.12 -ш. Энтузиастов д.11 ОК-16                             кол-р НИИ Графит кабель может быть обрезан</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-7C3592-5263</styleUrl>
+      <LineString>
+        <coordinates>37.744666,55.757272,0.000000 37.746012,55.756611,0.000000 37.746652,55.756639,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

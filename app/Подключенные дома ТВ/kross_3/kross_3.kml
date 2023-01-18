@@ -1,0 +1,25 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>kross_3</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-961-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-961-DB4436.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Рублевское ш. 42к.2</name>
+      <description>Точка подклчюения к НорфНет НТЭ 4 под.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-961-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>37.414061,55.751760,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,485 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_storon_oper_arenda_volokna_uslugi_dlya_RTP_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-DB4436.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ПК-112</name>
+      <description>Коллектор Центральный пр-т</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.214888,55.991907,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-182а</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.223782,55.997457,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 1459</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.780019,55.660224,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 1460</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.770578,55.664388,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-158 1-я Останкинская ул.
+</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/c85hi4j9429hm8nk44jgde58po/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kws6hQsXVUD8OXJtivVwuUFGEycvUobLR5Hx8fON5-BcqLy0yipza8R783RjysUd_plEaCaKDyPFoSlS-D4QNCCTBAoInXU5SL4yLRBjhzHuhDzJvjivI5BJo27iOeO91ChELmfqCPgJUPKV03gSlkcvcrrV_JDA-Xn-RpOL65Gn1YHsi-1P9mCOc907bdR1Y?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;ООО Останкино</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.610142,55.823889,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-6)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.205313,55.587582,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-5)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.206858,55.587785,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-4)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.208338,55.587964,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-3)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.209137,55.588058,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-2)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.210666,55.588185,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HK7 (334-17-1)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.212785,55.588397,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№МС-611</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.214488,55.588557,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>б/н3</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.215459,55.588663,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>б/н2</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.215470,55.588633,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>б/н1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.215572,55.588439,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№57</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.215301,55.588334,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№570</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.215880,55.587867,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№729б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.216723,55.588210,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№728б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.217549,55.588525,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№727б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.217876,55.588616,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№726б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.218605,55.588752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№725б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.218949,55.588822,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>№724б</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.219517,55.588922,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.432094,55.661248,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.447371,55.648713,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.451712,55.644721,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.463667,55.640254,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.467305,55.641920,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.468536,55.630627,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.478032,55.622692,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.492678,55.624076,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.503650,55.618562,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.508641,55.623057,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.521215,55.634456,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.530170,55.646495,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.541980,55.649339,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта мастертел</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.529251,55.652853,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-40(Старобалаклавская ул.)
+</name>
+      <description>Муфта ТЕЛа</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.604733,55.642289,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Спортивный клуб ФитнесМания</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.498469,55.657706,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>БС № М01701 Теле2</name>
+      <description>Связь Сервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.819859,55.653011,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>НК-4(ТК-24)муфта Фотон</name>
+      <description>тк 24</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.742647,55.621859,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-10А (Зацепский вал ул.)</name>
+      <description>колодец , а не муфта</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>37.640144,55.732228,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>муфта эвелинк </name>
+      <description>&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/tbe1bci1124p2du7qts0s05v14/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kjdLkjdi-FPX5fOPiDfD_4XQkKN7Kk3PdUqnt8UlW1-eP4ZJ9WZendbNPmTblQYAsdAnzKls2p5HrWX2sFMncHKXUaLAUjYBwqnlTayId92tc1_0JFuQVb3mRzDwdmX4AdzPW5VQGJ9AY4z0jHQthimMxxr6EqMpFGPcerhfL3XLFDCwOvcvXyx20vZdLfos8Q?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.675203, 37.852075 правильные координаты тк&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/dda69n7q5n9oebd0lk8hkr0e04/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kZwSKjojT1ok9EYsnkHYu_0tSRlJgRgOQX7KLHcPtqjgO1TJeX_LEFZEjtwW0nhPfTYMCtVD6tNIh34vdApyNO6lTW2KeCT-v-zom2eJJp-PXTqXKhHUrvG5vwsgdpkziVNmXllZUqV4pDo-eqk9ZUo7oOtmLH18gSfJny2IlZ0n5Mec1cz3cxK_WiY9z2T7BI?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/1elue4mvl969jncqr136k1n6os/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kUgZ2sf5BQneTkgyS4P-UGwAk6Ccd4gF8clcyNT_6RUR8ypbUtn32Med37D-EQeqTWNr51OS6OANj2gvOyaRCR1dLonoqQSHIPmn9YZSDPcH0SvxNZP-yA0tg03dR5shzh6Mg-suw9XHrg1AUjfp9sdYdE8jPINfDDFTI9gRLm24unFrxqzK8ajhFlrC5P0bI?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.853399,55.675912,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК 10а муфта ТБ для ЦОД траст инфо</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/5e0u9r4sfhf1rgkaumga976qas/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mNwKd20_CNCyMAcRemY4sKOxPJo_-iWViYPUtMOa6jWEzCjPPSKRGL_RL7VDptkmbWPV3KrQzwz88X9N5SSK6sTcXGPIVJM--H1i7FfJHx9Fyf7DDGT1QuAxSWKN85diSWCBdTyhskGRY92rWbJCNrBDobQvevExV4NBoqiMT2rTUU8Q-PffLv9FZ2c0XV7uc?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Красный&lt;br&gt;Зелёный&lt;br&gt;Синий&lt;br&gt;Светло оранжевый&lt;br&gt;Чёрный&lt;br&gt;Коричневый &lt;br&gt;Серый&lt;br&gt;Белый&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/4akqbup8apa17hrtk59c67hu3s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9krjMgaTrVM_LKRIQ6owrMNOOltguKUuZiDZkbW--j0i1vuE3rcQ7FOQrOFquZvkVMGlZuOEsFk0yppftAQ1h16EkmJfazzMCQymDSjHxLW3z0WjdOyGsMG3P2LfqoXGkao8G5r4n1xGs2Hs0i4OfO3oM4bxaaPd9P0w5CLCEWErY7IQjvQbWZ4QeD9ZilmgYY?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.620857,55.632590,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

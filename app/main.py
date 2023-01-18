@@ -2,14 +2,15 @@ import os
 import re
 import shutil
 from datetime import datetime
+# import requests
+# from time import sleep
 
 from fastkml import data, kml, styles
 from fastkml.geometry import Geometry
-from get_pictograms import base_dir, soup
+from souping_file import base_dir, soup
+from legend import legend
 from progress.bar import PixelBar
 from pygeoif import LineString, Point
-# import requestsсприн
-from time import sleep
 
 
 def get_placemark_styles(folder_object):
@@ -18,7 +19,10 @@ def get_placemark_styles(folder_object):
     all_placemarks = folder_object.find_all('Placemark')
     for placemark_object in all_placemarks:
         style_url = placemark_object.find('styleUrl').text
-        style_list.add(re.search('[A-Za-z-0-9]+', style_url).group(0))
+        reg_line = 'line-[0-9A-F]{6}-[0-9]{4}'
+        reg_icon = 'icon-[0-9]{3}-[0-9A-F]{6}|icon-[0-9]{4}'
+        reg = f'({reg_line}|{reg_icon})'
+        style_list.add(re.search(reg, style_url).group(0))
     return list(style_list)
 
 
@@ -119,11 +123,10 @@ def get_line_string_coordinates(line_string):
 def add_placemarks(folder, placemark_style):
     """"""
     placemark_list = []
-    photos = []
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
-        if f'#{placemark_style}' == placemark_style_url:
+        if f'#{placemark_style}' in placemark_style_url:
             placemark_object = kml.Placemark(name=placemark.find('name').text)
             placemark_object.style_url = placemark_style_url
             if placemark.find('description'):
@@ -131,17 +134,17 @@ def add_placemarks(folder, placemark_style):
                     placemark.find('description').text)
             if placemark.find('ExtendedData'):
                 ext_data_kid = data.Data(name=placemark.find('Data')['name'])
-                try:
-                    ext_data_kid.value = (
-                        re.search(
-                            'https:(.)+fife',
-                            placemark.find('ExtendedData')
-                            .find('Data').find('value').text
-                        ).group(0)
-                    )
-                    photos.append(ext_data_kid.value)
-                except Exception:
-                    print('No photo')
+                # try:
+                #     ext_data_kid.value = (
+                #         re.search(
+                #             'https:(.)+fife',
+                #             placemark.find('ExtendedData')
+                #             .find('Data').find('value').text
+                #         ).group(0)
+                #     )
+                #     photos.append(ext_data_kid.value)
+                # except Exception:
+                #     print('No photo')
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
                 placemark_object.extended_data = ext_data
             if placemark.find('Point'):
@@ -158,93 +161,67 @@ def add_placemarks(folder, placemark_style):
                 geometry_line_object = Geometry(geometry=line_object)
                 placemark_object.geometry = geometry_line_object
             placemark_list.append(placemark_object)
-    return placemark_list, photos
+    return placemark_list
+
+
+def get_line_width(soup, place_style):
+    all_styles = soup.find_all('Style')
+    for style in all_styles:
+        if 'line' in style.attrs['id']:
+            return style.find('width').text
 
 
 if __name__ == '__main__':
     start_time = datetime.now()
     placemark_count = 0
+
     all_folders = soup.find_all('Folder')
     bar = PixelBar('Обработано папок', max=len(all_folders))
+
     os.chdir(base_dir)
     for folder in all_folders:
         folder_name = folder.find('name').text
         if not os.path.isdir(folder_name):
             os.mkdir(folder_name)
+
         placemark_styles = get_placemark_styles(folder)
+        obj_bar = PixelBar('Обработано объектов', max=len(placemark_styles))
+
         os.chdir(folder_name)
-        bar = PixelBar('Обработано объектов', max=len(placemark_styles))
         for style in placemark_styles:
-
-            # если стайл в айди стиля, и если это лайн, то
-            # в стиль с этим айди ищем виз и отправляем значение
-            #
-            # если иконка, то просто айди стиля
-
-            if 'icon' in style:
-                file_name = re.search(
-                    '(icon-[0-9]{3,4}-[0-9A-F]{6}|icon-[0-9]{3,4})', style
-                ).group(0)
+            w = get_line_width(soup, style)
+            if 'line' in style:
+                file_name = f'{legend[style]}_width_{w}'
             else:
-                width = (
-                    soup.find('Style', id=f'{style}-highlight')
-                    .find('width').text
-                )
-                file_name = f'{style}_{width}'
-
-            # переименовать папку, доб в назв ширину линии, если line
-
+                file_name = legend[style]
             if not os.path.isdir(file_name):
                 os.mkdir(file_name)
 
-            #
-
             os.chdir(file_name)
             kml_object = kml.KML()
-            style_objects = add_styles(soup, style, base_dir, folder)
-            style_map_objects = add_style_maps(soup, style)
-            document = kml.Document(
-                styles=[*style_objects, *style_map_objects],
-                name=style, description=folder.find('name').text)
-            placemarks, photos = add_placemarks(folder, style)
+            st_obj = add_styles(soup, style, base_dir, folder)
+            st_map_obj = add_style_maps(soup, style)
+            document = kml.Document(styles=[*st_obj, *st_map_obj])
+            document.name = file_name
+            document.description = folder.find('name').text
+            placemarks = add_placemarks(folder, style)
             for placemark in placemarks:
                 document.append(placemark)
                 placemark_count += 1
             kml_object.append(document)
 
-            # переименовать назв файла, доб ширину, если line
-
             kml_file = open(f'{file_name}.kml', 'wb')
-
-            #
-
             kml_file.write(kml_object.to_string(prettyprint=True).encode())
             kml_file.close()
-            if 'icon' in file_name:
-                shutil.copy(
-                    f'{base_dir}/pictograms/{file_name}.png',
-                    f'{file_name}.png'
-                )
 
-            # фото нужно парсить без kml
-
-            # if len(photos) > 0 and not os.path.isdir('photos'):
-            #     os.mkdir('photos')
-            #     os.chdir('photos')
-            #     for i in range(len(photos)):
-            #         photo_url = requests.get(photos[i])
-            #         photo_name = f'{style} {i}'
-            #         with open(f'{photo_name}.png', 'wb') as ph:
-            #             ph.write(photo_url.content)
-
-            #
-
-                os.chdir('../')
+            if 'icon' in style:
+                shutil.copy(f'{base_dir}/pictograms/{style}.png',
+                            f'{file_name}.png')
             os.chdir('../')
-            bar.next()
-            sleep(1)
-        bar.finish()
+            obj_bar.next()
+            # sleep(1)
         os.chdir(base_dir)
+        obj_bar.finish()
         bar.next()
     bar.finish()
     print('Время выполнения', datetime.now() - start_time)

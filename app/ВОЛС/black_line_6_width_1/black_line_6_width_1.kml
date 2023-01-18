@@ -1,0 +1,57 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_6_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-1581-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.581</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1581-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2.3715</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-1581">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1581-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1581-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>16-07-06</name>
+      <description>ОК-64&lt;br&gt;670 м. </description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1581</styleUrl>
+      <LineString>
+        <coordinates>37.611694,55.801356,0.000000 37.615380,55.801447,0.000000 37.615428,55.801775,0.000000 37.615439,55.802538,0.000000 37.615106,55.802734,0.000000 37.615020,55.803485,0.000000 37.615009,55.803633,0.000000 37.615449,55.803633,0.000000 37.615420,55.804223,0.000000 37.615079,55.804554,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-05-01</name>
+      <description>ОК-96                                                                             КГЛ-М6П-А96                                                                L - 700,0 м </description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1581</styleUrl>
+      <LineString>
+        <coordinates>37.829278,55.696952,0.000000 37.829279,55.696972,0.000000 37.829392,55.697719,0.000000 37.829124,55.697755,0.000000 37.830004,55.700216,0.000000 37.830604,55.700370,0.000000 37.831723,55.702592,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-09-08
+</name>
+      <description>ОК-32 880м&lt;br&gt;Симферопольский б-р  тк№250 -тк№411Черноморский пр-т   не разварен</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1581</styleUrl>
+      <LineString>
+        <coordinates>37.605868,55.642189,0.000000 37.606049,55.642184,0.000000 37.606060,55.642426,0.000000 37.606044,55.644563,0.000000 37.606386,55.644752,0.000000 37.613261,55.644759,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

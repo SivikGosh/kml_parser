@@ -1,0 +1,166 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>muftya_sobstv_RTP_2</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-962-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-962-009D57.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-962-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-962-009D57.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ТК42 Ивано Франко (Телеком)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.425741,55.727992,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-177 (Вернадского пр-т)</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/agr5otthmnfelmeq57gjqhe0a0/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mNFfF08m21FlhNdgvgD04Az3HBQSFh5EYfbso4PWFSRL8jjZxm6W3yI6Eb_WzTDSYZ_8iIjdIo3EXpuQTiZERGuSV_YEbzdnq02RYwe-ZCZodF6b-8KqhA2Bz_g8E5K2ZRNSZsWpKu-Qjz5JQq7H4WNjWg9k4VtlMyyYjFxZGV5IQoTcm0Zy-OzXraX3DLUew?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.505425,55.675903,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-148 (Полоцкая ул.)</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/kdnnf8v3vohe5uet5mf7h1qnsk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9n2j_iz7kTOQAvYl6AdzJx9PGHkIwA8iHJLoWNWtxms2AVgAaQdB92owm5D711FFJdKcNlTfkfgqGFIjdjcF0vN15_OhYQQqt7ozoDo0dzYyA3D5INteM5eEbvGCuaC5mkW2GqHGJN8IGkdNbOcso3sErChRPOklRDioun2onjsodFDXJFSO1iJesohxL0QPkI?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.424401,55.736292,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-45 (Волгоградский пр.)</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/g7el77iarpqafv7kluda3ukrng/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mIN4cvZolSF2GDa8YthHewsip0vZTCrMN2dsrdxdY1951EWceTFHllW2dnPgceX_BA7GAmtXRNPAn03UTRuQRVB6BCXSra0fuy3WcBs2WKVV3rt2e3l3PZzk9psvx4Qmv2Zn-PHrWZ4JMYI3gw7M1XxRkFvx705Ap0iEXJJic6_hradpV4mbebIaA1eBAUVnQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rp67otbdcirp9q8orp89q74ogo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mS9wWbhimvKVzbYSHTzIPry8b0GEimHNZTAD89I22io-ExaZMawDKZbGNbxXcv4PH6AfaiZicoJ4VCDLc_Xedu167OADIJkVfJOrscVYN0Q1UfnCqhNiprkSiHjwjzxn5sq_EJHow_XHiW-p6BEf_DkXmWHfQyPuCeasmaIkMXT2fWIPPXikckADhCsXk_4ijq?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.732383,55.709589,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-180 (Бескудниковский пр-д)</name>
+      <description>Тяжелая крышка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>37.556468,55.877718,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-288 (Витте аллея)</name>
+      <description>&lt;img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/ou1pc2poka2h8mdaufrt7si2n4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nQKaodQgEe7TMtF2jqVMn0qN1nJE7mNbG4AYs5Tx5AxDq9m5od0pCnXEfYq3shhl5YYwpYPR-pVUWQ1zOCC8A7EYH0vIRYH7_wkxv4KDGFdbPOnPrr3ZSmj3gTGax_8UcVk30bW2y60-a8AZ48vhSgjROGzINkWVnLLxe6Mqc13gNK3oExoGV9LtbE2av8FnY?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.547045, 37.541868&lt;br&gt;Тяжёлую крышку сняли и выкинули&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/o1q5d272lju8cbso4r4qe0ea2s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kd6KdQV2qdE1Zix9AMTauFOpQFE8uZsSd8QcoonqppIyn3rTUnzjduxZF0z-jEQx55wafAEjXWZRbxYU7HBlwK-o8wTdfSkOHiEDS5YNh44DK0_H981Si2NyQFh4bUC4ezPjZLOrbH1zXACwgbvyn8WO0GK2bncNMa6ef5nyZfp26JW8nRMwazx4nCr4WlYik?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/mbaqkkpp8ulabr1vk01jaub8ek/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9loyuSDTAOcA-IJ1fLoqmFSqdh9UwQAbjjcscywx_M3vCnhiEtlBDhNkOcdw-9Wb3AgNWc8CgNQnDShKwnlQDxTBufHrHtTK4Intfix36H87i3FhyYGFFt9k5ZmxyY-YlwztHxkxiTkAKkwf3BfY8WqGuGon8B4poIwc3mf43IhI9BryhSviAK9I1MbeOBPW9U?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/m1e0j8kmb54q5oqpkavkrol260/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kt2cBRgF5whcoixkXY4oKjGbMx6rcum02n_vhy2cMkK7J-k0jiu43hvHhwcXjYqGz7axUCIBWiAmGUGs9dfvM5jQ13H4O0r4v3pFWFm2EsH3_pIu89vy07YC8oPbXCOInxn792Mt1NXH-n-Tax7BwhkvLIdLf5jfPuRoxr7a_WOqMWTxRYOBHzZ6jbtcsQ154?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/v28htbm1afv0ka468g393clocc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lXjTCBYGeOOsCB7QshKAsKFI16mF300cytF-qJe1VZUhWdPqRiuyIdsj4lnuB9aRVL6-kgWC1oh4eIh4qzicXDMo-LMCUBNo2MBND90QCyo9Q4kqW0oXVPMyCK1E3n1_cax0Pl--J6yrBxYnteynfKhzK2r-vizhFEz5zrhibYGDzxcpLnyZ4IVege6cf4vSo?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.541957,55.546971,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-126а (Алтуфьевское ш.)</name>
+      <description>&lt;img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/js0gidipihg0gi1p97grslscnk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k4Vgp0eluFDsoWdhTVIlViIH7Sc9ksTVSRCif6pxnVQdhlVHy2mx-Mbrygt1qx_9tbP99z56H9x3czydLD0VygjesKcPZqGMyNuE5_q_C4vgayiYo8xcNQU40ysINguXnibASymgwsRrGniPQNh1pWDjORC5j5-MMCFTz4zBQBz4CmlUjvuK_QPIUjh5hQxJ1f?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.585080,55.861774,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК- 1103 (Ак. Анохина ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.466619,55.661683,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-27 (ул. Берзарина)</name>
+      <description>&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/s9rabpgcngp9tmn3ofrvu6bfk4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lKN4j3FSESuNL-2sCrfFSZu1pMNihW_EUCwYWh3wCODv8eJPc7pDgIV5UhW-mRHrvxSFCmmwIDi7qjDhPytBBLQkb39AfSMLGC0Sm3fcQwW-J48jAM_CISjt4g2Gqsn5nWuHuqhPv3OVkHhbpAfyWBIKshl9x6_hFhd4YKWf-UNfS4yvfQbflqtWoFxOxypag?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;300т крышка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.483795,55.788196,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№271 ул. Дубнинская</name>
+      <description>&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/sa1rpjcbf75akergg448dhf1ts/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nhvWA_gEEO3F6PsabW8ijbEhqfIAOGsOTKPjYmFCskBBBLtOYAckM5jP6RD9tt_XYnHBANM4ecEQVtuaanHW5hPTorVtWBOu7VuO_-yTvzbgiekZ6gWk3zc6kwJazVPpxaQ_qtjbnjAGGhmKu0KGWodKuG61pBhTNBBIlBVzQiQY7iFvv2NU8stC5KcVS0Yzs?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.557856,55.883495,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-226 (Полтавская ул.)
+</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/pttfeo0r7mto0mp5695b4uc2cc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9keJCzF7LM3VHPtp0X91w26-9ZmkyTBdCCy6HBqS_VOnCzMC32Z3mqTHyQ5PD0Ol0KW8aKSSuOV1zsTyzekV4ME2qYJ6U-0v4w4jaDsnW4JU8cAQLtJ2WP2OFgK2WVx-eF46uhUSgZW2PlJVzDDYkKJ27ZceFXgJlfK_IX7gZKhBhZpPGWDvb9hOI3rR5JJw-A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/1cfirm8c5pingobfumr6ic8a3k/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9ky9GWHCHZbqXpKnVFX7nqXPmJfvBS8pWiuu4y1qJD6HBYfLr2dYHWthnDCb7_h-iX7yNa0mGemA5UTuJ4FPIsTOgTglhZfKYqGHuVDnp2DIIXt6Qpad7aB7bAblNdvWuO8m9p0XsVCiQ6nbsHwmXgJCELbeES0v3qrKiuN0iU8VgyCgAFeNQrwhuUihiPRRbg?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/5shmlat75nn15m6kd7sqr795uo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9k5OtraU9WIdA_kPYD4EMvOHlzgF8wOPwD1gcMd1ezVS-cKrtZkF6i7QdB5XLyN6B15fB8T0xH2SOQZLWoFmS98ADC0keWjSJceSSVK5LbYYav_vvPLx7w6ocAknplofDJxby15NOgt976PAKFB7I3RuOr9NgXxr03ygKKjpvU7_cLRwXXf_w2bnSDhUOGT-QU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/07loo1eebgb6in1rli71jj7tuc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mlY-nG8PbsTh5_KdrYbNHrnUtP220SHfhdeWhqz5zdUx8uFVk08RzcuYjy0IX80hyxmXSe9kThXS7cNPIi6pknps3-d5EkfR5uXcuhWTU21QwT5fE1bw2p-_27iu-IqPEIcIv_76yYOV6bXkRceOFHe1kPjvpRiP3BaotVvGiss0Tl6ok9tdmreE63IEiPVgQ?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.572335,55.800476,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

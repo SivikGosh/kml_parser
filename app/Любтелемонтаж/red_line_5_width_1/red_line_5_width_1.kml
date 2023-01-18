@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_5_width_1</name>
+    <description>Любтелемонтаж</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-3713-nodesc-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>3.713</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-DB4436-3713-nodesc-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>5.5695</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-DB4436-3713-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-3713-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-3713-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>временная аварийная вставка. </name>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-3713-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.176058,55.978961,0.000000 37.176164,55.979024,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

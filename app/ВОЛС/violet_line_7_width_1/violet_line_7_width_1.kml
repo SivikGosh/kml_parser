@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>violet_line_7_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7C3592-6037-normal">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>6.037</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7C3592-6037-highlight">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>9.0555</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7C3592-6037">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7C3592-6037-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7C3592-6037-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>19-10-01</name>
+      <description>кол-р</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-7C3592-6037</styleUrl>
+      <LineString>
+        <coordinates>37.629482,55.784137,0.000000 37.629427,55.784139,0.000000 37.629427,55.784088,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

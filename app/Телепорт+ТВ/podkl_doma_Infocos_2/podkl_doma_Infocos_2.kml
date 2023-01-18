@@ -1,0 +1,498 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>podkl_doma_Infocos_2</name>
+    <description>Телепорт+ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-1149-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1149-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1149-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1149-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1149-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1149-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1149.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1149">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1149-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1149-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1149-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1149-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1149-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ул. Мирная, 24А</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.458174,56.008294,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Молодежная, 16</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.429127,56.018211,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ул. Ленина, 21</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.475197,56.011199,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-я Парковая, д.62б</name>
+      <description>КП МПТЦ "ТВиСТ"</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>37.790066,55.807766,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шацкого ул., 5,</name>
+      <description>ЖКУ ООО (Обнинск) Нежилое</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.604565,55.095252,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Жукова ул., 4</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.609955,55.101279,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Жукова ул., 2</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.610556,55.100604,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 26</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.616531,55.106429,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 19/9</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.601500,55.089818,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 124</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.618161,55.124426,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Энгельса ул., 30</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611953,55.120635,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кончаловского ул., 7</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.607161,55.093010,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 30</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.617618,55.107872,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 7</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.595157,55.089368,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 22А</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.615248,55.105424,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ляшенко ул., 6</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611880,55.107225,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Энгельса ул., 34</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.608692,55.119795,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 77</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.602150,55.121263,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 110</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.614404,55.123816,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калужская ул., 13</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.616976,55.123469,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 17/2</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.600402,55.089743,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 63</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611548,55.094227,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 53</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.612376,55.091547,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 65</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.610849,55.094169,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гоголя ул., 4</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.600210,55.090523,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Победы ул., 14</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.612246,55.100624,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Курчатова ул., 64</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.623021,55.120029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Королева ул., 7</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.613200,55.108841,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 80</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.608929,55.120510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 48</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.614175,55.090448,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 16</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.599461,55.089021,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лейпунского ул., 1</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.615623,55.093203,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 60</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.612887,55.093775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Королева ул., 3</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.615462,55.108087,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маркса пр-т, 92</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611515,55.121930,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Треугольная пл., 4 ?</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.613682,55.094669,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ляшенко ул., 6Б</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.613467,55.106955,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ляшенко ул., 2</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611401,55.106063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 44</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.614939,55.089618,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лейпунского ул., 4</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.614224,55.092462,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 46/1</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.615866,55.089920,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 36А</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.611202,55.089349,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 18</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.600232,55.089247,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 78</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.608036,55.098205,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленина пр-т, 14</name>
+      <description>ЖКУ ООО (Обнинск)</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1149</styleUrl>
+      <Point>
+        <coordinates>36.598537,55.089155,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

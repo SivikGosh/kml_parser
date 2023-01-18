@@ -1,0 +1,103 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>basovaya_stantsiya_Tele2_MTS_Beeline_Megafon</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-1343-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1343.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1343-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1343.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1343-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1343.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1343-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1343.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1343-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1343.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1343">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1343-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1343-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1343-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1343-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1343-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>связь сервис бс теле 2</name>
+      <description>Дубининская 98</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1343</styleUrl>
+      <Point>
+        <coordinates>37.632068,55.712530,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>БС теле 2 </name>
+      <description>наша зона ответственности 1.5 км, далле аренда чаадаев общая длина 20710</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1343</styleUrl>
+      <Point>
+        <coordinates>37.427408,55.675927,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

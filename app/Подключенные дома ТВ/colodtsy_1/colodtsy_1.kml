@@ -1,0 +1,78 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>colodtsy_1</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="icon-959-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-959-009D57.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-959-009D57.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-959-009D57.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="icon-959-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>НК-67 (Кавказский бульвар)</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/s56mgectboaahi9b1t8n29kpno/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nFLrEvlS3dE6sqHOAhys4wLZ_okjxUpeA9yyegr_HUrZU5uNNsFQ8yJLg1_-8TalPsZOsjnmNbBOi_tZIshn4FiXubiHqEDiTcc8Jg_FAovB7-d5urG4grU4iE-QhmPyFbfr8P3fk7s4nGzJ-QHqxuBqAFvI9dC4YppzgVnDzhege04ZVHQJf_dwSZiJPvXcM4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Атс 325. ТК 67. 55.627039, 37.645730 муфта вест колл&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/7mo2htgl12o3u748jau138mevc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9n1OcQ9BurvRzum7EhPP6JUNIaIhnibfENjzlVLThqf5qk9660-eRMngwYzLMcwF6mYTVcWQdqUL7oRLmaV4PXF8Y2gp9YtbwXPGpZA6iFO8Sk3vik1mmS2xby3FknefyxFDhbe35fb7Dn2OUI1wgAzNSaBgmwtkRMVJRrjfIHyLJjZrQ1eV_ZUuxq5wnAibIE?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.645449,55.627752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк 65</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rtuq9nbplpiq9gdspmr4oblr24/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mSUsWQp93kX0x7ELp4VKz9XvmEVrp5isO0zS-CXnYe1T0K7_Izh7qtazopSQUXrUYy7XrlwYbKoEQtQYuQaec-LMfk_kv97w9DuQmmWFwmKwStAcZKSwrvIIxS4FH3b7p_04wBQON_t5mplakyoR2L0qSGQlPazMqFOUp7AK4GfkIrV6VWRshSe2RuF88MC7BM?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;муфта вестколл</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-959-009D57-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.644880,55.627927,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

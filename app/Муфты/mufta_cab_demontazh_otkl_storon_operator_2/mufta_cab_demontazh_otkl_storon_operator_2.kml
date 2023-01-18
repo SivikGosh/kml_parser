@@ -1,0 +1,369 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufta_cab_demontazh_otkl_storon_operator_2</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-962-F8971B-labelson">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-962-F8971B.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-962-F8971B-labelson-nodesc">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-962-F8971B.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>тк№4 Россошанский пр
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.606790,55.595923,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№42 ул. Россошанская
+</name>
+      <description>примерно около это тк кабель обрезан. возможно под ж/д. Муфту не обследовали</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.614989,55.593352,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№117 ул. Булатниковская
+</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/ibc1c49u92tbqmss7bres3m9ls/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kBeh6zL1pq0m4AudofWCi1qqvMIX_jiY20IgVgmtZUV_MEDVKxva0G1TmseEaY61sdljugraBwd0bk5oWwqxH4XIhmeNjzJTwyKylpYfFJuCf5P4NpF0JWJN5Y_rVgVT1pSVyGPqLqvwZeSOsGlzQETpT4ZrLWZsNomeYW2Cc938TskKG5YjYj6pRAfyBaVF4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.649531,55.580115,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№5 ул. Бирюлёвская
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.672107,55.581345,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№230 ул. Поречная
+</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/6bn57u6ba4cvvd3qrg33f1pouk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mD8C84taZkfXwOlNQfN_-kukTiMits5HOltmFHjqjP3ELeIGSyKTyePq04iu3lvH2a38tEOD_4h1uB-bS7y4LfWxnOJJUcyXtfAM8yEc5HfcyjRWae_FN9CTb0PHt4ePJQ8oImmTpVYDgAbnjJ55toSkIw_0GiHW7LcHRLJ0zodKmHGLJjCBn_78J_rj3_v7Y?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка!!! к тк224  1538м., к тк145 1866м.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.767770,55.651270,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№224 Поречная ул.
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.765878,55.649135,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№161 Поречная ул.
+</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/sdm1l6j8q7v7bjtrfrpvnt72js/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9khWN21-Riu0rbf2eeAMsMfWwYVK9msOUiAbKjiQcnCDRzXTq21gwdTmVPnj6unpvSR_AJ426Jg0xzB4Mwpwwnxgf0vHcNXL4EGHww8VB2lQKAR39_elWbEYRFwgIyKY9QSWq8b0tmh8vzzBCKU4wRFEMR24G1BkL92GLRQbOmxYomI-Gsby4OlGmW5NxXb5x8?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/d7hs0bmdatb6p296bv9407b870/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kSKQB4y6MDfrd6felKiF74vW16UJ12njpQ3ubn37BGJ_YyKH4pk_YjZ9x_z7uzFmjXWIRo3e-KcoiFzJyJywEyZQhtS8N-ZzgPCV0P5-rtliO2OcqHeni1n3tAspAFQ8DssicMLM5jT9zJeFPtR13slf3XB4RnhtKAK6834xn8H07I_lCO7Xpg1zqbKlwwqMU?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/c707fi2kh5s8dsad1999vrl4ok/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nAK7-WxR2LDpAWArdF6HH0hJS-0kfb7lUZKFCNIf-ObHYJWnOQatehqB7VXK5cHo3p5qiiniw9Rxc9Q1lhomWltD8UYGcsi9mdc5HupIGCnvhr8HsdA0tcivXf_-X0Dlq8IrDnULXc_0bY5eVNNd_ywnhJ1AYTyNKq5IXBeN9HxWqMxqqpA_IkYOmDjApcTXA?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/68u72aunireg5baffm3s2js2p4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kD5x9UmUzcYDxzgNhlfdGeAb7jnUV0U32gc6WaBmgdjLG_HVsoS8GBpdlzIlWpVT7xuC5hhBd0gaHkhKtqp1MzAjraDLRVKZT0O9E2k62nrRTn6UpOdCVY4VLQsIx-TYvG14bPx6xxfYIT4mDfEC8uPGwYxsy2rBDorWk5myZ9qzPcXF9kybsNf79nFKqPQtI?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.756875,55.645851,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№133 Поречная ул.
+</name>
+      <description>сигналка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.752031,55.644650,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ттк№201 ул. Артюхиной 
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.737222,55.704547,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№267 ул. чистова
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.734167,55.696106,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№183 Волгоградский пр
+</name>
+      <description>Запас на "демонтированном " кабеле КОМКОР</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.773423,55.704664,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк№1089 Батайский пр-д</name>
+      <description>первые 4 в сторону тк1140 сварены с 59-62 ок64 в сторону тк133</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.740571,55.643205,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк-130 (Булатниковский пр-д)</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/t6ipnf6juhq1dh396ntnmdqr84/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l6Isz867UVxNAN5Tb7kptka_GC_I9FPVsI_vgaeIp3qHGuxff7I5MZO6QaeVqlWqvmfbGz1mAFOzHmzXRgTG_lL3CmnmWJADzhV0fbsu5iDI26kgj8eJR7KzuqY57QlgeE1FtSvkuARuQeCDb9k7OwFRk7EqTCEfr-bgFrZExe8FRXmstlzsRO2DjyAH7P4As?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Тяжелая крышка!!! Кабель обрезан. Запас на муфту.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.659350,55.579762,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тк№1120</name>
+      <description>Проектируемая муфта</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.735077,55.643623,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-333 (Добровольческая ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.668590,55.744717,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-44 (Яузская ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.646625,55.747829,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-18А (Яузская ул. Х Яузский б-р)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.642929,55.750499,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1А (Солянка ул. Х Воспитательный пр-д)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.639281,55.752882,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-73Г (Б. Спасоглинищевский пер.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.637168,55.753882,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-46В (Б. Лубянка ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.630105,55.764482,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-16Д (Рождественка ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.623659,55.765107,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-99Д (Садовая - Сухаревская ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.620945,55.773804,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-86 (Новослободская ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.590553,55.790786,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-62А (Сущевский вал ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.588809,55.792518,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-191 (Нижняя Масловка ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.577903,55.791878,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-16 (Ленинградское ш.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.461495,55.868556,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-160 (Ленинградское ш.)</name>
+      <description>Обрез кабеля</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.465225,55.863082,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-12 (Ленинградское ш.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.491413,55.827447,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-175 (Ленинградское ш.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.451730,55.876748,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-211а (Б. Андроньевская ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.670336,55.745378,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-231 (Николоямская ул.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.655952,55.747283,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-83а (Гончарный пр-д)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.649691,55.739242,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-81 (Арбатская пл-дь)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.600204,55.752312,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-184 (Волоколамское ш.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.453609,55.818504,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-13б (Волоколамское ш.)</name>
+      <description>Запас</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-962-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>37.451537,55.818998,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

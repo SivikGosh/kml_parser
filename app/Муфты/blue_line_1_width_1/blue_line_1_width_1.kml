@@ -1,0 +1,82 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>blue_line_1_width_1</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ок-16 ВКП</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.513035,55.632680,0.000000 37.511499,55.632574,0.000000 37.510576,55.631787,0.000000 37.508629,55.631199,0.000000 37.509176,55.630621,0.000000 37.510152,55.630733,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ОК-16</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.986895,55.658569,0.000000 37.986206,55.659201,0.000000 37.985702,55.659818,0.000000 37.984050,55.660251,0.000000 37.982908,55.659006,0.000000 37.980818,55.659755,0.000000 37.980410,55.659658,0.000000 37.980148,55.659286,0.000000 37.978549,55.659525,0.000000 37.976468,55.660596,0.000000 37.976217,55.661074,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж </name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.987754,55.659008,0.000000 37.988513,55.659367,0.000000 37.988706,55.659894,0.000000 37.989393,55.660220,0.000000 37.990153,55.660509,0.000000 37.990722,55.660603,0.000000 37.992417,55.661199,0.000000 37.994823,55.661063,0.000000 37.995379,55.660811,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

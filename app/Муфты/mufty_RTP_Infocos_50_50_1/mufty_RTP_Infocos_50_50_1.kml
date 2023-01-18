@@ -1,0 +1,490 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_RTP_Infocos_50_50_1</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-000000-labelson">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-000000.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-000000-labelson-nodesc">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-000000.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>ТК-28 (9-я рота ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.712599,55.792470,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-261а (11-я Парковая)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.805194,55.804510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-31 (Трифоновская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.631720,55.789635,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК (Трифоновская ул.)</name>
+      <description>ТК на газоне</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.626956,55.789122,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-12 (Северный б-р)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.601513,55.865378,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-892 (Северныйб-р)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.618942,55.869799,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-279 (Дежнева ул.)</name>
+      <description>15-12-06</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.651718,55.871443,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-153 (Дежнева ул.)</name>
+      <description>15-12-06</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.638238,55.870796,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-138 (Дежнева ул.)</name>
+      <description>15-12-06</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.627557,55.870047,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-122 (Енисейская ул.)</name>
+      <description>15-12-08</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.662227,55.864837,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Подвал (Енисейская ул., д. 5)</name>
+      <description>15-12-08</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.659609,55.858702,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-70 (Щепкина ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.630835,55.785328,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-139 (Сиреневый б-р)</name>
+      <description>16-11-06</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.816540,55.802746,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-27 (15-я Парковая ул.)</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/6b8u1vnouer4fm8soho1a85e38/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lh4hnnQLJNQ8pnF-4odLvG9EUJ3IBUYA93UPhJSgkKVNn4bjbxO_9ENi7yRKnstc98gsk9ODNWA6AUo1NXWhq23nI5k4bG5CuydbnLdZRurAoZDha54HlXGSw5mJTG5iieg4x4i3QhXMeTiTEGjHHA94vcFoWbIk0gfPp5k3ql6QS0TPZj2Bajab_OQsaX7TE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Стык с Чаадаевым</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.819195,55.795902,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-135 (ул. Вешних Вод)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.693561,55.859665,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-26а (Ярославское ш.)</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/c3monjiccomgqevc5vo0864950/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lK9Hm33_wNxECv0eIekG8Z299HpSVPaY-ggwlNJsRJV02aVX33J-KCvhHNrMfX8uSC_q3YhN-PZ4GYnJgKk0057zsaYTQ3Cw00letXIlVs7aufD60fZAzfbJ4PTOOinHKoXJokzsY10AjIYD547O-MJ7JJeedXJMJGaXE8MO2zWQB4zsqjQC4XBv4BE7e91e4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.690326,55.860908,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-59 (Ярославское ш.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.697740,55.864074,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-19 (Федоскинская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.701082,55.869189,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-137 (Минусинская ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.695090,55.872064,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-6 (Изумрудная ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.689704,55.875708,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-247 (Проектируемый пр-д 3453)</name>
+      <description>&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/bcl7opd9vgvpn28ef70qjv51m0/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lk-L1r7SgPS99nxAypH5C7shnPKCu-E61wxIe0uSXputFMQzbkO8xhH1I9w5KSv8szysn4KdTWBusAgkAgklrbIbeFTkUFpfswpWX7oyY4dlcxWjUiWNncPQpibI0vURVVOCt8wN-IY4Gp05dOZWW1p8qLG0qJpfRGUKHow5IMjDdtiV0dCPkx4oCt6jSlWHI?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.694151,55.859291,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-225 (Лазоревый пр-д)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.634370,55.849704,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-16 (Снежная ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.648693,55.853806,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-22 (Снежная ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.652233,55.855862,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-264 (Изумрудная ул.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.684160,55.872390,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-220</name>
+      <description>Муфта после аварии, кто-то перешел по нашему кабелю железку и восстановил кабель.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.695857,55.871982,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-58 (Спартаковский пер.)</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/qd63q7amr2kdelbrhns18sp2bk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nSUv7iGTnNIC83kpl8oOI7IyA89Q6_x0mzzue6wBrfKfjO3YobU8uABB2IFg437PIzO8RwfJaFeLK9F_kPlu7Xejiu_4zv0C79KDGWJotBTK-0_ur-rvOX2Dv7b0DQtM3bwdm9prNkVw0R7kaB2TzX-LJ1ELbVYjrc8fIylc2dEmviKH21IR555vRFgF7aie0?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/h70j77dp0oqf7oar1opig21t7c/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kE3g8YF5okJPDEh7oPIU-BmXd7uSq10IE_6coZzPdt9aTLc6_Cv8EpNeEIri_mJa4Si8cjmbLf3DxSXxQSXnADlje9qoPk3L_8o16FgqM_D-fGHE1ymPHtW6N_vSmNkzEHvAvZezc1uOwnr8SpEZX7C_T2iFngvKFuOFlWHvHjsWKtJ3GqMDM6FuxY65j4EZp6?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/sc095rqmh8rj0l616kk3869iis/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lf3M2yHt5YKw3hYIxf7MrG7sSwlPqGV39XD_KCDYYKDJnFpnhzghUEo10HBJQODJiYNMxqWa08I1Zva0lcVXkKWPoL0poQUCKfkRPI6SFTz0-Fakqq0NmhyM0gMeOJTS-mtlEC8SwE2kMUrjrJy_hAR49H5ko-zilTJHo7blu0brdf7sqTy1mxU897ZYvFhrA?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.678015,55.775008,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-6 (Переведеновский пер.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.683444,55.776972,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-135 (Переведеновский пер.)</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.693577,55.780995,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-197 пр. Буденного
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.721025,55.779005,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>НК8 Киевское ш.
+</name>
+      <description>&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/l4idqcb6a936o66r3ljfno5jag/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mUi1ZqBdBznMGrDEsenMPUTzFZOTuuYaX02c7qJtVVwBA2zHQGNAsOHl5EhOIYJE37JzzFcUOeCvOvtKItLjcnbCFgQw1y1tOyWdtlA9H1LVc4pNDom1JQ3B-xMby_LNRMrEYwiiE5gVEmeVXFIyz6D7q9HK-8Kr4b4V5sX2S8j8sjTuxGrW0UD6LGcHc30FY?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.351674,55.607776,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№152 (1-й Микрорайон)
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.347964,55.605123,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-307 (1-й Микрорайон)
+</name>
+      <description>Инфокос</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <Point>
+        <coordinates>37.347630,55.604509,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д.12 (подвал)
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.348417,55.603258,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№11 ул. Никитская
+</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/aojfg07085q93ntk286oh426ck/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l3pNK66UrD1gp26Hwvhjtfk-ErXciuCdALMsnakIo_ERO5ygwBU1PFs3f1DWp74WrF39k7D9bOJ16udGLxeZuGyFUyMYgXl_J30ZAsKZBYbjpQ5912YiJmzQ-ClAdoIH6CDVnirdT4LAalnnK_6CDU8mNRWfN-AURxsUJ00G13FxyzJ2LzIhdFFvORRe-WmO0?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;муфта под развитие на Щелковское ш.&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/lamruan2h60rmr1e7adqkmjgoo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mazX23kyrx_bFjzZydBtDkMashCviB1lZKeYly9woTJtCTrjtylLPFd9mg0lvzhaSz-7bQv0I54PYSDmrWFabwGjOJnw2BKAkX1VSShAKCDSZwEXL-YCT4S8Z_OBftZBKD9v4wpCyiEGVAxCmYJwBh6Qg08gumgzWER3A2GcfH5PDh-5oPYhc9jmPF_DAG6a0?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.775184,55.795282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№121 (Измайловское ш)</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/nbcokd86cilju8pl3kl8nv7qd4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mWpQckyYHDzD8lXBnWQLUeMNmGQg6OrqMFhupmEw1EOG80WvSLhaGHOt4u9RLUlm_p_t0bAusi2qmVgUrkwQki_pJMBjqNNBEfZFQ3G3DrUq4bmCNJTjugSiunQqcOGhSfO2wbsVYJ21_Qneobfqcyvm0htQ-lRAi6JXhz-m7eLE4ML6VWC8L-dTkzk9hukpw?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.737297,55.780500,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№122 (Измайловское ш)</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/hg19vamve3qql359p9nvlqtejo/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lSMhgnWL5fCDqXgzsVMSJYO2afatQ8mddaMbpl3XTK69EytDVqzfZSM6DZpBHbEZqgjLN8PqqYYGqJSvrEy01CFLj8ydMv5IaVFUnY8wcgcCcpc82tbTGke_QyQ3E1dMxLmtNBdeBqrcVjRxFbjXMlp5nQLa3ZBaTZvyEdonPXOIU2KY0Ja72ChYdRu5kipVo?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.739301,55.780898,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-б/н слева от тк-252 (Трифоновская ул.)</name>
+      <description>&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/66vdv2ol23ctposed0kpcaac5s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9ngm8MxnuuNac12FlhuGaBpHUnQEOxBm-RAbKblEYtscKwdwOMe0RugEfL-18aj1t0c-4ZwhvIPp7zIZkwKfQIu1Yp7yHqsAjytuGuqpAG6nff6yW3lHznbZnbeyGU69IyD4cqZxUq6y3apehPpkPajaUeKORFLK3HdFPuZ5SNCMgUUP-kQRS4rpN3afvrCwJc?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.620059,55.788768,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№179б Окружной пр
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.743600,55.785900,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№140 Измайловское шоссе
+</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/i09g27l8vqv7neu9700g0h09t8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mzjTEqPbNrUPiEVG-sX2iMUeZ4khQx4mj8KWwKGy3NOo8PsYfDT01bUnRRD5C0AFbXipbPjYgg2lsGHJyj8aJurisBZSnjgxnH8-tXOWWVHlhas1Bbr37yYuOckeRp0iMM0bqDZpia781CfezJdQETcpr2h3YJLB6JSE6ouQK6v32tPzE-phu0wwRTSJtbKl0?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.747894,55.787929,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№287 Измайловское шоссе
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.754361,55.788214,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№163а ул. Первомайская
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.767178,55.789250,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№119 Измайловский б-р
+</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/pf5jjkvrk5dppmlki9sht77q8s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nQr7HevyTDx4ULbJXIdD-I4cYsDviQ2IBB9i4f3ZySUeaoLLn54Zx9s8kRy_Ipqrn2OpsAVWsKdpAJGT2b9OBdGIeLHvOimj8z6d0W4TSxeBXYeqrgd3VdMC2AaVNcKG52ird4wEVm8sZC50mrp9t0WWsEeCbp-jFzlBcOeD4NTo1uJQEySzC5Dsc9250em-U?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.785530,55.796334,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-22 Измайловский б-р
+</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/b6auh9ocjcds5l2tff3bcuuldc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mlLk5M9fDiFXhs6FODKmPLOT7W8n9iH9rVPynFWFo7V2yW7-soSgge0sqkbOnAsvKydX1Bysvjo-UiLmF1I6VOxHcQJV1D5lwFd_xzsgW3K1oJB3G3WtQGXVkESZNl59FywZf2EQZHPZh9rEmPYwsdlMcT8EFryrSAu7nwXZAyYDB9IhgGRI052YJORtlLdv8r?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.798284,55.796513,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тк№136 ср. Первомайская ул.
+</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rfv77fg71fnv504krk98tcft84/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9l4qdGIzcPNcyIY98p0L6L3jPt4A_8r8ojgpWaUD9pcHFt5-YWO0Perwg5Aj9fu9pV1hfi4QKReXilqciyUQkaxuVzL386x2loM6NQrciFfZTllfRnNxDorOalObry3Z0Yw-PLQ7BKuDoUFXCGJbuhS02gGCyPcfqrAjLoKpL11JfLfSj2ZubZztwZG2OxvL-I?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;тяжелая крышка</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-000000-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.810104,55.795073,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

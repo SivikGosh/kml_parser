@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>violet_line_8_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7C3592-7006-normal">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>7.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-7C3592-7006-highlight">
+      <LineStyle>
+        <color>ff92357c</color>
+        <width>10.509</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-7C3592-7006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7C3592-7006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7C3592-7006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>19-01-02</name>
+      <description>кабель в кол-ре обрезан L-120.0 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-7C3592-7006</styleUrl>
+      <LineString>
+        <coordinates>37.716460,55.751287,0.000000 37.716280,55.751619,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,151 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>uzly_svyazi_1</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-960-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-960-62AF44.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-960-62AF44.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-62AF44-nodesc-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-960-62AF44.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-62AF44-nodesc-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-960-62AF44.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-62AF44-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-62AF44-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-62AF44-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Чистяковой 2</name>
+      <description>Голова на трехгорке</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <Point>
+        <coordinates>37.331275,55.695822,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лихачевское ш. 74, к.1, 4 под., тех. этаж.</name>
+      <description>Ключ от ГС в нашей диспетчерской! В диспетчерской ПИК ключ не подходит.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <Point>
+        <coordinates>37.497003,55.935326,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Челобитьевское, ш. 12, к.5, 1п. тех этаж</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.548091,55.912407,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Молодежная ул., д.50</name>
+      <description>&lt;img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/bebp85pue8ftcg72apv2tpdt1c/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kmrKH71Kw86gTQdx1sRKoWVXcCs5Gp88B4oleLeHNyeZ-MZZGDEcUHPtLaQVv7NVDbny97uq9p8CsUpVPrNL4z1aTw2nul3urGcSNzLTQybSFH2FrNe7FwTxelgR-pkOrn4PxceIkOYnB-ek4IkVCHJO8R_DwZr4GkMbD5vtI-7cKHVirqgIW08tXH8f5dE0qp?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.401071,55.899129,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Панфилова ул., д.1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.426912,55.886601,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Химки, Совхозная ул., д.8</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.482449,55.900013,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красногорск Ген. Белобородова, 7/2</name>
+      <description>&lt;img src="https://doc-00-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/paj2kf2b2chggtdv6c2hm0jtlc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9kk6evdDMyHWCK5unU6sUwfjapF24GHUOpj4Ti3uH2xmRngauKSVQ6NBuNDAqmd5W1Ui8RkklbzDO5ysU30TmhJwmvMEVld1XhGnntg70ozrdICSh9n02HCxb1YZef9Spq-2iIjkSnPb9UslOt4Z9ZNMqBB-ATbp1Gv71SGdqkQFvdy2pVVTr8ktY630ceW_TY?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Электрощитовая с торца, ключи в Ассоциация товариществ собственников жилья Митинский оазис Эик, так же с торца</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-960-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.354256,55.838136,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

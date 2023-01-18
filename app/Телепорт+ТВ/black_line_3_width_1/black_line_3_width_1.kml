@@ -1,0 +1,75 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_3_width_1</name>
+    <description>Телепорт+ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-1200-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1200-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Борисова,14к2- Победы,3</name>
+      <description>Телепорт-13 ОК16</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200</styleUrl>
+      <LineString>
+        <coordinates>37.456857,56.011492,0.000000 37.457141,56.011495,0.000000 37.458026,56.011714,0.000000 37.458037,56.011861,0.000000 37.458686,56.011864,0.000000 37.459309,56.012932,0.000000 37.458719,56.013034,0.000000 37.458792,56.013166,0.000000 37.467622,56.011351,0.000000 37.467048,56.010440,0.000000 37.466617,56.010385,0.000000 37.466564,56.010371,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Борисова,14к2 -Победы,3</name>
+      <description>Телепорт-13, ОК16</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1200</styleUrl>
+      <LineString>
+        <coordinates>37.466429,56.010076,0.000000 37.466470,56.010062,0.000000 37.466940,56.008809,0.000000 37.467180,56.008750,0.000000 37.467765,56.007325,0.000000 37.469889,56.007617,0.000000 37.469948,56.007479,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

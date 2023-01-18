@@ -1,0 +1,74 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>green_line_3_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-009D57-4488-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>4.488</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-4488-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>6.732</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-4488-nodesc-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>4.488</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-009D57-4488-nodesc-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>6.732</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-009D57-4488">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-4488-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-4488-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-009D57-4488-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-4488-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-4488-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Авиател-ЦГС</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-4488-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.636678,55.729487,0.000000 37.636571,55.729494,0.000000 37.637000,55.728279,0.000000 37.636512,55.728113,0.000000 37.636238,55.728234,0.000000 37.635552,55.728225,0.000000 37.635589,55.728134,0.000000 37.634946,55.728122,0.000000 37.634962,55.728189,0.000000 37.634495,55.728171,0.000000 37.634490,55.728313,0.000000 37.628782,55.727153,0.000000 37.628594,55.727011,0.000000 37.625509,55.726675,0.000000 37.625209,55.726715,0.000000 37.627028,55.723062,0.000000 37.627473,55.721959,0.000000 37.627194,55.721364,0.000000 37.627178,55.721228,0.000000 37.625611,55.721113,0.000000 37.625568,55.721246,0.000000 37.622575,55.721029,0.000000 37.621856,55.721059,0.000000 37.621835,55.720781,0.000000 37.618230,55.720292,0.000000 37.615558,55.719983,0.000000 37.614196,55.720968,0.000000 37.609872,55.721337,0.000000 37.609229,55.719627,0.000000 37.603220,55.720751,0.000000 37.601429,55.721059,0.000000 37.599583,55.719403,0.000000 37.601868,55.718826,0.000000 37.601763,55.718633,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>22-12-01, Тверская ул., д. 13 - Пушечная ул., д. 6</name>
+      <description>ФХУ мэрии</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-4488</styleUrl>
+      <LineString>
+        <coordinates>37.609152,55.761169,0.000000 37.609216,55.761114,0.000000 37.609570,55.761232,0.000000 37.610632,55.760151,0.000000 37.611598,55.759167,0.000000 37.612236,55.759500,0.000000 37.615256,55.760577,0.000000 37.616319,55.760909,0.000000 37.618252,55.761644,0.000000 37.618451,55.761419,0.000000 37.620028,55.761645,0.000000 37.620196,55.761740,0.000000 37.620382,55.761796,0.000000 37.623493,55.762225,0.000000 37.623560,55.760688,0.000000 37.623407,55.760703,0.000000 37.623365,55.760687,0.000000 37.623327,55.760660,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

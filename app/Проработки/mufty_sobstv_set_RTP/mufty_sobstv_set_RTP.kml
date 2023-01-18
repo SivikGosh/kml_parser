@@ -1,0 +1,172 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_sobstv_set_RTP</name>
+    <description>Проработки</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-009D57-labelson-nodesc">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-009D57-nodesc-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-009D57-nodesc-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-009D57.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-009D57-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ТК-1623 (Б.Тишинский пер.)</name>
+      <description>&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/pthdnhc2g57nbcghvo0kglqe8c/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mk45SUSJ_e38Mfyb4WnZdM7mke2Rp_yySVAx-MTBLse-1dK-RAcXJ9ECYHN5dAA1hlvbbBjptwbtToW_CAZtJ2u6xM1ix9Ghg7vov2tGHBjILqeeuMj7yQU2JEExLI6CZjx4lYPDgcfFenaETUaxfPbK8Y6YXEDiMwFHe4w5W4_KdmcmVBAoDScb6LjeTxMR4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.568197,55.769338,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-2</name>
+      <description>55.699386, 37.641304</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.641294,55.699347,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-1</name>
+      <description>55.699176, 37.642168</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.642173,55.699177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-4</name>
+      <description>55.699637, 37.639794</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.639788,55.699638,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ТК-3</name>
+      <description>55.699462, 37.640716</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <Point>
+        <coordinates>37.640748,55.699459,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>тесла тел</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/9dvpel0d22ersn62curatipu6o/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mBSustBovkZMzkDw-waPnh_LUB7GSirycCDNlZhqquVf14BdFTXCJuRZOjZlZ03oYV5F9YnOk9dsk_TptrMEnbz3Aa31AQw16Ls3PvhDHAy7AxtvTjceVAB8Eb6UjMPVpIrHnmdPXrjRWEFJwzyKoKKd5tX3oZ6sGU6jYG3WN8bv1tTpKhUCTmf1NIgWGju28?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;проект прокладки кабеля</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.991461,55.687778,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

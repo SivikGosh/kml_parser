@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>green_line_4_width_1</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-62AF44-1200-normal">
+      <LineStyle>
+        <color>ff44af62</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-62AF44-1200-highlight">
+      <LineStyle>
+        <color>ff44af62</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-62AF44-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-62AF44-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-62AF44-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>20-09-07</name>
+      <description>резерв</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-62AF44-1200</styleUrl>
+      <LineString>
+        <coordinates>37.561324,55.539742,0.000000 37.561160,55.539695,0.000000 37.560528,55.539307,0.000000 37.559632,55.538875,0.000000 37.558875,55.538553,0.000000 37.557296,55.537688,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

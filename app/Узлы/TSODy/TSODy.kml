@@ -1,0 +1,721 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TSODy</name>
+    <description>Узлы</description>
+    <visibility>1</visibility>
+    <Style id="icon-1337-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1337.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1337-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1337.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1337-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1337.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1337-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1337.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1337-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-1337.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1337">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1337-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1337-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1337-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1337-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1337-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ЦОД ММТС-9, М9, М9-plus</name>
+      <description>ул. Бутлерова 7</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.528578,55.652738,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД SafeData 1</name>
+      <description>Остаповский пр-д., д.22, стр.13            Достройка от ТК-45 (Волгоградский пр.) до вводного - 1900 м&lt;br&gt;Ввод кабеля:&lt;br&gt;Инстал – нет&lt;br&gt;Ежемесячные – нет&lt;br&gt;Нужен проект достройки до вводного колодца согласованный в МГТС&lt;br&gt;Размещение юнита&lt;br&gt;Инстал – 2000р. без НДС&lt;br&gt;Ежемесячные – 3000р. без НДС&lt;br&gt;Оптические кроссировки:&lt;br&gt;- межмодульная протяжка (считается 3,4 или 2,1) 11088 руб. в месяц &lt;br&gt;- стоимость протяжки внутри модуля стоимость аренды протяжки внутри модуля 5544 руб. в месяц с НДС.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.713248,55.716977,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Oxygen</name>
+      <description>Волгоградский пр-т, д.42, к.9                                  Ввод кабеля&lt;br&gt;Инсталляция - 80 000 рублей&lt;br&gt;Ежемесячно - 45 000 рублей&lt;br&gt;Без НДС. &lt;br&gt;&lt;br&gt;Кроссировки медные&lt;br&gt;Инсталляция - 13 500 рублей&lt;br&gt;Ежемесячно - 75 000 рублей&lt;br&gt;Без НДС.&lt;br&gt;&lt;br&gt;Кроссировки оптические за 1 ОВ&lt;br&gt;Инсталляция - 20 500 рублей&lt;br&gt;Ежемесячно - 15 000 рублей&lt;br&gt;Без НДС.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.714903,55.707700,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД "DataPro"</name>
+      <description>ул.Авиамоторная,д.69.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.721047,55.736379,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД "DataLine" OST</name>
+      <description>Боровая ул., 7, стр. 10</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.715798,55.770505,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-МР4-Марьина Роща</name>
+      <description>17-й пр-д Марьиной Рощи, д. 4, корп. 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.612220,55.808994,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД "DataLine" NORD, NORD4</name>
+      <description>Коровинское шоссе, 41</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.513433,55.886663,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IXcellerate Moscow One</name>
+      <description>Алтуфьевское шоссе, дом 33Г</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.577389,55.862438,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Техно Город</name>
+      <description>Москва, 3-й проезд Марьиной Рощи, д. 40, стр. 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.609328,55.797894,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Крок</name>
+      <description>ул. Волочаевская, д.5, к.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.702755,55.763899,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ТрастИнфо</name>
+      <description>Варшавское ш., д.125, стр.16</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.621987,55.623102,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД LinxDataCenter</name>
+      <description>ул. 8 Марта, д.14, стр.1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.551616,55.805412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Selectel «Берзарина»</name>
+      <description>ул. Берзарина, д. 36, стр. 3</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.466977,55.791114,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дата-центр Москва-III, компания РТК ЦОД</name>
+      <description>площадь Академика Курчатова, д.1, стр.15 Предложение ЛОВИТЕЛ по аренде 1ОВ от существующего стыка в ТК-117 ул. Расплетина до ДЦ Safedata2 пл. Академика Курчатова д.1 стр.119.&lt;br&gt;Инстала - нет &lt;br&gt;Ежемесячно - 10000 без НДС / 1 ОВ&lt;br&gt;Расстояние - 1,8 км(примерно).&lt;br&gt;Кроссировки в ЦОД:&lt;br&gt;Инстал – 7000 без НДС&lt;br&gt;Ежемесячно – 7000 без НДС</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.468181,55.794910,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-Б17-"Бутлерова"</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.540971,55.648351,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-БА81-Б.Академическая</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.544867,55.839344,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-БМ1-Шарапово</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.165606,55.580425,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-БП54-Большая Полянка</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.621054,55.730772,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-М8-8 марта</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.556782,55.801691,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-Н10-Напрудный</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.631391,55.788139,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-НР26-Новорязанская</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.666384,55.771685,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-П6-Правобережная</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.454602,55.882083,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-СА107-Сынково</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.591216,55.340684,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-СК19-Садово-Кудринская</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.587675,55.765008,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-У8-Угрешский</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.697547,55.711953,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД 3data-Э2-Энтузиастов</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.722975,55.751218,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ColoCAT Кунцево</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.401920,55.734734,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Datacheap.ru</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.688953,55.712713,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД DataPlanet</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.259609,55.980410,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД DataPro Moscow II</name>
+      <description>г. Химки, 74 км МКАД, владение 3</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.433536,55.879461,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ESTT</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.594108,55.889098,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД GreenBushDC</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.156402,56.004395,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД IT Energy Китай-город</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.635319,55.751734,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД IXcellerate Moscow Two</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.580228,55.862786,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД MasterHost</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.606305,55.824174,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Metrex</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.571345,55.778291,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД MTW Бункер</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.795763,55.902873,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД NeoCommunications</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.598066,55.664057,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД PlanetaHost</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.689779,55.780606,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД RackStore-R1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.533625,55.655189,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД RU VDS RuCloud</name>
+      <description>Пионерская 4</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.806031,55.913623,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД StackTelecom M1</name>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337-nodesc</styleUrl>
+      <Point>
+        <coordinates>37.618803,55.625255,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД StoreData</name>
+      <description>ул. Нижегородская, дом 32, стр. А</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.693261,55.736745,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД TEL Hosting</name>
+      <description>ул. Электрозаводская, д. 24</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.707940,55.789031,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Web Data Center</name>
+      <description>Нагорное ш., 2, корп. 1, Химки</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.405839,55.894649,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Акадо Телеком</name>
+      <description>Москва, Варшавское шоссе, д. 133</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.607905,55.604177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД БСХ М2</name>
+      <description>ул. Зоологическая, 2</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.580235,55.765570,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД КРОК "Волочаевская-1,2"</name>
+      <description>ул. Волочаевская д.5 корп. 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.681113,55.753859,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД КРОК "Компрессор"</name>
+      <description>ул. 2-я Энтузиастов д.5 корп 6</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.734692,55.748736,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МакомНет</name>
+      <description>Проспект Мира, дом 41</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.633081,55.781298,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ММТС-5</name>
+      <description>Гончарная ул., д. 30</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.649434,55.742439,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МногоБайт DC1</name>
+      <description>ул. Тушинская, дом 12</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.448160,55.827066,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МногоБайт DC3</name>
+      <description>Магистральный 1-й тупик, д. 11</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.526009,55.766350,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МногоБайт SkyDC</name>
+      <description>г.Химки, ул.Ленинградская, владение 39c6</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.414729,55.908432,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МТС Авантаж</name>
+      <description>55.567927, 37.956597&lt;br&gt;МО, г. Лыткарино,д.г. ЗИЛ строение 60</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.958198,55.567896,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД МТС Дорожный</name>
+      <description>1-й Дорожный пр., 3</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.617926,55.615310,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ОКБ Прогресс</name>
+      <description>Талалихина ул, дом 41, стр. 8</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.687577,55.727758,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Пласинфо Подкопаевский</name>
+      <description>Подкопаевский пер. дом 7с1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.642389,55.754081,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД РЕКОНН</name>
+      <description>Научный проезд, д. 20, Технопарк «Слава»</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.552551,55.653790,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Ростелеком М10</name>
+      <description>ул. Сущевский вал, 26</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.607507,55.792436,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД РТК Москва 1</name>
+      <description>Остаповский проезд 22 стр. 16 и 22 стр. 13</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.712983,55.716940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД РТК Москва 1</name>
+      <description>&lt;img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/4b038lqs4dft4a0rbt5ep3f4fk/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lZuAVkfP_65Djc2koMTJ6IsVgt87CDYmPi37f4pzHT2nJvUKLbKQ5aa6liolf78TLCIV8QTJsetjbTDvmNzY82juyqM40mrmAZ3VqGI6s1HkINiIQV2iKMQaE5YL2KUnGSnajhbvQqrFtGOYnG6YVFoPfnjG1_P098CivfIsxACgn46otWFbVZ7JVvnWAmINE?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Остаповский проезд 22 стр. 16 и 22 стр. 13, наш кросс РТП (F-1-69)&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/5qmuhpjc7ktgdsuoobg3cikk1s/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lIyYDqRma8B-PYk7EnBZDZNGcDICJJwsZQEAVgXksLAfOETFzOf8kRQkOwyIP4O-M1AlFI4mxJ26rbdTIhVB0IE2cDNiWifVL3Grc2wFi2GzOgqR1YAzhNSt8WUk6fAcyZqNrn6afAyaiozYFwhG1DvI1yp9Ar9SvQMgxvLaVDzhNd4QwyNCDjvJB3wZYYx3A?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.712875,55.717711,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД РТК Москва 2</name>
+      <description>пл. Академика Курчатова, д.1, стр.119</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.467788,55.794509,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД СВС Славянский</name>
+      <description>ул. Давыдковская, д.3</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.479943,55.727510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД СТК</name>
+      <description>г.Мытищи, ул.Мира, д.32А</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.724035,55.919544,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Тех.ру Нагатинский</name>
+      <description>ул. Нагатинская, 16к1с2</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.645115,55.678152,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Тех.ру Ярославский</name>
+      <description>ул. Ярославская, 13А</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.643870,55.819595,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ТехноГород</name>
+      <description>3-й пр-д Марьиной Рощи, д. 40, стр. 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.611522,55.796821,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ТМК-Телехаус</name>
+      <description>Москва, ул. Тестовская, д.10</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.532638,55.752029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД ТТЦ Останкино</name>
+      <description>1-я Останкинская ул., д. 1, стр. 1</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.606660,55.824177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Филанко Медная Фольга</name>
+      <description>Электролитный пр., д.3, стр.1.</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.615498,55.674572,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Хостинговые телесистемы</name>
+      <description>ул. Павловская, д.27/29</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.627632,55.712670,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЦОД Электронная Москва, Нагорная</name>
+      <description>Москва, Электролитный проезд, дом 3, строение 4</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-1337</styleUrl>
+      <Point>
+        <coordinates>37.618928,55.676550,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,83 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>green_line_1_width_1</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-009D57-1200-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-1200-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-009D57-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-009D57-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-009D57-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-009D57-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-009D57-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-009D57-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Трасса </name>
+      <description>Непроходы, стройка остановлена</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200</styleUrl>
+      <LineString>
+        <coordinates>37.657163,55.600890,0.000000 37.657362,55.599338,0.000000 37.658495,55.596741,0.000000 37.658999,55.596817,0.000000 37.658820,55.597179,0.000000 37.660123,55.597373,0.000000 37.659724,55.598147,0.000000 37.661204,55.598344,0.000000 37.662753,55.598088,0.000000 37.662902,55.600386,0.000000 37.663138,55.601598,0.000000 37.663502,55.601683,0.000000 37.670196,55.601745,0.000000 37.670153,55.601852,0.000000 37.669346,55.603875,0.000000 37.669115,55.604163,0.000000 37.666604,55.606653,0.000000 37.665934,55.607559,0.000000 37.665744,55.607851,0.000000 37.663741,55.608141,0.000000 37.667474,55.610183,0.000000 37.668022,55.610413,0.000000 37.669502,55.610213,0.000000 37.669813,55.610807,0.000000 37.669556,55.611401,0.000000 37.669663,55.611603,0.000000 37.674083,55.614450,0.000000 37.674317,55.614762,0.000000 37.674327,55.615956,0.000000 37.673276,55.616598,0.000000 37.673340,55.616871,0.000000 37.673351,55.617180,0.000000 37.672429,55.618246,0.000000 37.671930,55.619034,0.000000 37.672176,55.619446,0.000000 37.672507,55.619794,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>тк182-Ленская, д.8 к.2</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.674676,55.865584,0.000000 37.673314,55.865692,0.000000 37.668185,55.866445,0.000000 37.667027,55.866631,0.000000 37.667220,55.867041,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>тк182-тк712</name>
+      <description>ОК-32</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-009D57-1200</styleUrl>
+      <LineString>
+        <coordinates>37.674748,55.865595,0.000000 37.673357,55.865638,0.000000 37.673217,55.864801,0.000000 37.672501,55.864846,0.000000 37.672160,55.863507,0.000000 37.670833,55.863486,0.000000 37.670852,55.863805,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

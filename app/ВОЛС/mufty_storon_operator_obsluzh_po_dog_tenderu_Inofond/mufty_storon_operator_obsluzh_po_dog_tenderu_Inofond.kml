@@ -1,0 +1,95 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mufty_storon_operator_obsluzh_po_dog_tenderu_Inofond</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="icon-503-93D7E8-normal">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-93D7E8.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-93D7E8-highlight">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-93D7E8.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-93D7E8-labelson">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>/home/sivikgosh/Рабочий стол/kml/kml_to_qgis/app/pictograms/icon-503-93D7E8.png</href>
+        </Icon>
+        <hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <StyleMap id="icon-503-93D7E8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-93D7E8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-93D7E8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>муфта цб рф 55 км калужского шоссе М1</name>
+      <description>&lt;img src="https://doc-10-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/h0tagg724pbue3j4b81j8a6ugc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9lOQVlJOt-vtvyc846D84aMqdaYvE2Kefx7Xv_JQlvN4hnrIlmCNsndEAs9gqBGfAAPgJZHBggKkwIpiD1JuByANF1l4CWqyUc2yA7UbdriEp-H5RmU9YVR5mzBQQ5TDd8NXIGHw_Ntj_0g6ZG8XsXAAO-_qlBtzEjz3Csl5yhARjFjY_2C8UdcqtnODHWug9A?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;муфта цб 55.374370, 37.209152&lt;br&gt;&lt;br&gt;&lt;img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/4jjhfumkf09qiu3p5vt4hd2tcc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nTZcSF6BLEajRCzpvavBnsKe22rmQN9_Volf4wyv89L3Vk-751KTttlQvoqVr-2Uqpl-bEGvQnsNikDgy56aCL4QY8TP-qNrsKvE5Z5L8Nyd9V-ac5GGwornRo1Rq9T1IMTSwWSvYXq870yhqK--IsyYXyRFEUgLwwcRP9nkr_Da7FXbA8117M00oF2o6w-68?session=0&amp;fife" height="200" width="auto" /&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.209152,55.374370,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>муфта ЦБ РФ в поле трасса 55 км калужского шоссе</name>
+      <description>&lt;img src="https://doc-08-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/mkl5o1s6d5db4jt7ng8lj4bcj4/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9ldfONtzce4Qb2GaVJo1abIyvsRakOmIHw0ckIhbNuAg7rGGf0skoH1wfLYpmz-B6YFNqvIK_mM59okwPmHS5XK6WoZ-_T8ssjw7a0riEDKoxG8p1yPfRV8LjoIvRbu0mXlMxXEPH1ILYcGwbw2AWfBnVw4ONCWvusbr8sXAdAVswEi4kP1lnwPGbkK1oKhmWYQ?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;55.3749670, 37.2095340</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.209534,55.374967,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Муфта на опоре</name>
+      <description>&lt;img src="https://doc-0c-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/e7us260mn2equcojo6v1494rtc/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mIZrfI74ASNCOnNRaqpNtnKh4cHckcGSbD6KIjZkkl0oGCstBGUl0SgssASI3ftoTT2-Jm1yHtAYPb51YVXiEatVZ9uccB1TMMZbWnYf7i4TxUgl1wflTap01fUQ4NriwEDNN5TOddhFIFe3PWQmlcgWpl-UWSO96NZ5b19cHkoDkPNnzoI8JuQZqS2yw4x2PB?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Связь сервис</description>
+      <visibility>1</visibility>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.817271,55.656649,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
