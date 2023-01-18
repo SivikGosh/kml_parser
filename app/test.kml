@@ -61,10 +61,16 @@
                 <styleUrl>#icon-503-009D57-highlight</styleUrl>
             </Pair>
         </StyleMap>
-        <Style id="line-000000-1000-normal">
+        <Style id="line-000000-1000-highlight">
             <LineStyle>
                 <color>ff000000</color>
-                <width></width>
+                <width>1</width>
+            </LineStyle>
+        </Style>
+        <Style id="line-000000-1200-highlight">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>1.2</width>
             </LineStyle>
         </Style>
         <StyleMap id="line-000000-1000">

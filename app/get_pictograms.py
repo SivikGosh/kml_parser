@@ -16,6 +16,7 @@ def get_soup_file(directory):
         souped_file = BeautifulSoup(f, 'xml')
     return souped_file
 
+
 # объект супа, его импортируем везде
 soup = get_soup_file(base_dir)
 

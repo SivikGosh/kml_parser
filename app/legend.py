@@ -166,5 +166,4 @@ def get_icon_legend(dictionary, icon_name):
     """получаем легенду иконки"""
     return dictionary[icon_name]
 
-
 # print(get_icon_name(icons, '#icon-503-009D57', icons_legend))

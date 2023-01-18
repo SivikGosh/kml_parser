@@ -370,4 +370,4 @@ def get_icon_legend(dictionary, icon_name):
     return dictionary[icon_name]
 
 
-print(get_icon_name(icons_png, '#icon-503-009D57', icons_legend))
+# print(get_icon_name(icons_png, '#icon-503-009D57', icons_legend))

@@ -8,10 +8,8 @@ from fastkml.geometry import Geometry
 from get_pictograms import base_dir, soup
 from progress.bar import PixelBar
 from pygeoif import LineString, Point
-import requests
-from legend import legend
+# import requestsсприн
 from time import sleep
-
 
 
 def get_placemark_styles(folder_object):
@@ -184,9 +182,15 @@ if __name__ == '__main__':
             # если иконка, то просто айди стиля
 
             if 'icon' in style:
-                file_name = soup.find('Style').attrs['id'].text
+                file_name = re.search(
+                    '(icon-[0-9]{3,4}-[0-9A-F]{6}|icon-[0-9]{3,4})', style
+                ).group(0)
             else:
-                file_name = soup.find('Style', id=f'{style}-normal').find('width').text
+                width = (
+                    soup.find('Style', id=f'{style}-highlight')
+                    .find('width').text
+                )
+                file_name = f'{style}_{width}'
 
             # переименовать папку, доб в назв ширину линии, если line
 
@@ -195,7 +199,7 @@ if __name__ == '__main__':
 
             #
 
-            os.chdir(style)
+            os.chdir(file_name)
             kml_object = kml.KML()
             style_objects = add_styles(soup, style, base_dir, folder)
             style_map_objects = add_style_maps(soup, style)
@@ -221,14 +225,20 @@ if __name__ == '__main__':
                     f'{base_dir}/pictograms/{file_name}.png',
                     f'{file_name}.png'
                 )
-            if len(photos) > 0 and not os.path.isdir('photos'):
-                os.mkdir('photos')
-                os.chdir('photos')
-                for i in range(len(photos)):
-                    photo_url = requests.get(photos[i])
-                    photo_name = f'{style} {i}'
-                    with open(f'{photo_name}.png', 'wb') as ph:
-                        ph.write(photo_url.content)
+
+            # фото нужно парсить без kml
+
+            # if len(photos) > 0 and not os.path.isdir('photos'):
+            #     os.mkdir('photos')
+            #     os.chdir('photos')
+            #     for i in range(len(photos)):
+            #         photo_url = requests.get(photos[i])
+            #         photo_name = f'{style} {i}'
+            #         with open(f'{photo_name}.png', 'wb') as ph:
+            #             ph.write(photo_url.content)
+
+            #
+
                 os.chdir('../')
             os.chdir('../')
             bar.next()
