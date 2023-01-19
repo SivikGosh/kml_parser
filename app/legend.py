@@ -12,7 +12,7 @@ legend = {
     'icon-1199': 'prorabotki_1',
     'icon-1273': 'vyshka_svyazi_RTRS',
     'icon-1337': 'TSODy',
-    'icon-1343': 'basovaya_stantsiya_Tele2_MTS_Beeline_Megafon',
+    'icon-1343': 'bazovaya_stantsiya_Tele2_MTS_Beeline_Megafon',
     'icon-1345': 'neizv_obyekt_1',
     'icon-1349': 'podkl_doma_Infocos_3',
     'icon-503-000000': 'mufty_RTP_Infocos_50_50_1',

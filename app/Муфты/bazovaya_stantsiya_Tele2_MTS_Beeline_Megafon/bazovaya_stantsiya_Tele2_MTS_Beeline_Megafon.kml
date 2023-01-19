@@ -1,7 +1,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>basovaya_stantsiya_Tele2_MTS_Beeline_Megafon</name>
-    <description>Проработки</description>
+    <name>bazovaya_stantsiya_Tele2_MTS_Beeline_Megafon</name>
+    <description>Муфты</description>
     <visibility>1</visibility>
     <Style id="icon-1343-normal">
       <IconStyle>
@@ -82,32 +82,12 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>столб, Образцова д.9
-</name>
-      <description>вышка сотовой</description>
+      <name>БС № 1640 Теле2</name>
+      <description>Связь Сервис</description>
       <visibility>1</visibility>
-      <styleUrl>#icon-1343</styleUrl>
+      <styleUrl>#icon-1343-labelson</styleUrl>
       <Point>
-        <coordinates>37.608980,55.787452,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>столб, Б. Тишинский пер. д.38
-</name>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1343-nodesc</styleUrl>
-      <Point>
-        <coordinates>37.569230,55.769468,0.000000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>столб, Духовской пер, д.17
-</name>
-      <description>Расторгли</description>
-      <visibility>1</visibility>
-      <styleUrl>#icon-1343</styleUrl>
-      <Point>
-        <coordinates>37.613107,55.704598,0.000000</coordinates>
+        <coordinates>37.612873,55.580296,0.000000</coordinates>
       </Point>
     </Placemark>
   </Document>
