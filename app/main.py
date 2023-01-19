@@ -167,7 +167,7 @@ def add_placemarks(folder, placemark_style):
 def get_line_width(soup, place_style):
     all_styles = soup.find_all('Style')
     for style in all_styles:
-        if 'line' in style.attrs['id']:
+        if ('line' in place_style) and (place_style in style.attrs['id']):
             return style.find('width').text
 
 

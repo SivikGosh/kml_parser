@@ -1,0 +1,71 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_2_width_1.2</name>
+    <description>Любтелемонтаж</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-1200-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-1200-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-DB4436-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-DB4436-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-DB4436-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>временная вставка грунт +ВКП</name>
+      <description>&lt;img src="https://doc-0s-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/rt348haollr4k6r1j9ug8vqnao/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9mv7KNea1KVwtZ7ezwiWtWY5fd1oJO_zd2lwrvxLwLiaRQqpk2Lsg6NoxFbRywV3c7n0v4OhKBuzXsJb8MHa92WYii5aO4JU7xACpGXpnFMu6AuMIa32TGnPRzoVbSv5sXxxIGGWoCCWM6yXDDmtGjp-YtEPlwbu9Eu58WJO3JqUGyJJQUT_2s2OUAUhk5YKG8?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;59931м трасса бронированный кабель </description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-1200</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <coordinates>37.176685,55.979321,0.000000 37.176917,55.979221,0.000000 37.176788,55.979078,0.000000 37.176490,55.978942,0.000000 37.176246,55.979072,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

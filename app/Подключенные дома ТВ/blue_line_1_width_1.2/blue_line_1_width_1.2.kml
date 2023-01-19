@@ -1,0 +1,588 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>blue_line_1_width_1.2</name>
+    <description>Подключенные дома ТВ</description>
+    <visibility>1</visibility>
+    <Style id="line-0BA9CC-1200-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-normal">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0BA9CC-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ffcca90b</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0BA9CC-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0BA9CC-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0BA9CC-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Линия 1066</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.727183,55.797379,0.000000 37.727720,55.796712,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1067</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.721121,55.793957,0.000000 37.723159,55.793423,0.000000 37.727386,55.794324,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Вкп ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.716821,55.383302,0.000000 36.717449,55.382751,0.000000 36.718243,55.382019,0.000000 36.716403,55.381334,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.717475,55.382729,0.000000 36.718134,55.383148,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.718134,55.383148,0.000000 36.718966,55.382475,0.000000 36.719255,55.382450,0.000000 36.720334,55.382880,0.000000 36.720328,55.383371,0.000000 36.720511,55.384066,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.720511,55.384066,0.000000 36.722621,55.384892,0.000000 36.723480,55.384791,0.000000 36.723979,55.384450,0.000000 36.724461,55.384544,0.000000 36.724660,55.384904,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.718134,55.383148,0.000000 36.717649,55.383618,0.000000 36.717804,55.384218,0.000000 36.717498,55.384507,0.000000 36.717477,55.384715,0.000000 36.718142,55.385056,0.000000 36.717450,55.385928,0.000000 36.717970,55.386269,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.717970,55.386269,0.000000 36.718432,55.386321,0.000000 36.718630,55.386315,0.000000 36.719081,55.386038,0.000000 36.719612,55.385967,0.000000 36.720009,55.385928,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.717970,55.386269,0.000000 36.717230,55.386903,0.000000 36.717053,55.387159,0.000000 36.717037,55.387436,0.000000 36.716935,55.387589,0.000000 36.716934,55.387878,0.000000 36.717130,55.388174,0.000000 36.717194,55.388302,0.000000 36.717385,55.388425,0.000000 36.717787,55.388594,0.000000 36.718010,55.388389,0.000000 36.718265,55.388200,0.000000 36.718389,55.388018,0.000000 36.718466,55.387633,0.000000 36.719104,55.387569,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719104,55.387569,0.000000 36.719423,55.387708,0.000000 36.719372,55.387839,0.000000 36.719118,55.388137,0.000000 36.718485,55.388588,0.000000 36.718230,55.388728,0.000000 36.718364,55.388863,0.000000 36.718597,55.388959,0.000000 36.718826,55.388898,0.000000 36.719265,55.389082,0.000000 36.719270,55.389067,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК064</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719265,55.389082,0.000000 36.719954,55.388706,0.000000 36.720268,55.388579,0.000000 36.720979,55.388410,0.000000 36.721954,55.388164,0.000000 36.722325,55.387936,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.722325,55.387936,0.000000 36.721673,55.387643,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.722325,55.387936,0.000000 36.723561,55.387533,0.000000 36.723491,55.387370,0.000000 36.723677,55.386591,0.000000 36.722355,55.386000,0.000000 36.721394,55.385756,0.000000 36.720649,55.385507,0.000000 36.719903,55.385145,0.000000 36.719796,55.384460,0.000000 36.720511,55.384066,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719265,55.389082,0.000000 36.719176,55.389702,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719176,55.389702,0.000000 36.719637,55.389443,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719176,55.389702,0.000000 36.719825,55.389958,0.000000 36.719412,55.390631,0.000000 36.718876,55.390793,0.000000 36.718291,55.390857,0.000000 36.717797,55.390601,0.000000 36.718092,55.390400,0.000000 36.719165,55.389700,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725909,55.382143,0.000000 36.725716,55.381577,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725716,55.381577,0.000000 36.725480,55.380906,0.000000 36.725347,55.380539,0.000000 36.725094,55.379883,0.000000 36.724923,55.379549,0.000000 36.724869,55.379209,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-24</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.724869,55.379209,0.000000 36.725318,55.378974,0.000000 36.724711,55.378820,0.000000 36.724588,55.378443,0.000000 36.725151,55.378370,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725151,55.378370,0.000000 36.724947,55.377965,0.000000 36.724373,55.377913,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725151,55.378370,0.000000 36.725108,55.378056,0.000000 36.725747,55.377913,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725747,55.377913,0.000000 36.725774,55.377566,0.000000 36.725178,55.377291,0.000000 36.724137,55.377246,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-24</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725747,55.377913,0.000000 36.726305,55.377855,0.000000 36.726745,55.377843,0.000000 36.726820,55.378148,0.000000 36.727807,55.378657,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.727807,55.378657,0.000000 36.727216,55.379410,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-24</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.727807,55.378657,0.000000 36.728713,55.378541,0.000000 36.729625,55.378532,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729625,55.378532,0.000000 36.729829,55.379214,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729829,55.379214,0.000000 36.730618,55.378315,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729829,55.379214,0.000000 36.729759,55.379410,0.000000 36.730344,55.380037,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.730344,55.380037,0.000000 36.730135,55.380576,0.000000 36.730049,55.380864,0.000000 36.729748,55.381550,0.000000 36.729619,55.381806,0.000000 36.729222,55.382805,0.000000 36.729619,55.383104,0.000000 36.728954,55.383863,0.000000 36.728268,55.383668,0.000000 36.728305,55.383244,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729625,55.378532,0.000000 36.729802,55.378222,0.000000 36.729571,55.377722,0.000000 36.729241,55.377406,0.000000 36.729309,55.377231,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729309,55.377231,0.000000 36.729113,55.376704,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.729309,55.377231,0.000000 36.728351,55.377329,0.000000 36.728126,55.376884,0.000000 36.727300,55.376939,0.000000 36.727139,55.376521,0.000000 36.726935,55.375930,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.726935,55.375930,0.000000 36.726760,55.375136,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.726762,55.375145,0.000000 36.726105,55.375229,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.726762,55.375145,0.000000 36.726606,55.374628,0.000000 36.726590,55.374360,0.000000 36.726499,55.373997,0.000000 36.726649,55.373725,0.000000 36.727465,55.373639,0.000000 36.727996,55.373970,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.727996,55.373970,0.000000 36.728039,55.374420,0.000000 36.727752,55.374601,0.000000 36.727899,55.374935,0.000000 36.728516,55.374997,0.000000 36.728551,55.375494,0.000000 36.727725,55.375752,0.000000 36.727617,55.375888,0.000000 36.726935,55.375930,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.727996,55.373970,0.000000 36.728752,55.374039,0.000000 36.728725,55.373813,0.000000 36.728838,55.373679,0.000000 36.731048,55.373612,0.000000 36.731307,55.373918,0.000000 36.732154,55.373908,0.000000 36.732436,55.373627,0.000000 36.733471,55.373618,0.000000 36.734099,55.373484,0.000000 36.735155,55.374216,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.735155,55.374216,0.000000 36.735198,55.374700,0.000000 36.735976,55.375179,0.000000 36.735885,55.375664,0.000000 36.735172,55.375694,0.000000 36.734681,55.376320,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.734681,55.376320,0.000000 36.733866,55.376418,0.000000 36.733608,55.376851,0.000000 36.733576,55.377278,0.000000 36.733995,55.377905,0.000000 36.733683,55.378326,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733683,55.378326,0.000000 36.733862,55.378881,0.000000 36.733283,55.379877,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-96</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733283,55.379877,0.000000 36.731931,55.379691,0.000000 36.730344,55.380037,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733283,55.379877,0.000000 36.733631,55.380014,0.000000 36.733905,55.380609,0.000000 36.733299,55.380499,0.000000 36.732500,55.380590,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.732500,55.380590,0.000000 36.731840,55.380414,0.000000 36.731260,55.380200,0.000000 36.730344,55.380037,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.732500,55.380590,0.000000 36.732129,55.381395,0.000000 36.730960,55.382184,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-?</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.730681,55.382742,0.000000 36.732162,55.383400,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.725716,55.381577,0.000000 36.726228,55.381490,0.000000 36.727564,55.381517,0.000000 36.727790,55.382056,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.732224,55.375882,0.000000 36.732299,55.375550,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.732299,55.375550,0.000000 36.731296,55.374770,0.000000 36.731335,55.373961,0.000000 36.732137,55.373975,0.000000 36.732534,55.373676,0.000000 36.733432,55.373685,0.000000 36.734007,55.373551,0.000000 36.734353,55.374160,0.000000 36.733639,55.374596,0.000000 36.733039,55.374913,0.000000 36.732305,55.375550,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733628,55.373080,0.000000 36.731965,55.373129,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733628,55.373080,0.000000 36.733430,55.372498,0.000000 36.734320,55.372193,0.000000 36.734588,55.371891,0.000000 36.735575,55.371495,0.000000 36.736455,55.371181,0.000000 36.737195,55.371434,0.000000 36.737410,55.371711,0.000000 36.737415,55.371973,0.000000 36.737265,55.372714,0.000000 36.737040,55.373016,0.000000 36.736224,55.372995,0.000000 36.735709,55.372928,0.000000 36.734486,55.373010,0.000000 36.734147,55.373468,0.000000 36.733648,55.373086,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.734681,55.376320,0.000000 36.735417,55.375762,0.000000 36.736157,55.375723,0.000000 36.736951,55.376320,0.000000 36.736292,55.377378,0.000000 36.735927,55.377009,0.000000 36.735170,55.377036,0.000000 36.734687,55.376318,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.733683,55.378326,0.000000 36.734674,55.377733,0.000000 36.735388,55.377782,0.000000 36.736074,55.377904,0.000000 36.735645,55.378514,0.000000 36.734862,55.378599,0.000000 36.734599,55.378876,0.000000 36.733944,55.378760,0.000000 36.733688,55.378326,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.735155,55.374216,0.000000 36.735220,55.373820,0.000000 36.735451,55.373649,0.000000 36.736288,55.373640,0.000000 36.736803,55.373426,0.000000 36.737242,55.373904,0.000000 36.737334,55.374617,0.000000 36.736642,55.374636,0.000000 36.736003,55.374767,0.000000 36.735159,55.374216,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП ОК-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>36.719104,55.387569,0.000000 36.719396,55.387303,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП</name>
+      <description>кабель Процентнер, собирал Стрельцов</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.558766,55.692393,0.000000 37.558251,55.692689,0.000000 37.554968,55.694352,0.000000 37.551609,55.692423,0.000000 37.548874,55.690845,0.000000 37.546026,55.689227,0.000000 37.543160,55.687370,0.000000 37.545220,55.684691,0.000000 37.546479,55.683105,0.000000 37.547520,55.681354,0.000000 37.548641,55.678482,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ВКП QR</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.548411,55.678447,0.000000 37.547960,55.677274,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ок-16</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.506123,55.625974,0.000000 37.507078,55.626018,0.000000 37.507411,55.627115,0.000000 37.508194,55.627763,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ок-8</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.508194,55.627763,0.000000 37.508237,55.627702,0.000000 37.508752,55.628144,0.000000 37.509932,55.628041,0.000000 37.510801,55.627648,0.000000 37.511230,55.627557,0.000000 37.511574,55.627733,0.000000 37.512668,55.628550,0.000000 37.512807,55.628865,0.000000 37.513172,55.629150,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ок-32</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.508194,55.627763,0.000000 37.508738,55.628226,0.000000 37.508299,55.628614,0.000000 37.509565,55.629631,0.000000 37.510283,55.629899,0.000000 37.510469,55.629958,0.000000 37.510862,55.630064,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ок-64</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.510862,55.630064,0.000000 37.511657,55.630257,0.000000 37.512107,55.631157,0.000000 37.513427,55.632286,0.000000 37.513035,55.632680,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ок-64 ВКП</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.517077,55.632542,0.000000 37.515887,55.633083,0.000000 37.514557,55.632011,0.000000 37.513035,55.632680,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1465</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.723259,55.798530,0.000000 37.719761,55.800653,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Линия 1466</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.719718,55.800484,0.000000 37.719139,55.799833,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ВКП, ёмкость не указана</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.971947,55.695217,0.000000 37.971320,55.695339,0.000000 37.970708,55.695353,0.000000 37.970095,55.695277,0.000000 37.969392,55.695014,0.000000 37.968298,55.694748,0.000000 37.967723,55.694919,0.000000 37.967023,55.694940,0.000000 37.966435,55.694980,0.000000 37.965749,55.694910,0.000000 37.965077,55.694806,0.000000 37.965497,55.693538,0.000000 37.966267,55.693567,0.000000 37.966878,55.693658,0.000000 37.967526,55.693750,0.000000 37.968080,55.693443,0.000000 37.968796,55.693907,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Любтелемонтаж</name>
+      <description>ВКП, ёмкость не указана</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200</styleUrl>
+      <LineString>
+        <coordinates>37.973262,55.691316,0.000000 37.972622,55.691401,0.000000 37.972082,55.691349,0.000000 37.971481,55.691273,0.000000 37.970676,55.691276,0.000000 37.970215,55.691210,0.000000 37.970112,55.692486,0.000000 37.970498,55.692534,0.000000 37.971052,55.692525,0.000000 37.971797,55.692522,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>аренда софт видео воздушки</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-0BA9CC-1200-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.703885,55.907081,0.000000 37.706621,55.907370,0.000000 37.718724,55.902174,0.000000 37.717940,55.900522,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

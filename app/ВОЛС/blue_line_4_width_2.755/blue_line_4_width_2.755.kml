@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>blue_line_4_width_2.755</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-4186F0-2755-nodesc-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>2.755</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-4186F0-2755-nodesc-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>4.1325</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-4186F0-2755-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-4186F0-2755-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-4186F0-2755-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>временный вынос по вкп</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-4186F0-2755-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.176288,55.979086,0.000000 37.176600,55.978933,0.000000 37.176991,55.979158,0.000000 37.176685,55.979321,0.000000 37.176702,55.979410,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

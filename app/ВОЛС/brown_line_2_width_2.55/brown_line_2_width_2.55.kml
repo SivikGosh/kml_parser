@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>brown_line_2_width_2.55</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-795046-2550-normal">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>2.55</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-795046-2550-highlight">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>3.825</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-795046-2550">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-795046-2550-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-795046-2550-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>15-12-08</name>
+      <description>ОК12&lt;br&gt;ДПТСнг- 1х12 (Инфокос) 50\50 с нами</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-795046-2550</styleUrl>
+      <LineString>
+        <coordinates>37.662640,55.869860,0.000000 37.662702,55.869817,0.000000 37.663643,55.869662,0.000000 37.663600,55.868991,0.000000 37.664394,55.868753,0.000000 37.664397,55.868629,0.000000 37.664668,55.868581,0.000000 37.663938,55.867061,0.000000 37.663858,55.866929,0.000000 37.663343,55.867019,0.000000 37.662571,55.865592,0.000000 37.662227,55.864837,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

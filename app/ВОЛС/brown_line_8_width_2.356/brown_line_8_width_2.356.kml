@@ -1,0 +1,275 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>brown_line_8_width_2.356</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-B29189-2356-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>2.356</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-2356-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>3.534</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-B29189-2356-nodesc-normal">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>2.356</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-B29189-2356-nodesc-highlight">
+      <LineStyle>
+        <color>ff8991b2</color>
+        <width>3.534</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-B29189-2356">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-2356-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-2356-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-B29189-2356-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-B29189-2356-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-B29189-2356-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>17-04-18</name>
+      <description>ОК-8&lt;br&gt;650 м&lt;br&gt;ОТД-2х4А-2,7 (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.707374,55.882912,0.000000 37.707160,55.883315,0.000000 37.709890,55.884985,0.000000 37.709724,55.885069,0.000000 37.708812,55.884531,0.000000 37.706382,55.884591,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-04-18</name>
+      <description>ОК-8&lt;br&gt;655 м&lt;br&gt;ОТД-2х4А-2,7 (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.701039,55.884723,0.000000 37.695991,55.884819,0.000000 37.695905,55.881889,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-04-18</name>
+      <description>ОК-8&lt;br&gt;370 м&lt;br&gt;ОТД-2х4А-2,7 (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.695905,55.881889,0.000000 37.695546,55.882006,0.000000 37.694870,55.881538,0.000000 37.693963,55.881957,0.000000 37.694317,55.882178,0.000000 37.694561,55.882051,0.000000 37.694392,55.881943,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>16-07-03</name>
+      <description>ОК-48&lt;br&gt;ДПТС (Инфокос) 50\50 наш</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.805103,55.806195,0.000000 37.805194,55.804510,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-04-18</name>
+      <description>ОК-48&lt;br&gt;СП-48(2)-2,5кН&lt;br&gt;142м. (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.693577,55.859656,0.000000 37.694151,55.859291,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-11-03</name>
+      <description>ОК-96&lt;br&gt;460 м&lt;br&gt;ДПТс нг(А)-HF 96 G.652.D (8*12) (Оформлено на Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.489193,55.678794,0.000000 37.489272,55.678792,0.000000 37.489409,55.678851,0.000000 37.490739,55.678678,0.000000 37.489754,55.678142,0.000000 37.488492,55.677525,0.000000 37.487932,55.677297,0.000000 37.487218,55.677723,0.000000 37.486808,55.677471,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>11-90</name>
+      <description>ОК-8&lt;br&gt;720 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.787878,55.809165,0.000000 37.787972,55.809282,0.000000 37.790320,55.809338,0.000000 37.790314,55.809729,0.000000 37.798076,55.809985,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-12-03</name>
+      <description>ОК-32&lt;br&gt;335 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.785673,55.813177,0.000000 37.786218,55.813181,0.000000 37.786248,55.813096,0.000000 37.787535,55.813105,0.000000 37.787562,55.812494,0.000000 37.787291,55.812491,0.000000 37.787299,55.812016,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>17-12-03</name>
+      <description>ОК-32&lt;br&gt;904 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.785673,55.813177,0.000000 37.785724,55.812442,0.000000 37.785818,55.812437,0.000000 37.785823,55.811467,0.000000 37.785469,55.811464,0.000000 37.785490,55.811167,0.000000 37.785886,55.811177,0.000000 37.785960,55.810370,0.000000 37.785507,55.810361,0.000000 37.785609,55.809582,0.000000 37.790217,55.809728,0.000000 37.790244,55.809379,0.000000 37.790320,55.809338,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-02-02</name>
+      <description>ОК-16&lt;br&gt;1005 м&lt;br&gt;ОКСТМН-10А-02-0,22-16-(2,7) (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.534790,55.605557,0.000000 37.534744,55.605537,0.000000 37.534269,55.605631,0.000000 37.534150,55.605194,0.000000 37.533119,55.603615,0.000000 37.533360,55.603571,0.000000 37.529975,55.598581,0.000000 37.529957,55.598232,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>18-03-05</name>
+      <description>ОК-16&lt;br&gt;630 м&lt;br&gt;ОТД-4х4А-2,7кН (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.749989,55.711616,0.000000 37.749772,55.711552,0.000000 37.750028,55.710896,0.000000 37.748586,55.710491,0.000000 37.748836,55.710152,0.000000 37.747661,55.709884,0.000000 37.747951,55.708213,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>тк№764а - тк№122</name>
+      <description>ОК-64                                                                             участок проложен - зеленая линия (Оформлено на Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.513064,55.671226,0.000000 37.513155,55.671543,0.000000 37.513605,55.671779,0.000000 37.514292,55.671894,0.000000 37.514689,55.671924,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-03-04</name>
+      <description>ОК-? ИД нет линрия зеленая (Оформлено на Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.501491,55.678787,0.000000 37.501534,55.678649,0.000000 37.501716,55.678585,0.000000 37.501743,55.678322,0.000000 37.501657,55.678280,0.000000 37.501196,55.678216,0.000000 37.500724,55.677769,0.000000 37.500016,55.677872,0.000000 37.499699,55.678676,0.000000 37.499479,55.678640,0.000000 37.499120,55.678725,0.000000 37.498787,55.678023,0.000000 37.499216,55.677826,0.000000 37.499206,55.677619,0.000000 37.499549,55.677415,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Русанова д.25 к.1</name>
+      <description>ОК-8 ВКП данных нет (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.643381,55.855666,0.000000 37.641492,55.856335,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-06-03</name>
+      <description>Мосгортелесеть (кабель белый) ОК-8 Бескудниковский б-р д.56 к.1 п/миля</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.546923,55.872962,0.000000 37.546783,55.873630,0.000000 37.547024,55.873630,0.000000 37.546982,55.873844,0.000000 37.543698,55.873633,0.000000 37.539825,55.873381,0.000000 37.538152,55.873339,0.000000 37.536617,55.873600,0.000000 37.536811,55.873630,0.000000 37.536875,55.873700,0.000000 37.536768,55.873718,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-06-03</name>
+      <description>Мосгортелесеть (кабель белый) ОК-8 Бескудниковский пр д,4 к.1 п/миля</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.546923,55.872962,0.000000 37.546939,55.873083,0.000000 37.546826,55.873603,0.000000 37.547062,55.873612,0.000000 37.547046,55.873859,0.000000 37.548215,55.873892,0.000000 37.548092,55.874738,0.000000 37.548130,55.874961,0.000000 37.549084,55.875228,0.000000 37.549455,55.875237,0.000000 37.550565,55.875526,0.000000 37.550715,55.875704,0.000000 37.550946,55.875734,0.000000 37.552850,55.876143,0.000000 37.552780,55.876210,0.000000 37.553183,55.876312,0.000000 37.553435,55.875966,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-06-13</name>
+      <description>ОК-64                                                                            ДОЛ-Н-64У(8*8)-2,7кН                                              420м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.402041,55.716442,0.000000 37.407840,55.717521,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-06-14
+</name>
+      <description>ОК-96                                                                            ИНКАБ-ДПО-Н-96у(6х16)                                         1040 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.402041,55.716442,0.000000 37.401594,55.718959,0.000000 37.401701,55.718893,0.000000 37.401401,55.718887,0.000000 37.401487,55.718506,0.000000 37.400038,55.718446,0.000000 37.399427,55.718355,0.000000 37.398064,55.717956,0.000000 37.397678,55.718107,0.000000 37.396895,55.717823,0.000000 37.396916,55.717726,0.000000 37.395897,55.717303,0.000000 37.396712,55.716590,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-07-15
+</name>
+      <description>ОК-32                                                                            ОКСТМн-10-01-0,22-32(2,7)                                      L-520,0 м   (Инфокос)                                               </description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.842000,55.739759,0.000000 37.842241,55.739855,0.000000 37.842329,55.740550,0.000000 37.844095,55.742058,0.000000 37.846066,55.743203,0.000000 37.847231,55.743521,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-09</name>
+      <description>ОК-8                                                                               ОТД-2х4А-2,7кН                                                            L -614,0 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.854810,55.651499,0.000000 37.853737,55.651911,0.000000 37.852138,55.651687,0.000000 37.848705,55.650283,0.000000 37.848308,55.650452,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-09</name>
+      <description>ОК-8                                                                               ОТД-2х4А-2,7кН                                                           L -924,0 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.840680,55.643587,0.000000 37.840487,55.642872,0.000000 37.840347,55.642854,0.000000 37.839199,55.640141,0.000000 37.839296,55.639566,0.000000 37.840551,55.639494,0.000000 37.841356,55.639070,0.000000 37.841495,55.638815,0.000000 37.841366,55.636908,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19-10-09</name>
+      <description>ОК-8                                                                               ОТД-2х4А-2,7кН                                                            L -340,0 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.841366,55.636908,0.000000 37.841538,55.636563,0.000000 37.843072,55.635424,0.000000 37.844209,55.635921,0.000000 37.844053,55.635946,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>20-03-13</name>
+      <description>ОК-32                                                                             ИКСЛ-М4П-А32-2,7кН                                                L -300,0 м (Инфокос)</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.879789,55.744057,0.000000 37.880158,55.743902,0.000000 37.880487,55.743634,0.000000 37.878752,55.742377,0.000000 37.878830,55.742324,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>21-01-04</name>
+      <description>ОК-64                                                                              L - 415,0 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-B29189-2356</styleUrl>
+      <LineString>
+        <coordinates>37.471361,55.656085,0.000000 37.471298,55.656073,0.000000 37.470507,55.652981,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

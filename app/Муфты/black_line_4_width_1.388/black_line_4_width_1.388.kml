@@ -1,0 +1,65 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_4_width_1.388</name>
+    <description>Муфты</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-1388-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.388</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1388-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2.082</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1388-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.388</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1388-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2.082</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1388">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1388-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1388-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-000000-1388-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1388-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1388-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>новая линия для стыковки пфр наша сеть</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-1388-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.485138,55.689399,0.000000 37.485299,55.689481,0.000000 37.485065,55.689614,0.000000 37.487656,55.691027,0.000000 37.487583,55.691048,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

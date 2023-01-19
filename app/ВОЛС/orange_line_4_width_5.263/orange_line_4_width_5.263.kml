@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>orange_line_4_width_5.263</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-F8971B-5263-normal">
+      <LineStyle>
+        <color>ff1b97f8</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F8971B-5263-highlight">
+      <LineStyle>
+        <color>ff1b97f8</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F8971B-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F8971B-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F8971B-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Демонтаж Комкор</name>
+      <description>ОК-8&lt;br&gt;2654м&lt;br&gt;коллектор</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-F8971B-5263</styleUrl>
+      <LineString>
+        <coordinates>37.492601,55.697283,0.000000 37.495015,55.696049,0.000000 37.499500,55.698549,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

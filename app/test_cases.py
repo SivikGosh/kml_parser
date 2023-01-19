@@ -29,3 +29,13 @@ for i in all_styles:
 #             j.write('\n')
 
 print(len(array_set))
+
+# # # ширина стилей # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+all_style_obj = soup.find_all('Style')
+widths = []
+for i in all_style_obj:
+    if 'line' in i['id']:
+        widths.append(i.find('width').text)
+
+print(widths)

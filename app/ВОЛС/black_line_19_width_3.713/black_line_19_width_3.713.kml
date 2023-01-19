@@ -1,0 +1,38 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_19_width_3.713</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-3713-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3.713</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-3713-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>5.5695</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-3713">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-3713-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-3713-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>22-05-03. Павелецкая пл-дь, д. 2, с. 3 - Гиляровского ул., д. 4, с. 5</name>
+      <description>Трасса белая, ВО не пройден.</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <coordinates>37.641399,55.775230,0.000000 37.640457,55.774510,0.000000 37.640076,55.774144,0.000000 37.639883,55.773894,0.000000 37.640580,55.773686,0.000000 37.642034,55.773107,0.000000 37.641922,55.773025,0.000000 37.642335,55.772823,0.000000 37.643526,55.772081,0.000000 37.642614,55.771550,0.000000 37.643134,55.771414,0.000000 37.642120,55.770593,0.000000 37.641251,55.770104,0.000000 37.639878,55.769338,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

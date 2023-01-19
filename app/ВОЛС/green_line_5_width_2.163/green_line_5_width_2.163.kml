@@ -1,0 +1,45 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>green_line_5_width_2.163</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-7CCFA9-2163-nodesc-normal">
+      <LineStyle>
+        <color>ffa9cf7c</color>
+        <width>2.163</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-7CCFA9-2163-nodesc-highlight">
+      <LineStyle>
+        <color>ffa9cf7c</color>
+        <width>3.2445</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-7CCFA9-2163-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-7CCFA9-2163-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-7CCFA9-2163-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ВКП
+ по столбам
+</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-7CCFA9-2163-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.080950,55.550365,0.000000 37.081668,55.550010,0.000000 37.081658,55.549712,0.000000 37.082119,55.549190,0.000000 37.081888,55.549072,0.000000 37.082189,55.548914,0.000000 37.080569,55.547964,0.000000 37.080343,55.547989,0.000000 37.079914,55.547749,0.000000 37.079029,55.547321,0.000000 37.078144,55.546954,0.000000 37.076251,55.546158,0.000000 37.073944,55.545169,0.000000 37.073311,55.545649,0.000000 37.072393,55.545327,0.000000 37.072533,55.544884,0.000000 37.072824,55.544603,0.000000 37.072458,55.544863,0.000000 37.072329,55.545297,0.000000 37.071487,55.544972,0.000000 37.070317,55.544556,0.000000 37.069658,55.544301,0.000000 37.068290,55.543788,0.000000 37.067614,55.543600,0.000000 37.066450,55.543488,0.000000 37.066809,55.542204,0.000000 37.066933,55.541724,0.000000 37.067013,55.541336,0.000000 37.067099,55.540817,0.000000 37.067206,55.539873,0.000000 37.067308,55.538865,0.000000 37.067142,55.538874,0.000000 37.067383,55.537281,0.000000 37.067421,55.536941,0.000000 37.067184,55.536802,0.000000 37.067152,55.536646,0.000000 37.067126,55.536628,0.000000 37.067152,55.536646,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_16_width_3.145</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-3145-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3.145</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-3145-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.7175</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-3145">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-3145-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-3145-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>вынос сети ок 64 09.06.2022</name>
+      <description>&lt;img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/pqkjk881id2as15kbc2l8h92eo/fa7jegvlh9elbs4nhir0i368g8/1673854325000/FbB9bBXSolslE3bMVbGlJkDEGdDnLqk5/01729276404753534827/5AKgB-9nShwhGC3pkhC0W1UoB92_rHFIWhExm2WpP7M0vLWFFQQU6zgYW4ssPqVtFpVMtUcXRVCRgxH1f6nOoG52hdw25bLo_jYwZ3V-2kZuPqR5lhLbFPN1Fo0bQ3KDMS1FROhBXvjFpLe2VqpDBbjkT912ZbFmKTFIe37GF1bC9L8XGRunnZnWNIpl170B4Q8V1uD4?session=0&amp;fife" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-3145</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <coordinates>37.571809,55.791208,0.000000 37.571900,55.791214,0.000000 37.571897,55.791243,0.000000 37.572895,55.791282,0.000000 37.572903,55.791255,0.000000 37.572975,55.791259,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

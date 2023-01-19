@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>black_line_27_width_5.263</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-000000-5263-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>5.263</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-5263-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>7.8945</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-5263">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-5263-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-5263-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>11-12. 
+ТК126 - Каширское ш.80</name>
+      <description>Трасса белая, ИД МГТС нет. ОК16</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-000000-5263</styleUrl>
+      <LineString>
+        <coordinates>37.712894,55.618485,0.000000 37.712865,55.618494,0.000000 37.712384,55.619539,0.000000 37.711730,55.620981,0.000000 37.710657,55.623235,0.000000 37.709691,55.625294,0.000000 37.709220,55.626469,0.000000 37.705700,55.625888,0.000000 37.705872,55.625391,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

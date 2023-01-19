@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>orange_line_3_width_3.325</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-F8971B-3325-nodesc-normal">
+      <LineStyle>
+        <color>ff1b97f8</color>
+        <width>3.325</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-F8971B-3325-nodesc-highlight">
+      <LineStyle>
+        <color>ff1b97f8</color>
+        <width>4.9875</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-F8971B-3325-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F8971B-3325-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F8971B-3325-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>на участке тк 137 -тк 133 используем кабель сбербанка демонтаж</name>
+      <visibility>1</visibility>
+      <styleUrl>#line-F8971B-3325-nodesc</styleUrl>
+      <LineString>
+        <coordinates>37.465479,55.785376,0.000000 37.464535,55.785809,0.000000 37.466215,55.788952,0.000000 37.468274,55.788665,0.000000 37.468806,55.789540,0.000000 37.467416,55.789935,0.000000 37.467292,55.789848,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,66 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>brown_line_1_width_1.2</name>
+    <description>Воздушки</description>
+    <visibility>1</visibility>
+    <Style id="line-795046-1200-normal">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-795046-1200-highlight">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-795046-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-795046-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff465079</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-795046-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-795046-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-795046-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-795046-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-795046-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-795046-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>19-07-13</name>
+      <description>ОК-8                                                                                50,0 м</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-795046-1200</styleUrl>
+      <LineString>
+        <coordinates>37.509236,55.878381,0.000000 37.509538,55.878272,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

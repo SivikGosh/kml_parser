@@ -1,0 +1,39 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>red_line_6_width_3.906</name>
+    <description>ВОЛС</description>
+    <visibility>1</visibility>
+    <Style id="line-DB4436-3906-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>3.906</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-DB4436-3906-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>5.859</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-DB4436-3906">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-DB4436-3906-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-DB4436-3906-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ООО Бородино-Телеком
+</name>
+      <description>кол-рра Илльинка, Зарядье, Разинский</description>
+      <visibility>1</visibility>
+      <styleUrl>#line-DB4436-3906</styleUrl>
+      <LineString>
+        <coordinates>37.627697,55.755598,0.000000 37.625763,55.754931,0.000000 37.625152,55.754668,0.000000 37.623709,55.754185,0.000000 37.622507,55.753627,0.000000 37.622582,55.753457,0.000000 37.623762,55.752609,0.000000 37.624116,55.752144,0.000000 37.624567,55.752286,0.000000 37.624658,55.752081,0.000000 37.624481,55.752011,0.000000 37.624605,55.750426,0.000000 37.624009,55.750426,0.000000 37.624106,55.749753,0.000000</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
