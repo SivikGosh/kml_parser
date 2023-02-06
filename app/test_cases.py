@@ -1,5 +1,7 @@
 import re
+import wsgiref.validate
 
+import requests
 from souping_file import soup
 
 # # # забираем список уникальных стилей объектов # # # # # # # # # # # # # # #
@@ -28,7 +30,7 @@ for i in all_styles:
 #             j.write("': '',")
 #             j.write('\n')
 
-print(len(array_set))
+# print(len(array_set))
 
 # # # ширина стилей # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
@@ -38,4 +40,4 @@ for i in all_style_obj:
     if 'line' in i['id']:
         widths.append(i.find('width').text)
 
-print(widths)
+# print(widths)

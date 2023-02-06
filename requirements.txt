@@ -1,7 +1,7 @@
 fastkml==1.0a3
 flake8==6.0.0
-beautifulsoup4==4.11.1
+beautifulsoup4==4.11.2
 lxml==4.9.2
-requests==2.28.1
+requests==2.28.2
 progress==1.6
 pygeoif~=1.0.0
