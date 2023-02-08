@@ -2,19 +2,17 @@ import os
 import re
 import shutil
 from datetime import datetime
-# import requests
-# from time import sleep
 
 from fastkml import data, kml, styles
 from fastkml.geometry import Geometry
-from souping_file import base_dir, soup
 from legend import legend
 from progress.bar import PixelBar
 from pygeoif import LineString, Point
+from souping_file import base_dir, soup
 
 
 def get_placemark_styles(folder_object):
-    """получаем список уникальных стилей объектов папки"""
+    """список уникальных стилей объектов папки"""
     style_list = set()
     all_placemarks = folder_object.find_all('Placemark')
     for placemark_object in all_placemarks:
@@ -93,8 +91,8 @@ def add_style_maps(soup, placemark_style):
     for style_map in all_style_maps:
         if placemark_style in style_map['id']:
             style_map_object = styles.StyleMap()
-            styl_map_url_n = style_map.find('key', text='normal').parent
-            style_map_url_h = style_map.find('key', text='highlight').parent
+            styl_map_url_n = style_map.find('key', string='normal').parent
+            style_map_url_h = style_map.find('key', string='highlight').parent
             style_map_object.id = style_map['id']
             style_map_object.normal = (
                 styles.StyleUrl(url=styl_map_url_n.find('styleUrl').text))
@@ -123,6 +121,7 @@ def get_line_string_coordinates(line_string):
 def add_placemarks(folder, placemark_style):
     """"""
     placemark_list = []
+    photos = []
     all_placemarks = folder.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
@@ -134,17 +133,17 @@ def add_placemarks(folder, placemark_style):
                     placemark.find('description').text)
             if placemark.find('ExtendedData'):
                 ext_data_kid = data.Data(name=placemark.find('Data')['name'])
-                # try:
-                #     ext_data_kid.value = (
-                #         re.search(
-                #             'https:(.)+fife',
-                #             placemark.find('ExtendedData')
-                #             .find('Data').find('value').text
-                #         ).group(0)
-                #     )
-                #     photos.append(ext_data_kid.value)
-                # except Exception:
-                #     print('No photo')
+                try:
+                    ext_data_kid.value = (
+                        re.search(
+                            'https:(.)+fife',
+                            placemark.find('ExtendedData')
+                            .find('Data').find('value').text
+                        ).group(0)
+                    )
+                    photos.append({placemark.find('name').text: ext_data_kid.value})
+                except Exception:
+                    pass
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
                 placemark_object.extended_data = ext_data
             if placemark.find('Point'):
@@ -161,7 +160,7 @@ def add_placemarks(folder, placemark_style):
                 geometry_line_object = Geometry(geometry=line_object)
                 placemark_object.geometry = geometry_line_object
             placemark_list.append(placemark_object)
-    return placemark_list
+    return placemark_list, photos
 
 
 def get_line_width(soup, place_style):
@@ -185,7 +184,6 @@ if __name__ == '__main__':
             os.mkdir(folder_name)
 
         placemark_styles = get_placemark_styles(folder)
-        obj_bar = PixelBar('Обработано объектов', max=len(placemark_styles))
 
         os.chdir(folder_name)
         for style in placemark_styles:
@@ -204,7 +202,7 @@ if __name__ == '__main__':
             document = kml.Document(styles=[*st_obj, *st_map_obj])
             document.name = file_name
             document.description = folder.find('name').text
-            placemarks = add_placemarks(folder, style)
+            placemarks, photos = add_placemarks(folder, style)
             for placemark in placemarks:
                 document.append(placemark)
                 placemark_count += 1
@@ -217,11 +215,23 @@ if __name__ == '__main__':
             if 'icon' in style:
                 shutil.copy(f'{base_dir}/pictograms/{style}.png',
                             f'{file_name}.png')
+
+            if len(photos) > 0:
+                for i in photos:
+                    for key, value in i.items():
+                        key = key.replace('\n', '')
+                        key = key.replace('/', '')
+                        key = key.replace('?', '')
+                        key = key.replace('\"', '')
+                        value = re.sub('https', ' https', value)
+                        value = value.split(' ')
+                        for i in value:
+                            with open(f'{key}.txt', 'a+', encoding='utf-8') as file:
+                                file.write(f'{i}\n')
+                                file.close()
             os.chdir('../')
-            obj_bar.next()
             # sleep(1)
         os.chdir(base_dir)
-        obj_bar.finish()
         bar.next()
     bar.finish()
     print('Время выполнения', datetime.now() - start_time)
