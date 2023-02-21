@@ -226,7 +226,7 @@ if __name__ == '__main__':
                         value = re.sub('https', ' https', value)
                         value = value.split(' ')
                         for i in value:
-                            with open(f'{key}.txt', 'a+', encoding='utf-8') as file:
+                            with open(f'{key}.txt', 'a', encoding='utf-8') as file:
                                 file.write(f'{i}\n')
                                 file.close()
             os.chdir('../')
