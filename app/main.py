@@ -108,6 +108,11 @@ def get_point_coordinates(point):
     return tuple(coordinates)
 
 
+# all_points = soup.find_all('Point')
+# for point in all_points:
+#     print(type(get_point_coordinates(point.find('coordinates').text)))
+
+
 def get_line_string_coordinates(line_string):
     """"""
     output_list = []
@@ -115,6 +120,9 @@ def get_line_string_coordinates(line_string):
     for string in line_string_list:
         string = string.replace(' ', '').split(',')
         output_list.append(tuple(float(i) for i in string))
+    if len(output_list) < 2:
+        snd = [output_list[0][0], output_list[0][1], output_list[0][-1]+1]
+        output_list.append(tuple(snd))
     return tuple(output_list)
 
 
@@ -141,7 +149,9 @@ def add_placemarks(folder, placemark_style):
                             .find('Data').find('value').text
                         ).group(0)
                     )
-                    photos.append({placemark.find('name').text: ext_data_kid.value})
+                    photos.append(
+                        {placemark.find('name').text: ext_data_kid.value}
+                    )
                 except Exception:
                     pass
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
@@ -226,7 +236,9 @@ if __name__ == '__main__':
                         value = re.sub('https', ' https', value)
                         value = value.split(' ')
                         for i in value:
-                            with open(f'{key}.txt', 'a', encoding='utf-8') as file:
+                            with open(
+                                f'{key}.txt', 'a', encoding='utf-8'
+                            ) as file:
                                 file.write(f'{i}\n')
                                 file.close()
             os.chdir('../')
