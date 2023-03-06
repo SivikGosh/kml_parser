@@ -3,28 +3,16 @@ import re
 import shutil
 from datetime import datetime
 
+import requests
 from fastkml import data, kml, styles
 from fastkml.geometry import Geometry
 from legend import legend
-from progress.bar import PixelBar
 from pygeoif import LineString, Point
 from souping_file import base_dir, soup
+from styles import unique_styles
 
 
-def get_placemark_styles(folder_object):
-    """список уникальных стилей объектов папки"""
-    style_list = set()
-    all_placemarks = folder_object.find_all('Placemark')
-    for placemark_object in all_placemarks:
-        style_url = placemark_object.find('styleUrl').text
-        reg_line = 'line-[0-9A-F]{6}-[0-9]{4}'
-        reg_icon = 'icon-[0-9]{3}-[0-9A-F]{6}|icon-[0-9]{4}'
-        reg = f'({reg_line}|{reg_icon})'
-        style_list.add(re.search(reg, style_url).group(0))
-    return list(style_list)
-
-
-def create_icon_style(folder, style, directory):
+def create_icon_style(style, directory):
     """"""
     icon_id = style.attrs['id']
     icon_name = re.search(
@@ -61,7 +49,7 @@ def create_balloon_style(style):
     return balloon_style
 
 
-def add_styles(soup, placemark_style, directory, folder):
+def add_styles(soup, placemark_style, directory):
     """"""
     style_list = []
     all_styles = soup.find_all('Style')
@@ -69,7 +57,7 @@ def add_styles(soup, placemark_style, directory, folder):
         if placemark_style in style['id']:
             style_obj = styles.Style(id=style['id'])
             if style.find('IconStyle'):
-                icon_style = create_icon_style(folder, style, directory)
+                icon_style = create_icon_style(style, directory)
                 style_obj.append_style(icon_style)
             if style.find('LabelStyle'):
                 label_style = create_label_style(style)
@@ -108,11 +96,6 @@ def get_point_coordinates(point):
     return tuple(coordinates)
 
 
-# all_points = soup.find_all('Point')
-# for point in all_points:
-#     print(type(get_point_coordinates(point.find('coordinates').text)))
-
-
 def get_line_string_coordinates(line_string):
     """"""
     output_list = []
@@ -126,11 +109,11 @@ def get_line_string_coordinates(line_string):
     return tuple(output_list)
 
 
-def add_placemarks(folder, placemark_style):
+def add_placemarks(soup, placemark_style):
     """"""
     placemark_list = []
     photos = []
-    all_placemarks = folder.find_all('Placemark')
+    all_placemarks = soup.find_all('Placemark')
     for placemark in all_placemarks:
         placemark_style_url = placemark.find('styleUrl').text
         if f'#{placemark_style}' in placemark_style_url:
@@ -149,9 +132,7 @@ def add_placemarks(folder, placemark_style):
                             .find('Data').find('value').text
                         ).group(0)
                     )
-                    photos.append(
-                        {placemark.find('name').text: ext_data_kid.value}
-                    )
+                    photos.append(ext_data_kid.value)
                 except Exception:
                     pass
                 ext_data = data.ExtendedData(elements=[ext_data_kid])
@@ -184,67 +165,58 @@ if __name__ == '__main__':
     start_time = datetime.now()
     placemark_count = 0
 
-    all_folders = soup.find_all('Folder')
-    bar = PixelBar('Обработано папок', max=len(all_folders))
-
     os.chdir(base_dir)
-    for folder in all_folders:
-        folder_name = folder.find('name').text
-        if not os.path.isdir(folder_name):
-            os.mkdir(folder_name)
+    folder = soup.find('name').text
+    if not os.path.isdir(folder):
+        os.mkdir(folder)
 
-        placemark_styles = get_placemark_styles(folder)
+    os.chdir(folder)
+    for style in unique_styles:
+        w = get_line_width(soup, style)
 
-        os.chdir(folder_name)
-        for style in placemark_styles:
-            w = get_line_width(soup, style)
-            if 'line' in style:
-                file_name = f'{legend[style]}_width_{w}'
-            else:
-                file_name = legend[style]
-            if not os.path.isdir(file_name):
-                os.mkdir(file_name)
+        if 'line' in style:
+            file_name = f'{legend[style]}_width_{w}'
+        else:
+            file_name = legend[style]
 
-            os.chdir(file_name)
-            kml_object = kml.KML()
-            st_obj = add_styles(soup, style, base_dir, folder)
-            st_map_obj = add_style_maps(soup, style)
-            document = kml.Document(styles=[*st_obj, *st_map_obj])
-            document.name = file_name
-            document.description = folder.find('name').text
-            placemarks, photos = add_placemarks(folder, style)
-            for placemark in placemarks:
-                document.append(placemark)
-                placemark_count += 1
-            kml_object.append(document)
+        if not os.path.isdir(file_name):
+            os.mkdir(file_name)
+        os.chdir(file_name)
 
-            kml_file = open(f'{file_name}.kml', 'wb')
-            kml_file.write(kml_object.to_string(prettyprint=True).encode())
-            kml_file.close()
+        kml_object = kml.KML()
+        st_obj = add_styles(soup, style, base_dir)
+        st_map_obj = add_style_maps(soup, style)
+        document = kml.Document(styles=[*st_obj, *st_map_obj])
+        document.name = file_name
+        document.description = folder
+        placemarks, photos = add_placemarks(soup, style)
+        for placemark in placemarks:
+            document.append(placemark)
+            placemark_count += 1
+        kml_object.append(document)
 
-            if 'icon' in style:
-                shutil.copy(f'{base_dir}/pictograms/{style}.png',
-                            f'{file_name}.png')
+        kml_file = open(f'{file_name}.kml', 'wb')
+        kml_file.write(kml_object.to_string(prettyprint=True).encode())
+        kml_file.close()
 
-            if len(photos) > 0:
-                for i in photos:
-                    for key, value in i.items():
-                        key = key.replace('\n', '')
-                        key = key.replace('/', '')
-                        key = key.replace('?', '')
-                        key = key.replace('\"', '')
-                        value = re.sub('https', ' https', value)
-                        value = value.split(' ')
-                        for i in value:
-                            with open(
-                                f'{key}.txt', 'a', encoding='utf-8'
-                            ) as file:
-                                file.write(f'{i}\n')
-                                file.close()
+        if 'icon' in style:
+            shutil.copy(f'{base_dir}/pictograms/{style}.png',
+                        f'{file_name}.png')
+
+        if len(photos) > 0:
+            if not os.path.isdir('photo'):
+                os.mkdir('photo')
+            os.chdir('photo')
+            for i in photos:
+                response = requests.get(i)
+                print(response.status_code)
+                out = open(f'{file_name}.png', 'wb')
+                out.write(response.content)
+                out.close()
             os.chdir('../')
-            # sleep(1)
-        os.chdir(base_dir)
-        bar.next()
-    bar.finish()
-    print('Время выполнения', datetime.now() - start_time)
+
+        os.chdir('../')
+    os.chdir(base_dir)
+
     assert placemark_count == len(soup.find_all('Placemark'))
+    print('Время выполнения', datetime.now() - start_time)
